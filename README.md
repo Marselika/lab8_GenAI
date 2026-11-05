@@ -4,9 +4,6 @@ Proiect de laborator: un agent care primește **destinația, perioada și bugetu
 
 **Autor:** Iatco Marcel
 
-> [!WARNING]
-> **Toate datele sunt FICTIVE.** Zborurile, hotelurile, companiile aeriene și costurile sunt generate local, în fișiere CSV/JSON, doar pentru demonstrație. Nu sunt prețuri reale, nu sunt oferte actuale și nu pot fi rezervate. Agentul **nu** accesează Skyscanner, Booking.com sau alte site-uri și **nu** face scraping.
-
 ---
 
 ## Cuprins
