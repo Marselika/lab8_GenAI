@@ -1,0 +1,423 @@
+{
+  "nota": "Date FICTIVE pentru laborator - nu sunt prețuri reale, oferte actuale sau rezervări. Obiectivele sunt reale, costurile sunt estimări demo.",
+  "currency": "EUR",
+  "cities": {
+    "București": {
+      "local_transport_per_day_eur": 5,
+      "meals_per_day_eur": 25,
+      "attractions": [
+        {
+          "name": "Palatul Parlamentului",
+          "description": "Tur ghidat al uneia dintre cele mai mari clădiri administrative din lume.",
+          "category": "arhitectură",
+          "estimated_cost_eur": 15,
+          "duration_hours": 2,
+          "priority": 1
+        },
+        {
+          "name": "Centrul Vechi (Lipscani)",
+          "description": "Plimbare pe străzile istorice, Hanul lui Manuc, Cărturești Carusel.",
+          "category": "plimbare",
+          "estimated_cost_eur": 0,
+          "duration_hours": 2,
+          "priority": 1
+        },
+        {
+          "name": "Muzeul Național al Satului",
+          "description": "Muzeu în aer liber cu gospodării tradiționale din toată țara.",
+          "category": "muzeu",
+          "estimated_cost_eur": 10,
+          "duration_hours": 2,
+          "priority": 1
+        },
+        {
+          "name": "Ateneul Român",
+          "description": "Sala de concerte emblematică a orașului.",
+          "category": "cultură",
+          "estimated_cost_eur": 10,
+          "duration_hours": 1.5,
+          "priority": 2
+        },
+        {
+          "name": "Parcul Herăstrău (Regele Mihai I)",
+          "description": "Cel mai mare parc al orașului, în jurul lacului.",
+          "category": "natură",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1.5,
+          "priority": 2
+        },
+        {
+          "name": "Muzeul Național de Artă",
+          "description": "Galerii de artă românească și europeană în fostul Palat Regal.",
+          "category": "muzeu",
+          "estimated_cost_eur": 10,
+          "duration_hours": 2,
+          "priority": 3
+        }
+      ],
+      "country": "România"
+    },
+    "Cluj-Napoca": {
+      "local_transport_per_day_eur": 4,
+      "meals_per_day_eur": 22,
+      "attractions": [
+        {
+          "name": "Piața Unirii și Biserica Sf. Mihail",
+          "description": "Centrul istoric și biserica gotică.",
+          "category": "arhitectură",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1,
+          "priority": 1
+        },
+        {
+          "name": "Grădina Botanică",
+          "description": "Grădina botanică universitară, cu sere și grădina japoneză.",
+          "category": "natură",
+          "estimated_cost_eur": 5,
+          "duration_hours": 2,
+          "priority": 1
+        },
+        {
+          "name": "Salina Turda (excursie)",
+          "description": "Salină amenajată pentru vizitare, la ~30 km de oraș.",
+          "category": "excursie",
+          "estimated_cost_eur": 15,
+          "duration_hours": 4,
+          "priority": 1
+        },
+        {
+          "name": "Dealul Cetățuia",
+          "description": "Punct panoramic deasupra orașului.",
+          "category": "plimbare",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1,
+          "priority": 2
+        },
+        {
+          "name": "Muzeul Etnografic al Transilvaniei",
+          "description": "Colecții de port popular și obiecte tradiționale.",
+          "category": "muzeu",
+          "estimated_cost_eur": 5,
+          "duration_hours": 1.5,
+          "priority": 2
+        },
+        {
+          "name": "Parcul Central",
+          "description": "Parc istoric cu lacul Chios și Casino.",
+          "category": "natură",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1,
+          "priority": 3
+        }
+      ],
+      "country": "România"
+    },
+    "Roma": {
+      "local_transport_per_day_eur": 9,
+      "meals_per_day_eur": 40,
+      "attractions": [
+        {
+          "name": "Colosseum și Forul Roman",
+          "description": "Amfiteatrul antic și ruinele centrului Romei antice.",
+          "category": "istorie",
+          "estimated_cost_eur": 18,
+          "duration_hours": 3,
+          "priority": 1
+        },
+        {
+          "name": "Muzeele Vaticanului și Capela Sixtină",
+          "description": "Colecții papale și frescele lui Michelangelo.",
+          "category": "muzeu",
+          "estimated_cost_eur": 22,
+          "duration_hours": 3.5,
+          "priority": 1
+        },
+        {
+          "name": "Fontana di Trevi",
+          "description": "Cea mai cunoscută fântână barocă din Roma.",
+          "category": "arhitectură",
+          "estimated_cost_eur": 0,
+          "duration_hours": 0.5,
+          "priority": 1
+        },
+        {
+          "name": "Pantheon",
+          "description": "Templu antic cu cupola celebră.",
+          "category": "istorie",
+          "estimated_cost_eur": 5,
+          "duration_hours": 1,
+          "priority": 1
+        },
+        {
+          "name": "Piazza Navona și Campo de' Fiori",
+          "description": "Piețe istorice și piață tradițională.",
+          "category": "plimbare",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1.5,
+          "priority": 2
+        },
+        {
+          "name": "Trastevere",
+          "description": "Cartier pitoresc, potrivit pentru seară.",
+          "category": "plimbare",
+          "estimated_cost_eur": 0,
+          "duration_hours": 2,
+          "priority": 2
+        },
+        {
+          "name": "Galleria Borghese",
+          "description": "Sculpturi de Bernini și pictură renascentistă.",
+          "category": "muzeu",
+          "estimated_cost_eur": 15,
+          "duration_hours": 2,
+          "priority": 3
+        }
+      ],
+      "country": "Italia"
+    },
+    "Paris": {
+      "local_transport_per_day_eur": 10,
+      "meals_per_day_eur": 45,
+      "attractions": [
+        {
+          "name": "Turnul Eiffel",
+          "description": "Urcare pe simbolul Parisului.",
+          "category": "arhitectură",
+          "estimated_cost_eur": 30,
+          "duration_hours": 2.5,
+          "priority": 1
+        },
+        {
+          "name": "Muzeul Luvru",
+          "description": "Unul dintre cele mai mari muzee de artă din lume.",
+          "category": "muzeu",
+          "estimated_cost_eur": 22,
+          "duration_hours": 3.5,
+          "priority": 1
+        },
+        {
+          "name": "Catedrala Notre-Dame",
+          "description": "Catedrala gotică de pe Île de la Cité.",
+          "category": "arhitectură",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1,
+          "priority": 1
+        },
+        {
+          "name": "Montmartre și Sacré-Cœur",
+          "description": "Cartierul artiștilor și bazilica de pe deal.",
+          "category": "plimbare",
+          "estimated_cost_eur": 0,
+          "duration_hours": 2,
+          "priority": 1
+        },
+        {
+          "name": "Musée d'Orsay",
+          "description": "Artă impresionistă într-o fostă gară.",
+          "category": "muzeu",
+          "estimated_cost_eur": 16,
+          "duration_hours": 2.5,
+          "priority": 2
+        },
+        {
+          "name": "Croazieră pe Sena",
+          "description": "Tur cu vaporașul pe lângă monumentele principale.",
+          "category": "plimbare",
+          "estimated_cost_eur": 17,
+          "duration_hours": 1,
+          "priority": 2
+        },
+        {
+          "name": "Palatul Versailles (excursie)",
+          "description": "Reședința regală din afara Parisului.",
+          "category": "excursie",
+          "estimated_cost_eur": 21,
+          "duration_hours": 5,
+          "priority": 3
+        }
+      ],
+      "country": "Franța"
+    },
+    "Barcelona": {
+      "local_transport_per_day_eur": 9,
+      "meals_per_day_eur": 38,
+      "attractions": [
+        {
+          "name": "Sagrada Família",
+          "description": "Bazilica neterminată proiectată de Gaudí.",
+          "category": "arhitectură",
+          "estimated_cost_eur": 26,
+          "duration_hours": 2,
+          "priority": 1
+        },
+        {
+          "name": "Park Güell",
+          "description": "Parc cu mozaicuri și clădiri de Gaudí.",
+          "category": "natură",
+          "estimated_cost_eur": 18,
+          "duration_hours": 1.5,
+          "priority": 1
+        },
+        {
+          "name": "Cartierul Gotic",
+          "description": "Străduțe medievale și Catedrala Barcelonei.",
+          "category": "plimbare",
+          "estimated_cost_eur": 0,
+          "duration_hours": 2,
+          "priority": 1
+        },
+        {
+          "name": "La Rambla și piața La Boqueria",
+          "description": "Bulevardul pietonal și piața de alimente.",
+          "category": "plimbare",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1.5,
+          "priority": 2
+        },
+        {
+          "name": "Casa Batlló",
+          "description": "Clădire modernistă de Gaudí pe Passeig de Gràcia.",
+          "category": "arhitectură",
+          "estimated_cost_eur": 35,
+          "duration_hours": 1.5,
+          "priority": 2
+        },
+        {
+          "name": "Montjuïc",
+          "description": "Deal cu castel, grădini și panoramă.",
+          "category": "natură",
+          "estimated_cost_eur": 9,
+          "duration_hours": 2.5,
+          "priority": 3
+        },
+        {
+          "name": "Plaja Barceloneta",
+          "description": "Plimbare pe faleză.",
+          "category": "natură",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1.5,
+          "priority": 3
+        }
+      ],
+      "country": "Spania"
+    },
+    "Viena": {
+      "local_transport_per_day_eur": 8,
+      "meals_per_day_eur": 38,
+      "attractions": [
+        {
+          "name": "Palatul Schönbrunn",
+          "description": "Reședința de vară a Habsburgilor și grădinile sale.",
+          "category": "istorie",
+          "estimated_cost_eur": 24,
+          "duration_hours": 3,
+          "priority": 1
+        },
+        {
+          "name": "Catedrala Sf. Ștefan",
+          "description": "Catedrala gotică din centrul Vienei.",
+          "category": "arhitectură",
+          "estimated_cost_eur": 6,
+          "duration_hours": 1,
+          "priority": 1
+        },
+        {
+          "name": "Hofburg și Muzeul Sisi",
+          "description": "Palatul imperial și apartamentele imperiale.",
+          "category": "istorie",
+          "estimated_cost_eur": 18,
+          "duration_hours": 2,
+          "priority": 1
+        },
+        {
+          "name": "Palatul Belvedere",
+          "description": "Galerie de artă austriacă, inclusiv Klimt.",
+          "category": "muzeu",
+          "estimated_cost_eur": 17,
+          "duration_hours": 2,
+          "priority": 2
+        },
+        {
+          "name": "Naschmarkt",
+          "description": "Cea mai cunoscută piață a Vienei.",
+          "category": "plimbare",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1,
+          "priority": 2
+        },
+        {
+          "name": "Prater și roata Riesenrad",
+          "description": "Parc de distracții cu roata istorică.",
+          "category": "divertisment",
+          "estimated_cost_eur": 14,
+          "duration_hours": 1.5,
+          "priority": 3
+        },
+        {
+          "name": "Opera de Stat (tur ghidat)",
+          "description": "Tur al clădirii operei.",
+          "category": "cultură",
+          "estimated_cost_eur": 13,
+          "duration_hours": 1,
+          "priority": 3
+        }
+      ],
+      "country": "Austria"
+    },
+    "Amsterdam": {
+      "local_transport_per_day_eur": 10,
+      "meals_per_day_eur": 45,
+      "attractions": [
+        {
+          "name": "Rijksmuseum",
+          "description": "Muzeul național olandez (Rembrandt, Vermeer).",
+          "category": "muzeu",
+          "estimated_cost_eur": 23,
+          "duration_hours": 3,
+          "priority": 1
+        },
+        {
+          "name": "Muzeul Van Gogh",
+          "description": "Cea mai mare colecție de lucrări Van Gogh.",
+          "category": "muzeu",
+          "estimated_cost_eur": 22,
+          "duration_hours": 2,
+          "priority": 1
+        },
+        {
+          "name": "Casa Anne Frank",
+          "description": "Muzeul din casa în care s-a ascuns familia Frank.",
+          "category": "istorie",
+          "estimated_cost_eur": 16,
+          "duration_hours": 1.5,
+          "priority": 1
+        },
+        {
+          "name": "Croazieră pe canale",
+          "description": "Tur cu barca pe canalele istorice.",
+          "category": "plimbare",
+          "estimated_cost_eur": 18,
+          "duration_hours": 1,
+          "priority": 2
+        },
+        {
+          "name": "Cartierul Jordaan",
+          "description": "Străzi liniștite, canale și galerii.",
+          "category": "plimbare",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1.5,
+          "priority": 2
+        },
+        {
+          "name": "Vondelpark",
+          "description": "Cel mai cunoscut parc al orașului.",
+          "category": "natură",
+          "estimated_cost_eur": 0,
+          "duration_hours": 1,
+          "priority": 3
+        }
+      ],
+      "country": "Țările de Jos"
+    }
+  }
+}

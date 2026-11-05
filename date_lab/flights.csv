@@ -1,0 +1,1365 @@
+flight_id,origin,origin_airport,destination,destination_airport,date,departure_time,arrival_time,duration_min,stops,airline,baggage_included,price_eur,seats_left
+FL00001,Amsterdam,AMS,București,OTP,2026-12-01,17:00,20:25,205,0,AeroDemo Low-Cost,False,137.87,7
+FL00002,Amsterdam,AMS,București,OTP,2026-12-01,19:15,22:40,205,0,Carpatia Demo Airlines,True,112.38,2
+FL00003,Barcelona,BCN,București,OTP,2026-12-01,06:15,10:00,225,0,Carpatia Demo Airlines,True,152.32,12
+FL00004,Barcelona,BCN,București,OTP,2026-12-01,21:30,02:30 (+1),300,1,Carpatia Demo Airlines,True,116.31,12
+FL00005,Barcelona,BCN,Paris,CDG,2026-12-01,08:30,10:15,105,0,EuroTest Express,False,55.73,1
+FL00006,Barcelona,BCN,Paris,CDG,2026-12-01,21:00,22:45,105,0,AeroDemo Low-Cost,False,60.7,7
+FL00007,București,OTP,Amsterdam,AMS,2026-12-01,06:30,11:55,325,1,SkyLab Air,True,144.26,1
+FL00008,București,OTP,Amsterdam,AMS,2026-12-01,19:30,22:55,205,0,AeroDemo Low-Cost,False,86.99,7
+FL00009,București,OTP,Barcelona,BCN,2026-12-01,09:15,13:00,225,0,EuroTest Express,False,97.45,4
+FL00010,București,OTP,Barcelona,BCN,2026-12-01,09:30,13:15,225,0,EuroTest Express,False,149.35,1
+FL00011,București,OTP,Paris,CDG,2026-12-01,15:00,19:50,290,1,Carpatia Demo Airlines,True,127.42,7
+FL00012,București,OTP,Paris,CDG,2026-12-01,19:00,22:20,200,0,AeroDemo Low-Cost,False,59.04,7
+FL00013,București,OTP,Roma,FCO,2026-12-01,06:00,08:15,135,0,AeroDemo Low-Cost,False,44.62,0
+FL00014,București,OTP,Roma,FCO,2026-12-01,11:15,14:45,210,1,AeroDemo Low-Cost,False,34.54,1
+FL00015,București,OTP,Viena,VIE,2026-12-01,08:15,12:05,230,1,SkyLab Air,True,67.17,7
+FL00016,București,OTP,Viena,VIE,2026-12-01,15:30,17:20,110,0,SkyLab Air,True,107.08,2
+FL00017,Cluj-Napoca,CLJ,Paris,CDG,2026-12-01,06:30,10:30,240,1,EuroTest Express,False,77.23,7
+FL00018,Cluj-Napoca,CLJ,Paris,CDG,2026-12-01,09:15,12:00,165,0,AeroDemo Low-Cost,False,50.46,0
+FL00019,Cluj-Napoca,CLJ,Roma,FCO,2026-12-01,17:15,20:45,210,1,EuroTest Express,False,53.45,12
+FL00020,Cluj-Napoca,CLJ,Roma,FCO,2026-12-01,21:00,00:15 (+1),195,1,EuroTest Express,False,62.59,1
+FL00021,Cluj-Napoca,CLJ,Viena,VIE,2026-12-01,11:45,13:10,85,0,EuroTest Express,False,68.66,1
+FL00022,Cluj-Napoca,CLJ,Viena,VIE,2026-12-01,13:00,15:40,160,1,AeroDemo Low-Cost,False,28.89,20
+FL00023,Paris,CDG,Barcelona,BCN,2026-12-01,07:15,10:30,195,1,EuroTest Express,False,37.91,4
+FL00024,Paris,CDG,Barcelona,BCN,2026-12-01,15:30,17:15,105,0,AeroDemo Low-Cost,False,43.89,9
+FL00025,Paris,CDG,București,OTP,2026-12-01,07:00,10:20,200,0,Carpatia Demo Airlines,True,88.56,7
+FL00026,Paris,CDG,București,OTP,2026-12-01,07:45,11:05,200,0,AeroDemo Low-Cost,False,88.71,9
+FL00027,Paris,CDG,Cluj-Napoca,CLJ,2026-12-01,08:45,12:45,240,1,SkyLab Air,True,116.02,12
+FL00028,Paris,CDG,Cluj-Napoca,CLJ,2026-12-01,15:30,19:45,255,1,EuroTest Express,False,70.49,0
+FL00029,Paris,CDG,Roma,FCO,2026-12-01,19:00,21:05,125,0,AeroDemo Low-Cost,False,52.93,0
+FL00030,Paris,CDG,Roma,FCO,2026-12-01,19:15,21:20,125,0,SkyLab Air,True,120.84,1
+FL00031,Roma,FCO,București,OTP,2026-12-01,08:45,11:00,135,0,AeroDemo Low-Cost,False,47.6,4
+FL00032,Roma,FCO,București,OTP,2026-12-01,19:45,22:00,135,0,EuroTest Express,False,63.27,7
+FL00033,Roma,FCO,Cluj-Napoca,CLJ,2026-12-01,09:30,11:30,120,0,EuroTest Express,False,87.49,9
+FL00034,Roma,FCO,Cluj-Napoca,CLJ,2026-12-01,17:00,19:00,120,0,SkyLab Air,True,57.36,9
+FL00035,Roma,FCO,Paris,CDG,2026-12-01,08:45,10:50,125,0,SkyLab Air,True,122.66,7
+FL00036,Roma,FCO,Paris,CDG,2026-12-01,19:45,21:50,125,0,SkyLab Air,True,63.6,4
+FL00037,Roma,FCO,Viena,VIE,2026-12-01,08:30,10:05,95,0,AeroDemo Low-Cost,False,67.24,2
+FL00038,Roma,FCO,Viena,VIE,2026-12-01,09:30,11:05,95,0,Carpatia Demo Airlines,True,73.12,7
+FL00039,Viena,VIE,București,OTP,2026-12-01,06:00,09:05,185,1,SkyLab Air,True,70.78,12
+FL00040,Viena,VIE,București,OTP,2026-12-01,21:45,23:35,110,0,AeroDemo Low-Cost,False,42.97,0
+FL00041,Viena,VIE,Cluj-Napoca,CLJ,2026-12-01,09:15,10:40,85,0,AeroDemo Low-Cost,False,45.63,4
+FL00042,Viena,VIE,Cluj-Napoca,CLJ,2026-12-01,19:00,20:25,85,0,SkyLab Air,True,71.81,0
+FL00043,Viena,VIE,Roma,FCO,2026-12-01,07:15,08:50,95,0,EuroTest Express,False,46.25,20
+FL00044,Viena,VIE,Roma,FCO,2026-12-01,19:00,20:35,95,0,Carpatia Demo Airlines,True,80.12,7
+FL00045,Amsterdam,AMS,București,OTP,2026-12-02,08:00,11:25,205,0,SkyLab Air,True,140.44,9
+FL00046,Amsterdam,AMS,București,OTP,2026-12-02,09:30,12:55,205,0,AeroDemo Low-Cost,False,127.29,2
+FL00047,Barcelona,BCN,București,OTP,2026-12-02,07:30,11:15,225,0,Carpatia Demo Airlines,True,129.09,7
+FL00048,Barcelona,BCN,București,OTP,2026-12-02,15:30,21:15,345,1,AeroDemo Low-Cost,False,102.27,12
+FL00049,Barcelona,BCN,Paris,CDG,2026-12-02,07:00,08:45,105,0,EuroTest Express,False,70.45,12
+FL00050,Barcelona,BCN,Paris,CDG,2026-12-02,09:00,10:45,105,0,SkyLab Air,True,94.06,4
+FL00051,București,OTP,Amsterdam,AMS,2026-12-02,11:45,15:10,205,0,EuroTest Express,False,145.84,7
+FL00052,București,OTP,Amsterdam,AMS,2026-12-02,21:30,02:25 (+1),295,1,Carpatia Demo Airlines,True,101.76,4
+FL00053,București,OTP,Barcelona,BCN,2026-12-02,07:30,11:15,225,0,Carpatia Demo Airlines,True,135.39,12
+FL00054,București,OTP,Barcelona,BCN,2026-12-02,09:15,13:00,225,0,Carpatia Demo Airlines,True,137.31,12
+FL00055,București,OTP,Paris,CDG,2026-12-02,08:45,12:05,200,0,EuroTest Express,False,75.38,9
+FL00056,București,OTP,Paris,CDG,2026-12-02,13:45,17:05,200,0,EuroTest Express,False,126.18,4
+FL00057,București,OTP,Roma,FCO,2026-12-02,06:00,08:15,135,0,SkyLab Air,True,75.55,7
+FL00058,București,OTP,Roma,FCO,2026-12-02,08:30,12:00,210,1,AeroDemo Low-Cost,False,60.31,12
+FL00059,București,OTP,Viena,VIE,2026-12-02,19:15,21:05,110,0,AeroDemo Low-Cost,False,51.38,9
+FL00060,București,OTP,Viena,VIE,2026-12-02,21:15,23:05,110,0,AeroDemo Low-Cost,False,33.28,12
+FL00061,Cluj-Napoca,CLJ,Paris,CDG,2026-12-02,11:45,14:30,165,0,SkyLab Air,True,129.81,4
+FL00062,Cluj-Napoca,CLJ,Paris,CDG,2026-12-02,17:45,20:30,165,0,SkyLab Air,True,133.4,7
+FL00063,Cluj-Napoca,CLJ,Roma,FCO,2026-12-02,09:15,11:15,120,0,SkyLab Air,True,87.15,1
+FL00064,Cluj-Napoca,CLJ,Roma,FCO,2026-12-02,17:00,20:30,210,1,AeroDemo Low-Cost,False,43.01,4
+FL00065,Cluj-Napoca,CLJ,Viena,VIE,2026-12-02,13:30,14:55,85,0,SkyLab Air,True,82.77,12
+FL00066,Cluj-Napoca,CLJ,Viena,VIE,2026-12-02,15:45,19:10,205,1,SkyLab Air,True,74.64,0
+FL00067,Paris,CDG,Barcelona,BCN,2026-12-02,09:15,11:00,105,0,AeroDemo Low-Cost,False,67.34,4
+FL00068,Paris,CDG,Barcelona,BCN,2026-12-02,13:15,15:00,105,0,SkyLab Air,True,88.28,1
+FL00069,Paris,CDG,București,OTP,2026-12-02,09:30,12:50,200,0,SkyLab Air,True,158.35,1
+FL00070,Paris,CDG,București,OTP,2026-12-02,17:15,20:35,200,0,SkyLab Air,True,161.53,20
+FL00071,Paris,CDG,Cluj-Napoca,CLJ,2026-12-02,07:45,10:30,165,0,EuroTest Express,False,76.76,20
+FL00072,Paris,CDG,Cluj-Napoca,CLJ,2026-12-02,19:00,21:45,165,0,Carpatia Demo Airlines,True,69.9,12
+FL00073,Paris,CDG,Roma,FCO,2026-12-02,07:00,10:20,200,1,Carpatia Demo Airlines,True,92.73,4
+FL00074,Paris,CDG,Roma,FCO,2026-12-02,15:30,17:35,125,0,Carpatia Demo Airlines,True,76.75,0
+FL00075,Roma,FCO,București,OTP,2026-12-02,08:00,11:45,225,1,AeroDemo Low-Cost,False,53.51,2
+FL00076,Roma,FCO,București,OTP,2026-12-02,11:30,15:00,210,1,SkyLab Air,True,92.22,4
+FL00077,Roma,FCO,Cluj-Napoca,CLJ,2026-12-02,17:30,21:00,210,1,SkyLab Air,True,69.98,12
+FL00078,Roma,FCO,Cluj-Napoca,CLJ,2026-12-02,19:45,23:00,195,1,SkyLab Air,True,66.95,1
+FL00079,Roma,FCO,Paris,CDG,2026-12-02,15:15,18:50,215,1,AeroDemo Low-Cost,False,38.94,7
+FL00080,Roma,FCO,Paris,CDG,2026-12-02,17:30,19:35,125,0,SkyLab Air,True,106.02,12
+FL00081,Roma,FCO,Viena,VIE,2026-12-02,13:45,15:20,95,0,AeroDemo Low-Cost,False,35.41,2
+FL00082,Roma,FCO,Viena,VIE,2026-12-02,19:45,21:20,95,0,Carpatia Demo Airlines,True,59.52,7
+FL00083,Viena,VIE,București,OTP,2026-12-02,07:30,09:20,110,0,Carpatia Demo Airlines,True,57.09,12
+FL00084,Viena,VIE,București,OTP,2026-12-02,11:15,13:05,110,0,Carpatia Demo Airlines,True,63.6,12
+FL00085,Viena,VIE,Cluj-Napoca,CLJ,2026-12-02,11:45,13:10,85,0,EuroTest Express,False,30.99,9
+FL00086,Viena,VIE,Cluj-Napoca,CLJ,2026-12-02,17:15,18:40,85,0,SkyLab Air,True,65.38,12
+FL00087,Viena,VIE,Roma,FCO,2026-12-02,07:30,09:05,95,0,SkyLab Air,True,90.06,20
+FL00088,Viena,VIE,Roma,FCO,2026-12-02,11:00,12:35,95,0,AeroDemo Low-Cost,False,62.61,9
+FL00089,Amsterdam,AMS,București,OTP,2026-12-03,09:30,12:55,205,0,SkyLab Air,True,112.79,20
+FL00090,Amsterdam,AMS,București,OTP,2026-12-03,11:15,14:40,205,0,AeroDemo Low-Cost,False,67.52,4
+FL00091,Barcelona,BCN,București,OTP,2026-12-03,19:30,23:15,225,0,AeroDemo Low-Cost,False,133.37,20
+FL00092,Barcelona,BCN,București,OTP,2026-12-03,21:30,01:15 (+1),225,0,AeroDemo Low-Cost,False,94.84,9
+FL00093,Barcelona,BCN,Paris,CDG,2026-12-03,08:30,10:15,105,0,SkyLab Air,True,106.78,20
+FL00094,Barcelona,BCN,Paris,CDG,2026-12-03,17:45,19:30,105,0,AeroDemo Low-Cost,False,83.42,2
+FL00095,București,OTP,Amsterdam,AMS,2026-12-03,07:15,10:40,205,0,AeroDemo Low-Cost,False,75.83,1
+FL00096,București,OTP,Amsterdam,AMS,2026-12-03,19:00,23:40,280,1,EuroTest Express,False,55.3,20
+FL00097,București,OTP,Barcelona,BCN,2026-12-03,11:00,14:45,225,0,EuroTest Express,False,111.85,7
+FL00098,București,OTP,Barcelona,BCN,2026-12-03,19:30,23:15,225,0,Carpatia Demo Airlines,True,155.18,7
+FL00099,București,OTP,Paris,CDG,2026-12-03,06:00,09:20,200,0,SkyLab Air,True,96.73,4
+FL00100,București,OTP,Paris,CDG,2026-12-03,13:45,17:05,200,0,Carpatia Demo Airlines,True,118.56,12
+FL00101,București,OTP,Roma,FCO,2026-12-03,07:30,09:45,135,0,Carpatia Demo Airlines,True,57.36,20
+FL00102,București,OTP,Roma,FCO,2026-12-03,17:30,19:45,135,0,SkyLab Air,True,79.99,9
+FL00103,București,OTP,Viena,VIE,2026-12-03,06:15,09:20,185,1,SkyLab Air,True,80.83,7
+FL00104,București,OTP,Viena,VIE,2026-12-03,11:45,13:35,110,0,EuroTest Express,False,78.38,12
+FL00105,Cluj-Napoca,CLJ,Paris,CDG,2026-12-03,17:30,20:15,165,0,EuroTest Express,False,128.01,12
+FL00106,Cluj-Napoca,CLJ,Paris,CDG,2026-12-03,17:30,20:15,165,0,SkyLab Air,True,94.05,1
+FL00107,Cluj-Napoca,CLJ,Roma,FCO,2026-12-03,08:00,10:00,120,0,EuroTest Express,False,43.84,7
+FL00108,Cluj-Napoca,CLJ,Roma,FCO,2026-12-03,17:30,19:30,120,0,Carpatia Demo Airlines,True,62.55,7
+FL00109,Cluj-Napoca,CLJ,Viena,VIE,2026-12-03,06:15,07:40,85,0,SkyLab Air,True,66.21,7
+FL00110,Cluj-Napoca,CLJ,Viena,VIE,2026-12-03,19:45,21:10,85,0,AeroDemo Low-Cost,False,28.55,9
+FL00111,Paris,CDG,Barcelona,BCN,2026-12-03,09:15,11:00,105,0,SkyLab Air,True,72.74,12
+FL00112,Paris,CDG,Barcelona,BCN,2026-12-03,17:45,19:30,105,0,SkyLab Air,True,69.24,12
+FL00113,Paris,CDG,București,OTP,2026-12-03,17:30,20:50,200,0,Carpatia Demo Airlines,True,90.89,1
+FL00114,Paris,CDG,București,OTP,2026-12-03,19:15,22:35,200,0,EuroTest Express,False,78.68,20
+FL00115,Paris,CDG,Cluj-Napoca,CLJ,2026-12-03,11:30,15:30,240,1,SkyLab Air,True,130.85,12
+FL00116,Paris,CDG,Cluj-Napoca,CLJ,2026-12-03,17:30,20:15,165,0,EuroTest Express,False,124.03,0
+FL00117,Paris,CDG,Roma,FCO,2026-12-03,19:15,21:20,125,0,EuroTest Express,False,57.28,12
+FL00118,Paris,CDG,Roma,FCO,2026-12-03,19:30,21:35,125,0,Carpatia Demo Airlines,True,64.09,7
+FL00119,Roma,FCO,București,OTP,2026-12-03,15:45,20:00,255,1,AeroDemo Low-Cost,False,61.04,20
+FL00120,Roma,FCO,București,OTP,2026-12-03,21:30,23:45,135,0,Carpatia Demo Airlines,True,42.64,4
+FL00121,Roma,FCO,Cluj-Napoca,CLJ,2026-12-03,21:00,23:00,120,0,SkyLab Air,True,90.17,7
+FL00122,Roma,FCO,Cluj-Napoca,CLJ,2026-12-03,21:00,01:00 (+1),240,1,AeroDemo Low-Cost,False,59.2,0
+FL00123,Roma,FCO,Paris,CDG,2026-12-03,08:45,10:50,125,0,SkyLab Air,True,71.17,7
+FL00124,Roma,FCO,Paris,CDG,2026-12-03,17:15,19:20,125,0,SkyLab Air,True,90.43,12
+FL00125,Roma,FCO,Viena,VIE,2026-12-03,09:30,11:05,95,0,AeroDemo Low-Cost,False,61.06,12
+FL00126,Roma,FCO,Viena,VIE,2026-12-03,19:45,21:20,95,0,Carpatia Demo Airlines,True,69.85,20
+FL00127,Viena,VIE,București,OTP,2026-12-03,07:45,09:35,110,0,AeroDemo Low-Cost,False,59.1,4
+FL00128,Viena,VIE,București,OTP,2026-12-03,17:30,19:20,110,0,SkyLab Air,True,106.61,7
+FL00129,Viena,VIE,Cluj-Napoca,CLJ,2026-12-03,06:45,08:10,85,0,EuroTest Express,False,39.71,1
+FL00130,Viena,VIE,Cluj-Napoca,CLJ,2026-12-03,17:00,18:25,85,0,SkyLab Air,True,89.29,4
+FL00131,Viena,VIE,Roma,FCO,2026-12-03,11:30,13:05,95,0,AeroDemo Low-Cost,False,58.72,1
+FL00132,Viena,VIE,Roma,FCO,2026-12-03,17:00,18:35,95,0,AeroDemo Low-Cost,False,35.03,2
+FL00133,Amsterdam,AMS,București,OTP,2026-12-04,06:00,10:55,295,1,SkyLab Air,True,193.07,1
+FL00134,Amsterdam,AMS,București,OTP,2026-12-04,19:15,00:10 (+1),295,1,AeroDemo Low-Cost,False,94.62,12
+FL00135,Barcelona,BCN,București,OTP,2026-12-04,06:30,10:15,225,0,AeroDemo Low-Cost,False,66.66,9
+FL00136,Barcelona,BCN,București,OTP,2026-12-04,11:30,17:15,345,1,EuroTest Express,False,98.54,4
+FL00137,Barcelona,BCN,Paris,CDG,2026-12-04,09:15,11:00,105,0,AeroDemo Low-Cost,False,66.59,1
+FL00138,Barcelona,BCN,Paris,CDG,2026-12-04,15:00,16:45,105,0,AeroDemo Low-Cost,False,73.44,9
+FL00139,București,OTP,Amsterdam,AMS,2026-12-04,09:00,12:25,205,0,Carpatia Demo Airlines,True,185.12,7
+FL00140,București,OTP,Amsterdam,AMS,2026-12-04,13:00,16:25,205,0,SkyLab Air,True,123.02,0
+FL00141,București,OTP,Barcelona,BCN,2026-12-04,17:30,21:15,225,0,AeroDemo Low-Cost,False,121.28,9
+FL00142,București,OTP,Barcelona,BCN,2026-12-04,21:30,01:15 (+1),225,0,EuroTest Express,False,152.35,2
+FL00143,București,OTP,Paris,CDG,2026-12-04,06:45,10:05,200,0,SkyLab Air,True,168.35,2
+FL00144,București,OTP,Paris,CDG,2026-12-04,13:30,16:50,200,0,AeroDemo Low-Cost,False,148.34,7
+FL00145,București,OTP,Roma,FCO,2026-12-04,06:30,08:45,135,0,AeroDemo Low-Cost,False,60.37,2
+FL00146,București,OTP,Roma,FCO,2026-12-04,07:45,10:00,135,0,AeroDemo Low-Cost,False,78.86,0
+FL00147,București,OTP,Viena,VIE,2026-12-04,13:00,14:50,110,0,Carpatia Demo Airlines,True,109.63,2
+FL00148,București,OTP,Viena,VIE,2026-12-04,13:30,15:20,110,0,EuroTest Express,False,55.92,20
+FL00149,Cluj-Napoca,CLJ,Paris,CDG,2026-12-04,09:15,12:00,165,0,AeroDemo Low-Cost,False,68.58,4
+FL00150,Cluj-Napoca,CLJ,Paris,CDG,2026-12-04,09:30,12:15,165,0,EuroTest Express,False,128.78,0
+FL00151,Cluj-Napoca,CLJ,Roma,FCO,2026-12-04,07:45,09:45,120,0,EuroTest Express,False,65.08,7
+FL00152,Cluj-Napoca,CLJ,Roma,FCO,2026-12-04,09:45,11:45,120,0,AeroDemo Low-Cost,False,87.04,9
+FL00153,Cluj-Napoca,CLJ,Viena,VIE,2026-12-04,11:00,13:40,160,1,Carpatia Demo Airlines,True,68.15,1
+FL00154,Cluj-Napoca,CLJ,Viena,VIE,2026-12-04,13:00,14:25,85,0,AeroDemo Low-Cost,False,53.3,0
+FL00155,Paris,CDG,Barcelona,BCN,2026-12-04,13:15,17:00,225,1,SkyLab Air,True,49.22,9
+FL00156,Paris,CDG,Barcelona,BCN,2026-12-04,17:00,18:45,105,0,EuroTest Express,False,97.71,1
+FL00157,Paris,CDG,București,OTP,2026-12-04,09:45,13:05,200,0,SkyLab Air,True,96.85,12
+FL00158,Paris,CDG,București,OTP,2026-12-04,11:00,14:20,200,0,Carpatia Demo Airlines,True,120.96,0
+FL00159,Paris,CDG,Cluj-Napoca,CLJ,2026-12-04,06:15,09:00,165,0,AeroDemo Low-Cost,False,80.62,4
+FL00160,Paris,CDG,Cluj-Napoca,CLJ,2026-12-04,08:15,11:00,165,0,Carpatia Demo Airlines,True,90.2,2
+FL00161,Paris,CDG,Roma,FCO,2026-12-04,09:45,11:50,125,0,SkyLab Air,True,127.58,12
+FL00162,Paris,CDG,Roma,FCO,2026-12-04,13:45,15:50,125,0,SkyLab Air,True,113.72,9
+FL00163,Roma,FCO,București,OTP,2026-12-04,21:15,23:30,135,0,EuroTest Express,False,54.89,12
+FL00164,Roma,FCO,București,OTP,2026-12-04,21:15,23:30,135,0,EuroTest Express,False,73.54,7
+FL00165,Roma,FCO,Cluj-Napoca,CLJ,2026-12-04,13:30,15:30,120,0,AeroDemo Low-Cost,False,57.31,4
+FL00166,Roma,FCO,Cluj-Napoca,CLJ,2026-12-04,17:00,19:00,120,0,AeroDemo Low-Cost,False,47.3,0
+FL00167,Roma,FCO,Paris,CDG,2026-12-04,15:00,17:05,125,0,SkyLab Air,True,66.69,4
+FL00168,Roma,FCO,Paris,CDG,2026-12-04,21:30,01:05 (+1),215,1,AeroDemo Low-Cost,False,87.69,7
+FL00169,Roma,FCO,Viena,VIE,2026-12-04,06:00,07:35,95,0,EuroTest Express,False,66.91,12
+FL00170,Roma,FCO,Viena,VIE,2026-12-04,08:15,09:50,95,0,Carpatia Demo Airlines,True,82.22,1
+FL00171,Viena,VIE,București,OTP,2026-12-04,15:30,17:20,110,0,EuroTest Express,False,88.24,0
+FL00172,Viena,VIE,București,OTP,2026-12-04,17:30,19:20,110,0,Carpatia Demo Airlines,True,95.24,7
+FL00173,Viena,VIE,Cluj-Napoca,CLJ,2026-12-04,06:00,07:25,85,0,Carpatia Demo Airlines,True,86.18,12
+FL00174,Viena,VIE,Cluj-Napoca,CLJ,2026-12-04,17:00,18:25,85,0,AeroDemo Low-Cost,False,45.03,2
+FL00175,Viena,VIE,Roma,FCO,2026-12-04,11:00,12:35,95,0,AeroDemo Low-Cost,False,46.7,7
+FL00176,Viena,VIE,Roma,FCO,2026-12-04,13:00,14:35,95,0,Carpatia Demo Airlines,True,77.05,12
+FL00177,Amsterdam,AMS,București,OTP,2026-12-05,19:00,22:25,205,0,SkyLab Air,True,215.27,4
+FL00178,Amsterdam,AMS,București,OTP,2026-12-05,19:15,22:40,205,0,Carpatia Demo Airlines,True,138.75,9
+FL00179,Barcelona,BCN,București,OTP,2026-12-05,07:15,11:00,225,0,AeroDemo Low-Cost,False,119.55,1
+FL00180,Barcelona,BCN,București,OTP,2026-12-05,13:15,17:00,225,0,SkyLab Air,True,189.29,1
+FL00181,Barcelona,BCN,Paris,CDG,2026-12-05,08:45,10:30,105,0,SkyLab Air,True,102.17,1
+FL00182,Barcelona,BCN,Paris,CDG,2026-12-05,08:45,10:30,105,0,AeroDemo Low-Cost,False,83.63,4
+FL00183,București,OTP,Amsterdam,AMS,2026-12-05,06:30,09:55,205,0,SkyLab Air,True,101.56,1
+FL00184,București,OTP,Amsterdam,AMS,2026-12-05,21:00,00:25 (+1),205,0,Carpatia Demo Airlines,True,145.81,7
+FL00185,București,OTP,Barcelona,BCN,2026-12-05,13:15,17:00,225,0,AeroDemo Low-Cost,False,107.29,9
+FL00186,București,OTP,Barcelona,BCN,2026-12-05,21:45,01:30 (+1),225,0,Carpatia Demo Airlines,True,155.54,7
+FL00187,București,OTP,Paris,CDG,2026-12-05,11:30,14:50,200,0,EuroTest Express,False,69.1,12
+FL00188,București,OTP,Paris,CDG,2026-12-05,21:00,00:20 (+1),200,0,EuroTest Express,False,89.26,4
+FL00189,București,OTP,Roma,FCO,2026-12-05,08:30,10:45,135,0,SkyLab Air,True,110.64,1
+FL00190,București,OTP,Roma,FCO,2026-12-05,21:00,01:15 (+1),255,1,AeroDemo Low-Cost,False,36.86,20
+FL00191,București,OTP,Viena,VIE,2026-12-05,09:30,11:20,110,0,AeroDemo Low-Cost,False,75.03,2
+FL00192,București,OTP,Viena,VIE,2026-12-05,11:15,14:20,185,1,EuroTest Express,False,65.31,1
+FL00193,Cluj-Napoca,CLJ,Paris,CDG,2026-12-05,07:30,10:15,165,0,EuroTest Express,False,92.33,9
+FL00194,Cluj-Napoca,CLJ,Paris,CDG,2026-12-05,19:00,21:45,165,0,EuroTest Express,False,118.33,9
+FL00195,Cluj-Napoca,CLJ,Roma,FCO,2026-12-05,08:00,10:00,120,0,AeroDemo Low-Cost,False,73.96,20
+FL00196,Cluj-Napoca,CLJ,Roma,FCO,2026-12-05,11:45,13:45,120,0,EuroTest Express,False,87.26,0
+FL00197,Cluj-Napoca,CLJ,Viena,VIE,2026-12-05,21:15,22:40,85,0,AeroDemo Low-Cost,False,47.52,2
+FL00198,Cluj-Napoca,CLJ,Viena,VIE,2026-12-05,21:15,22:40,85,0,EuroTest Express,False,56.58,12
+FL00199,Paris,CDG,Barcelona,BCN,2026-12-05,07:30,10:30,180,1,EuroTest Express,False,44.58,7
+FL00200,Paris,CDG,Barcelona,BCN,2026-12-05,13:15,15:00,105,0,AeroDemo Low-Cost,False,96.28,9
+FL00201,Paris,CDG,București,OTP,2026-12-05,06:45,10:05,200,0,AeroDemo Low-Cost,False,102.59,1
+FL00202,Paris,CDG,București,OTP,2026-12-05,19:15,00:35 (+1),320,1,EuroTest Express,False,106.73,9
+FL00203,Paris,CDG,Cluj-Napoca,CLJ,2026-12-05,08:15,11:00,165,0,AeroDemo Low-Cost,False,126.98,20
+FL00204,Paris,CDG,Cluj-Napoca,CLJ,2026-12-05,08:15,12:15,240,1,EuroTest Express,False,72.39,1
+FL00205,Paris,CDG,Roma,FCO,2026-12-05,08:30,12:05,215,1,Carpatia Demo Airlines,True,103.72,2
+FL00206,Paris,CDG,Roma,FCO,2026-12-05,09:45,13:20,215,1,SkyLab Air,True,115.92,12
+FL00207,Roma,FCO,București,OTP,2026-12-05,11:45,14:00,135,0,Carpatia Demo Airlines,True,96.63,0
+FL00208,Roma,FCO,București,OTP,2026-12-05,17:45,20:00,135,0,SkyLab Air,True,70.31,1
+FL00209,Roma,FCO,Cluj-Napoca,CLJ,2026-12-05,07:45,11:15,210,1,Carpatia Demo Airlines,True,52.53,2
+FL00210,Roma,FCO,Cluj-Napoca,CLJ,2026-12-05,08:30,12:00,210,1,Carpatia Demo Airlines,True,93.46,12
+FL00211,Roma,FCO,Paris,CDG,2026-12-05,15:45,17:50,125,0,SkyLab Air,True,126.68,2
+FL00212,Roma,FCO,Paris,CDG,2026-12-05,17:30,21:35,245,1,Carpatia Demo Airlines,True,105.63,1
+FL00213,Roma,FCO,Viena,VIE,2026-12-05,06:30,08:05,95,0,EuroTest Express,False,69.15,2
+FL00214,Roma,FCO,Viena,VIE,2026-12-05,13:00,14:35,95,0,AeroDemo Low-Cost,False,60.15,0
+FL00215,Viena,VIE,București,OTP,2026-12-05,13:15,15:05,110,0,Carpatia Demo Airlines,True,49.44,20
+FL00216,Viena,VIE,București,OTP,2026-12-05,17:45,19:35,110,0,EuroTest Express,False,86.37,20
+FL00217,Viena,VIE,Cluj-Napoca,CLJ,2026-12-05,09:45,11:10,85,0,Carpatia Demo Airlines,True,54.17,20
+FL00218,Viena,VIE,Cluj-Napoca,CLJ,2026-12-05,11:45,13:10,85,0,EuroTest Express,False,53.0,20
+FL00219,Viena,VIE,Roma,FCO,2026-12-05,09:45,13:20,215,1,Carpatia Demo Airlines,True,77.1,20
+FL00220,Viena,VIE,Roma,FCO,2026-12-05,17:00,20:35,215,1,AeroDemo Low-Cost,False,49.92,4
+FL00221,Amsterdam,AMS,București,OTP,2026-12-06,08:00,12:55,295,1,SkyLab Air,True,97.47,20
+FL00222,Amsterdam,AMS,București,OTP,2026-12-06,13:30,16:55,205,0,AeroDemo Low-Cost,False,72.69,7
+FL00223,Barcelona,BCN,București,OTP,2026-12-06,13:45,19:00,315,1,SkyLab Air,True,145.36,0
+FL00224,Barcelona,BCN,București,OTP,2026-12-06,21:45,01:30 (+1),225,0,Carpatia Demo Airlines,True,161.45,9
+FL00225,Barcelona,BCN,Paris,CDG,2026-12-06,13:00,16:00,180,1,EuroTest Express,False,52.54,20
+FL00226,Barcelona,BCN,Paris,CDG,2026-12-06,17:00,18:45,105,0,SkyLab Air,True,128.46,20
+FL00227,București,OTP,Amsterdam,AMS,2026-12-06,07:00,12:25,325,1,Carpatia Demo Airlines,True,90.02,12
+FL00228,București,OTP,Amsterdam,AMS,2026-12-06,11:45,15:10,205,0,AeroDemo Low-Cost,False,165.24,7
+FL00229,București,OTP,Barcelona,BCN,2026-12-06,08:30,12:15,225,0,SkyLab Air,True,100.72,9
+FL00230,București,OTP,Barcelona,BCN,2026-12-06,19:30,23:15,225,0,SkyLab Air,True,182.48,1
+FL00231,București,OTP,Paris,CDG,2026-12-06,06:15,09:35,200,0,AeroDemo Low-Cost,False,89.46,7
+FL00232,București,OTP,Paris,CDG,2026-12-06,19:45,23:05,200,0,SkyLab Air,True,88.08,4
+FL00233,București,OTP,Roma,FCO,2026-12-06,06:45,09:00,135,0,SkyLab Air,True,73.34,0
+FL00234,București,OTP,Roma,FCO,2026-12-06,13:15,15:30,135,0,Carpatia Demo Airlines,True,95.91,1
+FL00235,București,OTP,Viena,VIE,2026-12-06,15:30,17:20,110,0,AeroDemo Low-Cost,False,78.99,2
+FL00236,București,OTP,Viena,VIE,2026-12-06,21:45,00:50 (+1),185,1,AeroDemo Low-Cost,False,36.27,4
+FL00237,Cluj-Napoca,CLJ,Paris,CDG,2026-12-06,07:45,10:30,165,0,EuroTest Express,False,119.18,9
+FL00238,Cluj-Napoca,CLJ,Paris,CDG,2026-12-06,19:15,22:00,165,0,EuroTest Express,False,97.28,0
+FL00239,Cluj-Napoca,CLJ,Roma,FCO,2026-12-06,08:30,10:30,120,0,Carpatia Demo Airlines,True,59.94,4
+FL00240,Cluj-Napoca,CLJ,Roma,FCO,2026-12-06,17:00,20:30,210,1,EuroTest Express,False,62.82,9
+FL00241,Cluj-Napoca,CLJ,Viena,VIE,2026-12-06,21:00,22:25,85,0,EuroTest Express,False,66.99,2
+FL00242,Cluj-Napoca,CLJ,Viena,VIE,2026-12-06,21:30,22:55,85,0,EuroTest Express,False,36.27,0
+FL00243,Paris,CDG,Barcelona,BCN,2026-12-06,13:15,15:00,105,0,Carpatia Demo Airlines,True,84.4,20
+FL00244,Paris,CDG,Barcelona,BCN,2026-12-06,15:45,18:45,180,1,AeroDemo Low-Cost,False,80.27,2
+FL00245,Paris,CDG,București,OTP,2026-12-06,06:30,09:50,200,0,Carpatia Demo Airlines,True,90.07,9
+FL00246,Paris,CDG,București,OTP,2026-12-06,17:45,21:05,200,0,SkyLab Air,True,205.43,20
+FL00247,Paris,CDG,Cluj-Napoca,CLJ,2026-12-06,11:15,14:00,165,0,AeroDemo Low-Cost,False,77.82,4
+FL00248,Paris,CDG,Cluj-Napoca,CLJ,2026-12-06,19:30,22:15,165,0,Carpatia Demo Airlines,True,90.19,7
+FL00249,Paris,CDG,Roma,FCO,2026-12-06,13:30,15:35,125,0,Carpatia Demo Airlines,True,61.9,9
+FL00250,Paris,CDG,Roma,FCO,2026-12-06,17:00,19:05,125,0,AeroDemo Low-Cost,False,69.32,2
+FL00251,Roma,FCO,București,OTP,2026-12-06,08:00,10:15,135,0,SkyLab Air,True,114.99,20
+FL00252,Roma,FCO,București,OTP,2026-12-06,13:30,17:45,255,1,Carpatia Demo Airlines,True,51.84,20
+FL00253,Roma,FCO,Cluj-Napoca,CLJ,2026-12-06,17:45,19:45,120,0,Carpatia Demo Airlines,True,100.24,1
+FL00254,Roma,FCO,Cluj-Napoca,CLJ,2026-12-06,19:15,21:15,120,0,SkyLab Air,True,114.77,1
+FL00255,Roma,FCO,Paris,CDG,2026-12-06,15:30,17:35,125,0,EuroTest Express,False,51.67,0
+FL00256,Roma,FCO,Paris,CDG,2026-12-06,17:45,19:50,125,0,EuroTest Express,False,70.34,2
+FL00257,Roma,FCO,Viena,VIE,2026-12-06,15:30,17:05,95,0,EuroTest Express,False,68.44,9
+FL00258,Roma,FCO,Viena,VIE,2026-12-06,19:45,23:20,215,1,Carpatia Demo Airlines,True,49.96,1
+FL00259,Viena,VIE,București,OTP,2026-12-06,07:15,09:05,110,0,Carpatia Demo Airlines,True,69.54,9
+FL00260,Viena,VIE,București,OTP,2026-12-06,21:00,22:50,110,0,Carpatia Demo Airlines,True,55.17,20
+FL00261,Viena,VIE,Cluj-Napoca,CLJ,2026-12-06,19:30,20:55,85,0,AeroDemo Low-Cost,False,73.93,20
+FL00262,Viena,VIE,Cluj-Napoca,CLJ,2026-12-06,21:30,00:55 (+1),205,1,AeroDemo Low-Cost,False,33.97,12
+FL00263,Viena,VIE,Roma,FCO,2026-12-06,07:45,09:20,95,0,Carpatia Demo Airlines,True,96.2,9
+FL00264,Viena,VIE,Roma,FCO,2026-12-06,15:00,16:35,95,0,SkyLab Air,True,83.92,9
+FL00265,Amsterdam,AMS,București,OTP,2026-12-07,08:45,12:10,205,0,AeroDemo Low-Cost,False,138.39,20
+FL00266,Amsterdam,AMS,București,OTP,2026-12-07,11:30,14:55,205,0,SkyLab Air,True,155.93,1
+FL00267,Barcelona,BCN,București,OTP,2026-12-07,08:45,12:30,225,0,SkyLab Air,True,114.87,9
+FL00268,Barcelona,BCN,București,OTP,2026-12-07,09:15,13:00,225,0,Carpatia Demo Airlines,True,126.76,4
+FL00269,Barcelona,BCN,Paris,CDG,2026-12-07,08:15,10:00,105,0,AeroDemo Low-Cost,False,82.91,12
+FL00270,Barcelona,BCN,Paris,CDG,2026-12-07,15:45,17:30,105,0,Carpatia Demo Airlines,True,65.67,2
+FL00271,București,OTP,Amsterdam,AMS,2026-12-07,15:30,20:55,325,1,EuroTest Express,False,94.11,2
+FL00272,București,OTP,Amsterdam,AMS,2026-12-07,21:15,00:40 (+1),205,0,AeroDemo Low-Cost,False,61.99,4
+FL00273,București,OTP,Barcelona,BCN,2026-12-07,09:45,13:30,225,0,EuroTest Express,False,134.29,20
+FL00274,București,OTP,Barcelona,BCN,2026-12-07,19:15,23:00,225,0,AeroDemo Low-Cost,False,82.11,20
+FL00275,București,OTP,Paris,CDG,2026-12-07,07:45,11:05,200,0,AeroDemo Low-Cost,False,77.17,0
+FL00276,București,OTP,Paris,CDG,2026-12-07,21:15,00:35 (+1),200,0,SkyLab Air,True,78.19,20
+FL00277,București,OTP,Roma,FCO,2026-12-07,17:45,20:00,135,0,EuroTest Express,False,72.17,2
+FL00278,București,OTP,Roma,FCO,2026-12-07,19:45,00:00 (+1),255,1,EuroTest Express,False,34.07,0
+FL00279,București,OTP,Viena,VIE,2026-12-07,09:45,11:35,110,0,Carpatia Demo Airlines,True,67.07,7
+FL00280,București,OTP,Viena,VIE,2026-12-07,19:45,23:05,200,1,Carpatia Demo Airlines,True,73.84,2
+FL00281,Cluj-Napoca,CLJ,Paris,CDG,2026-12-07,11:15,14:00,165,0,EuroTest Express,False,107.98,7
+FL00282,Cluj-Napoca,CLJ,Paris,CDG,2026-12-07,15:45,20:30,285,1,EuroTest Express,False,65.05,12
+FL00283,Cluj-Napoca,CLJ,Roma,FCO,2026-12-07,06:15,08:15,120,0,EuroTest Express,False,81.55,2
+FL00284,Cluj-Napoca,CLJ,Roma,FCO,2026-12-07,15:45,17:45,120,0,AeroDemo Low-Cost,False,75.03,7
+FL00285,Cluj-Napoca,CLJ,Viena,VIE,2026-12-07,09:00,10:25,85,0,Carpatia Demo Airlines,True,38.85,7
+FL00286,Cluj-Napoca,CLJ,Viena,VIE,2026-12-07,19:30,20:55,85,0,EuroTest Express,False,34.93,7
+FL00287,Paris,CDG,Barcelona,BCN,2026-12-07,06:15,08:00,105,0,SkyLab Air,True,51.26,12
+FL00288,Paris,CDG,Barcelona,BCN,2026-12-07,19:00,20:45,105,0,Carpatia Demo Airlines,True,104.13,20
+FL00289,Paris,CDG,București,OTP,2026-12-07,07:15,10:35,200,0,AeroDemo Low-Cost,False,87.73,12
+FL00290,Paris,CDG,București,OTP,2026-12-07,21:45,01:05 (+1),200,0,EuroTest Express,False,132.61,4
+FL00291,Paris,CDG,Cluj-Napoca,CLJ,2026-12-07,08:45,13:00,255,1,AeroDemo Low-Cost,False,93.17,0
+FL00292,Paris,CDG,Cluj-Napoca,CLJ,2026-12-07,17:30,20:15,165,0,Carpatia Demo Airlines,True,82.82,0
+FL00293,Paris,CDG,Roma,FCO,2026-12-07,17:00,19:05,125,0,AeroDemo Low-Cost,False,43.12,12
+FL00294,Paris,CDG,Roma,FCO,2026-12-07,19:45,21:50,125,0,SkyLab Air,True,109.41,0
+FL00295,Roma,FCO,București,OTP,2026-12-07,13:15,15:30,135,0,Carpatia Demo Airlines,True,104.41,7
+FL00296,Roma,FCO,București,OTP,2026-12-07,19:45,22:00,135,0,Carpatia Demo Airlines,True,77.46,20
+FL00297,Roma,FCO,Cluj-Napoca,CLJ,2026-12-07,17:30,19:30,120,0,EuroTest Express,False,77.68,9
+FL00298,Roma,FCO,Cluj-Napoca,CLJ,2026-12-07,21:00,00:30 (+1),210,1,AeroDemo Low-Cost,False,37.84,20
+FL00299,Roma,FCO,Paris,CDG,2026-12-07,13:00,15:05,125,0,SkyLab Air,True,57.83,4
+FL00300,Roma,FCO,Paris,CDG,2026-12-07,19:45,23:05,200,1,EuroTest Express,False,69.55,20
+FL00301,Roma,FCO,Viena,VIE,2026-12-07,09:45,11:20,95,0,SkyLab Air,True,48.81,4
+FL00302,Roma,FCO,Viena,VIE,2026-12-07,15:00,17:50,170,1,AeroDemo Low-Cost,False,32.05,1
+FL00303,Viena,VIE,București,OTP,2026-12-07,07:30,10:50,200,1,Carpatia Demo Airlines,True,65.77,20
+FL00304,Viena,VIE,București,OTP,2026-12-07,19:30,23:20,230,1,EuroTest Express,False,60.99,2
+FL00305,Viena,VIE,Cluj-Napoca,CLJ,2026-12-07,09:15,10:40,85,0,Carpatia Demo Airlines,True,40.58,9
+FL00306,Viena,VIE,Cluj-Napoca,CLJ,2026-12-07,17:15,18:40,85,0,SkyLab Air,True,73.34,1
+FL00307,Viena,VIE,Roma,FCO,2026-12-07,11:45,13:20,95,0,AeroDemo Low-Cost,False,59.86,12
+FL00308,Viena,VIE,Roma,FCO,2026-12-07,19:45,23:20,215,1,Carpatia Demo Airlines,True,36.45,4
+FL00309,Amsterdam,AMS,București,OTP,2026-12-08,15:15,18:40,205,0,AeroDemo Low-Cost,False,77.6,2
+FL00310,Amsterdam,AMS,București,OTP,2026-12-08,19:00,22:25,205,0,EuroTest Express,False,68.09,1
+FL00311,Barcelona,BCN,București,OTP,2026-12-08,06:15,10:00,225,0,Carpatia Demo Airlines,True,168.58,1
+FL00312,Barcelona,BCN,București,OTP,2026-12-08,21:15,01:00 (+1),225,0,SkyLab Air,True,180.09,9
+FL00313,Barcelona,BCN,Paris,CDG,2026-12-08,07:30,11:15,225,1,SkyLab Air,True,44.75,9
+FL00314,Barcelona,BCN,Paris,CDG,2026-12-08,15:45,18:45,180,1,SkyLab Air,True,81.97,4
+FL00315,București,OTP,Amsterdam,AMS,2026-12-08,13:15,17:55,280,1,SkyLab Air,True,140.06,20
+FL00316,București,OTP,Amsterdam,AMS,2026-12-08,13:30,16:55,205,0,SkyLab Air,True,194.02,20
+FL00317,București,OTP,Barcelona,BCN,2026-12-08,09:00,14:15,315,1,Carpatia Demo Airlines,True,91.83,0
+FL00318,București,OTP,Barcelona,BCN,2026-12-08,21:15,02:30 (+1),315,1,AeroDemo Low-Cost,False,61.62,9
+FL00319,București,OTP,Paris,CDG,2026-12-08,15:30,18:50,200,0,AeroDemo Low-Cost,False,85.77,2
+FL00320,București,OTP,Paris,CDG,2026-12-08,19:45,23:05,200,0,Carpatia Demo Airlines,True,150.08,7
+FL00321,București,OTP,Roma,FCO,2026-12-08,06:15,08:30,135,0,AeroDemo Low-Cost,False,35.83,20
+FL00322,București,OTP,Roma,FCO,2026-12-08,06:15,08:30,135,0,EuroTest Express,False,94.13,4
+FL00323,București,OTP,Viena,VIE,2026-12-08,17:30,20:35,185,1,SkyLab Air,True,56.74,12
+FL00324,București,OTP,Viena,VIE,2026-12-08,19:30,21:20,110,0,Carpatia Demo Airlines,True,54.3,20
+FL00325,Cluj-Napoca,CLJ,Paris,CDG,2026-12-08,07:00,09:45,165,0,Carpatia Demo Airlines,True,91.65,12
+FL00326,Cluj-Napoca,CLJ,Paris,CDG,2026-12-08,15:45,18:30,165,0,AeroDemo Low-Cost,False,62.24,4
+FL00327,Cluj-Napoca,CLJ,Roma,FCO,2026-12-08,17:30,20:45,195,1,AeroDemo Low-Cost,False,51.1,20
+FL00328,Cluj-Napoca,CLJ,Roma,FCO,2026-12-08,19:45,23:00,195,1,SkyLab Air,True,37.38,7
+FL00329,Cluj-Napoca,CLJ,Viena,VIE,2026-12-08,07:30,10:55,205,1,Carpatia Demo Airlines,True,51.76,0
+FL00330,Cluj-Napoca,CLJ,Viena,VIE,2026-12-08,13:00,14:25,85,0,EuroTest Express,False,55.85,12
+FL00331,Paris,CDG,Barcelona,BCN,2026-12-08,07:00,08:45,105,0,SkyLab Air,True,111.55,20
+FL00332,Paris,CDG,Barcelona,BCN,2026-12-08,07:15,09:00,105,0,Carpatia Demo Airlines,True,53.81,20
+FL00333,Paris,CDG,București,OTP,2026-12-08,06:45,10:05,200,0,EuroTest Express,False,109.05,2
+FL00334,Paris,CDG,București,OTP,2026-12-08,09:30,14:50,320,1,SkyLab Air,True,69.03,20
+FL00335,Paris,CDG,Cluj-Napoca,CLJ,2026-12-08,06:15,10:15,240,1,SkyLab Air,True,93.25,12
+FL00336,Paris,CDG,Cluj-Napoca,CLJ,2026-12-08,07:00,09:45,165,0,Carpatia Demo Airlines,True,75.08,20
+FL00337,Paris,CDG,Roma,FCO,2026-12-08,07:30,09:35,125,0,EuroTest Express,False,63.58,2
+FL00338,Paris,CDG,Roma,FCO,2026-12-08,21:45,01:05 (+1),200,1,SkyLab Air,True,90.81,7
+FL00339,Roma,FCO,București,OTP,2026-12-08,06:15,08:30,135,0,SkyLab Air,True,93.24,20
+FL00340,Roma,FCO,București,OTP,2026-12-08,13:15,15:30,135,0,Carpatia Demo Airlines,True,97.2,4
+FL00341,Roma,FCO,Cluj-Napoca,CLJ,2026-12-08,15:15,18:30,195,1,Carpatia Demo Airlines,True,78.8,2
+FL00342,Roma,FCO,Cluj-Napoca,CLJ,2026-12-08,19:30,23:00,210,1,EuroTest Express,False,41.8,12
+FL00343,Roma,FCO,Paris,CDG,2026-12-08,09:00,12:35,215,1,AeroDemo Low-Cost,False,58.38,12
+FL00344,Roma,FCO,Paris,CDG,2026-12-08,11:45,15:20,215,1,Carpatia Demo Airlines,True,51.34,12
+FL00345,Roma,FCO,Viena,VIE,2026-12-08,06:45,09:50,185,1,AeroDemo Low-Cost,False,55.38,12
+FL00346,Roma,FCO,Viena,VIE,2026-12-08,09:45,11:20,95,0,Carpatia Demo Airlines,True,69.3,20
+FL00347,Viena,VIE,București,OTP,2026-12-08,09:15,11:05,110,0,AeroDemo Low-Cost,False,43.4,12
+FL00348,Viena,VIE,București,OTP,2026-12-08,13:15,16:35,200,1,Carpatia Demo Airlines,True,61.48,4
+FL00349,Viena,VIE,Cluj-Napoca,CLJ,2026-12-08,08:00,09:25,85,0,Carpatia Demo Airlines,True,69.9,9
+FL00350,Viena,VIE,Cluj-Napoca,CLJ,2026-12-08,21:15,22:40,85,0,AeroDemo Low-Cost,False,59.45,12
+FL00351,Viena,VIE,Roma,FCO,2026-12-08,08:15,09:50,95,0,EuroTest Express,False,47.03,20
+FL00352,Viena,VIE,Roma,FCO,2026-12-08,15:30,18:35,185,1,EuroTest Express,False,39.92,1
+FL00353,Amsterdam,AMS,București,OTP,2026-12-09,11:45,15:10,205,0,EuroTest Express,False,158.69,9
+FL00354,Amsterdam,AMS,București,OTP,2026-12-09,21:00,00:25 (+1),205,0,SkyLab Air,True,121.02,20
+FL00355,Barcelona,BCN,București,OTP,2026-12-09,08:30,12:15,225,0,AeroDemo Low-Cost,False,83.61,4
+FL00356,Barcelona,BCN,București,OTP,2026-12-09,17:00,20:45,225,0,Carpatia Demo Airlines,True,112.05,1
+FL00357,Barcelona,BCN,Paris,CDG,2026-12-09,11:30,13:15,105,0,Carpatia Demo Airlines,True,78.41,20
+FL00358,Barcelona,BCN,Paris,CDG,2026-12-09,15:15,17:00,105,0,AeroDemo Low-Cost,False,75.17,20
+FL00359,București,OTP,Amsterdam,AMS,2026-12-09,07:00,12:25,325,1,EuroTest Express,False,70.53,9
+FL00360,București,OTP,Amsterdam,AMS,2026-12-09,09:45,13:10,205,0,AeroDemo Low-Cost,False,94.71,0
+FL00361,București,OTP,Barcelona,BCN,2026-12-09,15:00,18:45,225,0,Carpatia Demo Airlines,True,79.21,4
+FL00362,București,OTP,Barcelona,BCN,2026-12-09,15:45,19:30,225,0,EuroTest Express,False,116.93,2
+FL00363,București,OTP,Paris,CDG,2026-12-09,07:45,11:05,200,0,SkyLab Air,True,126.97,7
+FL00364,București,OTP,Paris,CDG,2026-12-09,08:45,12:05,200,0,EuroTest Express,False,65.99,20
+FL00365,București,OTP,Roma,FCO,2026-12-09,15:15,17:30,135,0,Carpatia Demo Airlines,True,62.2,4
+FL00366,București,OTP,Roma,FCO,2026-12-09,15:30,17:45,135,0,SkyLab Air,True,97.13,20
+FL00367,București,OTP,Viena,VIE,2026-12-09,07:00,08:50,110,0,AeroDemo Low-Cost,False,61.52,2
+FL00368,București,OTP,Viena,VIE,2026-12-09,07:45,09:35,110,0,SkyLab Air,True,87.74,9
+FL00369,Cluj-Napoca,CLJ,Paris,CDG,2026-12-09,15:45,18:30,165,0,SkyLab Air,True,78.43,0
+FL00370,Cluj-Napoca,CLJ,Paris,CDG,2026-12-09,17:15,20:00,165,0,Carpatia Demo Airlines,True,126.7,20
+FL00371,Cluj-Napoca,CLJ,Roma,FCO,2026-12-09,08:30,10:30,120,0,EuroTest Express,False,42.54,12
+FL00372,Cluj-Napoca,CLJ,Roma,FCO,2026-12-09,11:00,13:00,120,0,EuroTest Express,False,42.15,1
+FL00373,Cluj-Napoca,CLJ,Viena,VIE,2026-12-09,06:45,08:10,85,0,Carpatia Demo Airlines,True,50.25,1
+FL00374,Cluj-Napoca,CLJ,Viena,VIE,2026-12-09,17:15,18:40,85,0,AeroDemo Low-Cost,False,30.46,4
+FL00375,Paris,CDG,Barcelona,BCN,2026-12-09,07:45,09:30,105,0,AeroDemo Low-Cost,False,67.07,9
+FL00376,Paris,CDG,Barcelona,BCN,2026-12-09,11:30,13:15,105,0,SkyLab Air,True,112.05,9
+FL00377,Paris,CDG,București,OTP,2026-12-09,13:15,16:35,200,0,AeroDemo Low-Cost,False,101.32,12
+FL00378,Paris,CDG,București,OTP,2026-12-09,15:00,18:20,200,0,SkyLab Air,True,149.01,1
+FL00379,Paris,CDG,Cluj-Napoca,CLJ,2026-12-09,07:00,09:45,165,0,SkyLab Air,True,135.6,9
+FL00380,Paris,CDG,Cluj-Napoca,CLJ,2026-12-09,11:15,14:00,165,0,EuroTest Express,False,73.51,20
+FL00381,Paris,CDG,Roma,FCO,2026-12-09,13:15,17:20,245,1,EuroTest Express,False,54.7,2
+FL00382,Paris,CDG,Roma,FCO,2026-12-09,15:45,17:50,125,0,Carpatia Demo Airlines,True,87.77,1
+FL00383,Roma,FCO,București,OTP,2026-12-09,11:45,14:00,135,0,EuroTest Express,False,44.26,4
+FL00384,Roma,FCO,București,OTP,2026-12-09,19:00,21:15,135,0,EuroTest Express,False,63.97,4
+FL00385,Roma,FCO,Cluj-Napoca,CLJ,2026-12-09,08:15,10:15,120,0,EuroTest Express,False,79.43,0
+FL00386,Roma,FCO,Cluj-Napoca,CLJ,2026-12-09,21:45,23:45,120,0,SkyLab Air,True,54.85,2
+FL00387,Roma,FCO,Paris,CDG,2026-12-09,08:30,10:35,125,0,Carpatia Demo Airlines,True,64.75,7
+FL00388,Roma,FCO,Paris,CDG,2026-12-09,15:00,18:35,215,1,AeroDemo Low-Cost,False,70.4,2
+FL00389,Roma,FCO,Viena,VIE,2026-12-09,08:30,10:05,95,0,EuroTest Express,False,74.9,7
+FL00390,Roma,FCO,Viena,VIE,2026-12-09,11:00,12:35,95,0,AeroDemo Low-Cost,False,57.51,2
+FL00391,Viena,VIE,București,OTP,2026-12-09,08:15,10:05,110,0,EuroTest Express,False,69.71,12
+FL00392,Viena,VIE,București,OTP,2026-12-09,19:15,21:05,110,0,EuroTest Express,False,64.58,20
+FL00393,Viena,VIE,Cluj-Napoca,CLJ,2026-12-09,07:15,08:40,85,0,SkyLab Air,True,80.44,9
+FL00394,Viena,VIE,Cluj-Napoca,CLJ,2026-12-09,08:15,10:55,160,1,SkyLab Air,True,68.13,9
+FL00395,Viena,VIE,Roma,FCO,2026-12-09,06:00,07:35,95,0,Carpatia Demo Airlines,True,69.81,20
+FL00396,Viena,VIE,Roma,FCO,2026-12-09,08:45,11:50,185,1,AeroDemo Low-Cost,False,24.5,12
+FL00397,Amsterdam,AMS,București,OTP,2026-12-10,08:00,12:40,280,1,AeroDemo Low-Cost,False,85.42,9
+FL00398,Amsterdam,AMS,București,OTP,2026-12-10,08:30,13:55,325,1,Carpatia Demo Airlines,True,142.57,0
+FL00399,Barcelona,BCN,București,OTP,2026-12-10,07:15,11:00,225,0,EuroTest Express,False,121.54,1
+FL00400,Barcelona,BCN,București,OTP,2026-12-10,13:15,17:00,225,0,AeroDemo Low-Cost,False,126.48,12
+FL00401,Barcelona,BCN,Paris,CDG,2026-12-10,07:15,09:00,105,0,Carpatia Demo Airlines,True,61.17,0
+FL00402,Barcelona,BCN,Paris,CDG,2026-12-10,07:30,09:15,105,0,SkyLab Air,True,77.52,20
+FL00403,București,OTP,Amsterdam,AMS,2026-12-10,09:00,12:25,205,0,Carpatia Demo Airlines,True,81.31,12
+FL00404,București,OTP,Amsterdam,AMS,2026-12-10,21:00,00:25 (+1),205,0,AeroDemo Low-Cost,False,115.15,2
+FL00405,București,OTP,Barcelona,BCN,2026-12-10,19:15,23:00,225,0,EuroTest Express,False,98.59,0
+FL00406,București,OTP,Barcelona,BCN,2026-12-10,21:30,01:15 (+1),225,0,EuroTest Express,False,64.6,7
+FL00407,București,OTP,Paris,CDG,2026-12-10,08:15,11:35,200,0,EuroTest Express,False,106.67,0
+FL00408,București,OTP,Paris,CDG,2026-12-10,09:15,12:35,200,0,EuroTest Express,False,114.29,20
+FL00409,București,OTP,Roma,FCO,2026-12-10,07:15,11:30,255,1,AeroDemo Low-Cost,False,38.25,20
+FL00410,București,OTP,Roma,FCO,2026-12-10,11:15,13:30,135,0,AeroDemo Low-Cost,False,66.64,1
+FL00411,București,OTP,Viena,VIE,2026-12-10,06:00,07:50,110,0,AeroDemo Low-Cost,False,54.91,12
+FL00412,București,OTP,Viena,VIE,2026-12-10,08:45,10:35,110,0,Carpatia Demo Airlines,True,39.98,1
+FL00413,Cluj-Napoca,CLJ,Paris,CDG,2026-12-10,06:45,10:45,240,1,EuroTest Express,False,64.65,12
+FL00414,Cluj-Napoca,CLJ,Paris,CDG,2026-12-10,07:30,10:15,165,0,Carpatia Demo Airlines,True,99.92,0
+FL00415,Cluj-Napoca,CLJ,Roma,FCO,2026-12-10,11:00,13:00,120,0,Carpatia Demo Airlines,True,80.67,1
+FL00416,Cluj-Napoca,CLJ,Roma,FCO,2026-12-10,13:00,15:00,120,0,SkyLab Air,True,98.2,2
+FL00417,Cluj-Napoca,CLJ,Viena,VIE,2026-12-10,17:15,18:40,85,0,Carpatia Demo Airlines,True,77.57,4
+FL00418,Cluj-Napoca,CLJ,Viena,VIE,2026-12-10,21:30,00:55 (+1),205,1,Carpatia Demo Airlines,True,54.25,20
+FL00419,Paris,CDG,Barcelona,BCN,2026-12-10,13:30,15:15,105,0,SkyLab Air,True,65.05,1
+FL00420,Paris,CDG,Barcelona,BCN,2026-12-10,21:00,00:00 (+1),180,1,EuroTest Express,False,37.22,20
+FL00421,Paris,CDG,București,OTP,2026-12-10,07:15,11:50,275,1,EuroTest Express,False,95.14,12
+FL00422,Paris,CDG,București,OTP,2026-12-10,13:15,16:35,200,0,Carpatia Demo Airlines,True,93.42,1
+FL00423,Paris,CDG,Cluj-Napoca,CLJ,2026-12-10,11:30,14:15,165,0,Carpatia Demo Airlines,True,104.29,0
+FL00424,Paris,CDG,Cluj-Napoca,CLJ,2026-12-10,19:00,23:15,255,1,EuroTest Express,False,48.11,20
+FL00425,Paris,CDG,Roma,FCO,2026-12-10,08:15,10:20,125,0,AeroDemo Low-Cost,False,50.09,9
+FL00426,Paris,CDG,Roma,FCO,2026-12-10,19:15,21:20,125,0,AeroDemo Low-Cost,False,80.28,1
+FL00427,Roma,FCO,București,OTP,2026-12-10,07:00,10:30,210,1,AeroDemo Low-Cost,False,41.98,7
+FL00428,Roma,FCO,București,OTP,2026-12-10,13:00,16:45,225,1,AeroDemo Low-Cost,False,58.29,20
+FL00429,Roma,FCO,Cluj-Napoca,CLJ,2026-12-10,06:15,08:15,120,0,AeroDemo Low-Cost,False,53.28,12
+FL00430,Roma,FCO,Cluj-Napoca,CLJ,2026-12-10,07:00,10:15,195,1,Carpatia Demo Airlines,True,69.99,0
+FL00431,Roma,FCO,Paris,CDG,2026-12-10,06:15,08:20,125,0,SkyLab Air,True,70.28,0
+FL00432,Roma,FCO,Paris,CDG,2026-12-10,19:45,21:50,125,0,EuroTest Express,False,94.91,20
+FL00433,Roma,FCO,Viena,VIE,2026-12-10,09:15,12:05,170,1,AeroDemo Low-Cost,False,54.73,9
+FL00434,Roma,FCO,Viena,VIE,2026-12-10,19:15,20:50,95,0,SkyLab Air,True,67.05,2
+FL00435,Viena,VIE,București,OTP,2026-12-10,07:15,09:05,110,0,SkyLab Air,True,48.28,1
+FL00436,Viena,VIE,București,OTP,2026-12-10,08:30,10:20,110,0,EuroTest Express,False,65.98,1
+FL00437,Viena,VIE,Cluj-Napoca,CLJ,2026-12-10,15:00,17:40,160,1,EuroTest Express,False,45.75,0
+FL00438,Viena,VIE,Cluj-Napoca,CLJ,2026-12-10,15:30,18:10,160,1,Carpatia Demo Airlines,True,36.68,4
+FL00439,Viena,VIE,Roma,FCO,2026-12-10,11:30,13:05,95,0,SkyLab Air,True,41.45,12
+FL00440,Viena,VIE,Roma,FCO,2026-12-10,13:15,14:50,95,0,EuroTest Express,False,66.96,9
+FL00441,Amsterdam,AMS,București,OTP,2026-12-11,08:30,11:55,205,0,SkyLab Air,True,182.0,2
+FL00442,Amsterdam,AMS,București,OTP,2026-12-11,11:15,14:40,205,0,SkyLab Air,True,190.65,12
+FL00443,Barcelona,BCN,București,OTP,2026-12-11,09:30,15:15,345,1,AeroDemo Low-Cost,False,120.03,0
+FL00444,Barcelona,BCN,București,OTP,2026-12-11,15:30,19:15,225,0,EuroTest Express,False,90.28,9
+FL00445,Barcelona,BCN,Paris,CDG,2026-12-11,06:15,09:15,180,1,Carpatia Demo Airlines,True,99.51,20
+FL00446,Barcelona,BCN,Paris,CDG,2026-12-11,08:15,10:00,105,0,EuroTest Express,False,51.7,12
+FL00447,București,OTP,Amsterdam,AMS,2026-12-11,13:00,16:25,205,0,AeroDemo Low-Cost,False,136.24,12
+FL00448,București,OTP,Amsterdam,AMS,2026-12-11,13:15,16:40,205,0,AeroDemo Low-Cost,False,139.01,12
+FL00449,București,OTP,Barcelona,BCN,2026-12-11,08:00,11:45,225,0,Carpatia Demo Airlines,True,150.42,0
+FL00450,București,OTP,Barcelona,BCN,2026-12-11,17:30,23:15,345,1,Carpatia Demo Airlines,True,168.58,2
+FL00451,București,OTP,Paris,CDG,2026-12-11,08:00,11:20,200,0,Carpatia Demo Airlines,True,146.39,4
+FL00452,București,OTP,Paris,CDG,2026-12-11,19:45,23:05,200,0,Carpatia Demo Airlines,True,85.89,12
+FL00453,București,OTP,Roma,FCO,2026-12-11,07:30,09:45,135,0,SkyLab Air,True,56.53,20
+FL00454,București,OTP,Roma,FCO,2026-12-11,11:00,13:15,135,0,AeroDemo Low-Cost,False,96.44,4
+FL00455,București,OTP,Viena,VIE,2026-12-11,06:30,08:20,110,0,Carpatia Demo Airlines,True,82.77,4
+FL00456,București,OTP,Viena,VIE,2026-12-11,08:45,10:35,110,0,SkyLab Air,True,56.01,4
+FL00457,Cluj-Napoca,CLJ,Paris,CDG,2026-12-11,17:45,20:30,165,0,EuroTest Express,False,107.31,1
+FL00458,Cluj-Napoca,CLJ,Paris,CDG,2026-12-11,21:15,00:00 (+1),165,0,SkyLab Air,True,120.92,0
+FL00459,Cluj-Napoca,CLJ,Roma,FCO,2026-12-11,07:15,09:15,120,0,EuroTest Express,False,99.85,2
+FL00460,Cluj-Napoca,CLJ,Roma,FCO,2026-12-11,13:15,17:15,240,1,AeroDemo Low-Cost,False,56.37,20
+FL00461,Cluj-Napoca,CLJ,Viena,VIE,2026-12-11,08:45,10:10,85,0,AeroDemo Low-Cost,False,32.8,9
+FL00462,Cluj-Napoca,CLJ,Viena,VIE,2026-12-11,15:30,16:55,85,0,EuroTest Express,False,48.58,4
+FL00463,Paris,CDG,Barcelona,BCN,2026-12-11,15:45,17:30,105,0,SkyLab Air,True,123.39,20
+FL00464,Paris,CDG,Barcelona,BCN,2026-12-11,19:45,21:30,105,0,AeroDemo Low-Cost,False,51.83,0
+FL00465,Paris,CDG,București,OTP,2026-12-11,13:45,17:05,200,0,SkyLab Air,True,181.35,9
+FL00466,Paris,CDG,București,OTP,2026-12-11,19:15,22:35,200,0,EuroTest Express,False,170.17,0
+FL00467,Paris,CDG,Cluj-Napoca,CLJ,2026-12-11,11:00,15:00,240,1,Carpatia Demo Airlines,True,84.28,12
+FL00468,Paris,CDG,Cluj-Napoca,CLJ,2026-12-11,19:00,21:45,165,0,EuroTest Express,False,111.56,20
+FL00469,Paris,CDG,Roma,FCO,2026-12-11,11:00,13:05,125,0,SkyLab Air,True,121.16,1
+FL00470,Paris,CDG,Roma,FCO,2026-12-11,13:15,15:20,125,0,Carpatia Demo Airlines,True,55.21,20
+FL00471,Roma,FCO,București,OTP,2026-12-11,08:30,10:45,135,0,SkyLab Air,True,125.52,7
+FL00472,Roma,FCO,București,OTP,2026-12-11,21:45,02:00 (+1),255,1,AeroDemo Low-Cost,False,52.3,0
+FL00473,Roma,FCO,Cluj-Napoca,CLJ,2026-12-11,07:00,09:00,120,0,AeroDemo Low-Cost,False,56.65,12
+FL00474,Roma,FCO,Cluj-Napoca,CLJ,2026-12-11,13:45,15:45,120,0,AeroDemo Low-Cost,False,50.15,4
+FL00475,Roma,FCO,Paris,CDG,2026-12-11,07:45,09:50,125,0,EuroTest Express,False,68.12,12
+FL00476,Roma,FCO,Paris,CDG,2026-12-11,11:00,13:05,125,0,SkyLab Air,True,103.39,2
+FL00477,Roma,FCO,Viena,VIE,2026-12-11,06:45,08:20,95,0,Carpatia Demo Airlines,True,67.14,2
+FL00478,Roma,FCO,Viena,VIE,2026-12-11,21:00,22:35,95,0,AeroDemo Low-Cost,False,76.22,9
+FL00479,Viena,VIE,București,OTP,2026-12-11,08:30,10:20,110,0,EuroTest Express,False,41.69,2
+FL00480,Viena,VIE,București,OTP,2026-12-11,17:00,20:20,200,1,EuroTest Express,False,81.55,4
+FL00481,Viena,VIE,Cluj-Napoca,CLJ,2026-12-11,21:45,00:25 (+1),160,1,AeroDemo Low-Cost,False,27.92,0
+FL00482,Viena,VIE,Cluj-Napoca,CLJ,2026-12-11,21:45,00:25 (+1),160,1,SkyLab Air,True,40.65,4
+FL00483,Viena,VIE,Roma,FCO,2026-12-11,07:00,08:35,95,0,Carpatia Demo Airlines,True,75.95,9
+FL00484,Viena,VIE,Roma,FCO,2026-12-11,15:15,16:50,95,0,AeroDemo Low-Cost,False,40.47,7
+FL00485,Amsterdam,AMS,București,OTP,2026-12-12,11:30,14:55,205,0,AeroDemo Low-Cost,False,106.44,0
+FL00486,Amsterdam,AMS,București,OTP,2026-12-12,21:45,01:10 (+1),205,0,AeroDemo Low-Cost,False,97.99,2
+FL00487,Barcelona,BCN,București,OTP,2026-12-12,09:15,13:00,225,0,EuroTest Express,False,95.53,4
+FL00488,Barcelona,BCN,București,OTP,2026-12-12,11:00,14:45,225,0,Carpatia Demo Airlines,True,82.62,0
+FL00489,Barcelona,BCN,Paris,CDG,2026-12-12,07:45,11:00,195,1,AeroDemo Low-Cost,False,51.58,7
+FL00490,Barcelona,BCN,Paris,CDG,2026-12-12,09:00,10:45,105,0,SkyLab Air,True,86.67,1
+FL00491,București,OTP,Amsterdam,AMS,2026-12-12,07:45,11:10,205,0,Carpatia Demo Airlines,True,124.57,7
+FL00492,București,OTP,Amsterdam,AMS,2026-12-12,11:30,14:55,205,0,Carpatia Demo Airlines,True,101.42,4
+FL00493,București,OTP,Barcelona,BCN,2026-12-12,11:30,15:15,225,0,Carpatia Demo Airlines,True,139.47,1
+FL00494,București,OTP,Barcelona,BCN,2026-12-12,17:45,22:45,300,1,AeroDemo Low-Cost,False,131.7,20
+FL00495,București,OTP,Paris,CDG,2026-12-12,13:00,16:20,200,0,SkyLab Air,True,182.61,1
+FL00496,București,OTP,Paris,CDG,2026-12-12,15:00,18:20,200,0,Carpatia Demo Airlines,True,126.19,12
+FL00497,București,OTP,Roma,FCO,2026-12-12,15:00,17:15,135,0,EuroTest Express,False,101.47,9
+FL00498,București,OTP,Roma,FCO,2026-12-12,17:45,20:00,135,0,SkyLab Air,True,66.85,12
+FL00499,București,OTP,Viena,VIE,2026-12-12,06:15,08:05,110,0,EuroTest Express,False,77.2,7
+FL00500,București,OTP,Viena,VIE,2026-12-12,19:00,20:50,110,0,Carpatia Demo Airlines,True,45.45,2
+FL00501,Cluj-Napoca,CLJ,Paris,CDG,2026-12-12,17:00,19:45,165,0,SkyLab Air,True,135.22,1
+FL00502,Cluj-Napoca,CLJ,Paris,CDG,2026-12-12,19:00,21:45,165,0,SkyLab Air,True,113.39,7
+FL00503,Cluj-Napoca,CLJ,Roma,FCO,2026-12-12,09:45,11:45,120,0,EuroTest Express,False,62.07,7
+FL00504,Cluj-Napoca,CLJ,Roma,FCO,2026-12-12,19:15,21:15,120,0,EuroTest Express,False,46.27,2
+FL00505,Cluj-Napoca,CLJ,Viena,VIE,2026-12-12,06:45,08:10,85,0,Carpatia Demo Airlines,True,49.87,2
+FL00506,Cluj-Napoca,CLJ,Viena,VIE,2026-12-12,07:15,08:40,85,0,EuroTest Express,False,56.38,12
+FL00507,Paris,CDG,Barcelona,BCN,2026-12-12,11:00,12:45,105,0,SkyLab Air,True,132.4,1
+FL00508,Paris,CDG,Barcelona,BCN,2026-12-12,21:15,23:00,105,0,EuroTest Express,False,67.37,0
+FL00509,Paris,CDG,București,OTP,2026-12-12,09:00,13:35,275,1,EuroTest Express,False,60.94,0
+FL00510,Paris,CDG,București,OTP,2026-12-12,15:15,18:35,200,0,Carpatia Demo Airlines,True,176.01,0
+FL00511,Paris,CDG,Cluj-Napoca,CLJ,2026-12-12,08:00,10:45,165,0,EuroTest Express,False,88.43,2
+FL00512,Paris,CDG,Cluj-Napoca,CLJ,2026-12-12,08:15,12:15,240,1,SkyLab Air,True,92.79,20
+FL00513,Paris,CDG,Roma,FCO,2026-12-12,08:30,10:35,125,0,SkyLab Air,True,87.6,4
+FL00514,Paris,CDG,Roma,FCO,2026-12-12,15:00,17:05,125,0,EuroTest Express,False,62.25,2
+FL00515,Roma,FCO,București,OTP,2026-12-12,17:00,19:15,135,0,Carpatia Demo Airlines,True,58.04,20
+FL00516,Roma,FCO,București,OTP,2026-12-12,17:30,21:15,225,1,EuroTest Express,False,38.07,7
+FL00517,Roma,FCO,Cluj-Napoca,CLJ,2026-12-12,11:45,13:45,120,0,EuroTest Express,False,62.87,7
+FL00518,Roma,FCO,Cluj-Napoca,CLJ,2026-12-12,19:15,21:15,120,0,Carpatia Demo Airlines,True,105.37,1
+FL00519,Roma,FCO,Paris,CDG,2026-12-12,06:30,10:05,215,1,EuroTest Express,False,66.66,9
+FL00520,Roma,FCO,Paris,CDG,2026-12-12,13:30,15:35,125,0,EuroTest Express,False,53.75,7
+FL00521,Roma,FCO,Viena,VIE,2026-12-12,15:30,17:05,95,0,EuroTest Express,False,39.46,20
+FL00522,Roma,FCO,Viena,VIE,2026-12-12,17:30,19:05,95,0,EuroTest Express,False,37.41,1
+FL00523,Viena,VIE,București,OTP,2026-12-12,15:30,17:20,110,0,Carpatia Demo Airlines,True,61.8,20
+FL00524,Viena,VIE,București,OTP,2026-12-12,21:45,23:35,110,0,Carpatia Demo Airlines,True,51.73,9
+FL00525,Viena,VIE,Cluj-Napoca,CLJ,2026-12-12,13:15,14:40,85,0,Carpatia Demo Airlines,True,76.47,4
+FL00526,Viena,VIE,Cluj-Napoca,CLJ,2026-12-12,17:45,19:10,85,0,SkyLab Air,True,44.11,4
+FL00527,Viena,VIE,Roma,FCO,2026-12-12,07:45,10:35,170,1,Carpatia Demo Airlines,True,67.34,7
+FL00528,Viena,VIE,Roma,FCO,2026-12-12,08:45,10:20,95,0,Carpatia Demo Airlines,True,73.17,1
+FL00529,Amsterdam,AMS,București,OTP,2026-12-13,06:15,09:40,205,0,Carpatia Demo Airlines,True,124.03,20
+FL00530,Amsterdam,AMS,București,OTP,2026-12-13,07:00,10:25,205,0,Carpatia Demo Airlines,True,110.34,9
+FL00531,Barcelona,BCN,București,OTP,2026-12-13,09:45,13:30,225,0,SkyLab Air,True,174.18,12
+FL00532,Barcelona,BCN,București,OTP,2026-12-13,19:15,01:00 (+1),345,1,Carpatia Demo Airlines,True,155.78,1
+FL00533,Barcelona,BCN,Paris,CDG,2026-12-13,07:15,10:15,180,1,SkyLab Air,True,94.96,1
+FL00534,Barcelona,BCN,Paris,CDG,2026-12-13,11:30,14:30,180,1,SkyLab Air,True,56.06,7
+FL00535,București,OTP,Amsterdam,AMS,2026-12-13,17:00,21:40,280,1,Carpatia Demo Airlines,True,112.97,0
+FL00536,București,OTP,Amsterdam,AMS,2026-12-13,21:30,00:55 (+1),205,0,AeroDemo Low-Cost,False,122.11,20
+FL00537,București,OTP,Barcelona,BCN,2026-12-13,07:45,11:30,225,0,SkyLab Air,True,93.3,7
+FL00538,București,OTP,Barcelona,BCN,2026-12-13,21:00,00:45 (+1),225,0,SkyLab Air,True,202.49,2
+FL00539,București,OTP,Paris,CDG,2026-12-13,15:45,20:35,290,1,EuroTest Express,False,130.85,20
+FL00540,București,OTP,Paris,CDG,2026-12-13,17:30,20:50,200,0,Carpatia Demo Airlines,True,86.48,9
+FL00541,București,OTP,Roma,FCO,2026-12-13,09:45,12:00,135,0,AeroDemo Low-Cost,False,53.95,0
+FL00542,București,OTP,Roma,FCO,2026-12-13,17:15,19:30,135,0,AeroDemo Low-Cost,False,83.82,1
+FL00543,București,OTP,Viena,VIE,2026-12-13,08:00,09:50,110,0,SkyLab Air,True,73.06,9
+FL00544,București,OTP,Viena,VIE,2026-12-13,19:00,20:50,110,0,EuroTest Express,False,79.32,2
+FL00545,Cluj-Napoca,CLJ,Paris,CDG,2026-12-13,17:15,20:00,165,0,SkyLab Air,True,134.68,2
+FL00546,Cluj-Napoca,CLJ,Paris,CDG,2026-12-13,21:15,00:00 (+1),165,0,SkyLab Air,True,72.57,0
+FL00547,Cluj-Napoca,CLJ,Roma,FCO,2026-12-13,11:30,13:30,120,0,Carpatia Demo Airlines,True,52.0,2
+FL00548,Cluj-Napoca,CLJ,Roma,FCO,2026-12-13,15:00,18:30,210,1,SkyLab Air,True,80.36,4
+FL00549,Cluj-Napoca,CLJ,Viena,VIE,2026-12-13,19:30,20:55,85,0,SkyLab Air,True,76.05,9
+FL00550,Cluj-Napoca,CLJ,Viena,VIE,2026-12-13,21:30,00:55 (+1),205,1,EuroTest Express,False,44.07,2
+FL00551,Paris,CDG,Barcelona,BCN,2026-12-13,11:15,15:00,225,1,AeroDemo Low-Cost,False,75.65,20
+FL00552,Paris,CDG,Barcelona,BCN,2026-12-13,13:15,15:00,105,0,EuroTest Express,False,106.35,7
+FL00553,Paris,CDG,București,OTP,2026-12-13,08:00,11:20,200,0,SkyLab Air,True,170.67,0
+FL00554,Paris,CDG,București,OTP,2026-12-13,21:45,03:05 (+1),320,1,EuroTest Express,False,117.15,2
+FL00555,Paris,CDG,Cluj-Napoca,CLJ,2026-12-13,13:30,16:15,165,0,EuroTest Express,False,130.21,2
+FL00556,Paris,CDG,Cluj-Napoca,CLJ,2026-12-13,21:30,00:15 (+1),165,0,AeroDemo Low-Cost,False,121.77,12
+FL00557,Paris,CDG,Roma,FCO,2026-12-13,11:00,14:35,215,1,SkyLab Air,True,76.51,9
+FL00558,Paris,CDG,Roma,FCO,2026-12-13,17:00,19:05,125,0,AeroDemo Low-Cost,False,95.3,4
+FL00559,Roma,FCO,București,OTP,2026-12-13,06:30,08:45,135,0,AeroDemo Low-Cost,False,85.1,9
+FL00560,Roma,FCO,București,OTP,2026-12-13,07:00,09:15,135,0,SkyLab Air,True,121.03,2
+FL00561,Roma,FCO,Cluj-Napoca,CLJ,2026-12-13,15:00,19:00,240,1,Carpatia Demo Airlines,True,86.01,1
+FL00562,Roma,FCO,Cluj-Napoca,CLJ,2026-12-13,15:15,17:15,120,0,AeroDemo Low-Cost,False,80.26,4
+FL00563,Roma,FCO,Paris,CDG,2026-12-13,06:15,09:50,215,1,EuroTest Express,False,84.14,2
+FL00564,Roma,FCO,Paris,CDG,2026-12-13,08:00,10:05,125,0,Carpatia Demo Airlines,True,112.64,4
+FL00565,Roma,FCO,Viena,VIE,2026-12-13,09:30,11:05,95,0,AeroDemo Low-Cost,False,51.04,4
+FL00566,Roma,FCO,Viena,VIE,2026-12-13,19:00,20:35,95,0,EuroTest Express,False,46.17,12
+FL00567,Viena,VIE,București,OTP,2026-12-13,09:45,13:05,200,1,Carpatia Demo Airlines,True,84.85,1
+FL00568,Viena,VIE,București,OTP,2026-12-13,21:45,23:35,110,0,SkyLab Air,True,112.72,20
+FL00569,Viena,VIE,Cluj-Napoca,CLJ,2026-12-13,13:00,14:25,85,0,EuroTest Express,False,62.96,12
+FL00570,Viena,VIE,Cluj-Napoca,CLJ,2026-12-13,15:00,16:25,85,0,Carpatia Demo Airlines,True,44.01,12
+FL00571,Viena,VIE,Roma,FCO,2026-12-13,08:00,09:35,95,0,AeroDemo Low-Cost,False,79.25,0
+FL00572,Viena,VIE,Roma,FCO,2026-12-13,21:30,23:05,95,0,Carpatia Demo Airlines,True,90.09,9
+FL00573,Amsterdam,AMS,București,OTP,2026-12-14,07:15,10:40,205,0,AeroDemo Low-Cost,False,99.58,9
+FL00574,Amsterdam,AMS,București,OTP,2026-12-14,08:30,11:55,205,0,Carpatia Demo Airlines,True,175.54,2
+FL00575,Barcelona,BCN,București,OTP,2026-12-14,09:15,15:00,345,1,SkyLab Air,True,102.35,7
+FL00576,Barcelona,BCN,București,OTP,2026-12-14,17:45,21:30,225,0,Carpatia Demo Airlines,True,154.09,0
+FL00577,Barcelona,BCN,Paris,CDG,2026-12-14,09:45,11:30,105,0,Carpatia Demo Airlines,True,104.54,20
+FL00578,Barcelona,BCN,Paris,CDG,2026-12-14,11:15,15:00,225,1,EuroTest Express,False,78.31,0
+FL00579,București,OTP,Amsterdam,AMS,2026-12-14,07:30,10:55,205,0,SkyLab Air,True,87.2,1
+FL00580,București,OTP,Amsterdam,AMS,2026-12-14,17:30,20:55,205,0,EuroTest Express,False,77.26,4
+FL00581,București,OTP,Barcelona,BCN,2026-12-14,07:30,11:15,225,0,Carpatia Demo Airlines,True,100.19,1
+FL00582,București,OTP,Barcelona,BCN,2026-12-14,21:00,00:45 (+1),225,0,AeroDemo Low-Cost,False,103.69,1
+FL00583,București,OTP,Paris,CDG,2026-12-14,08:00,11:20,200,0,AeroDemo Low-Cost,False,109.58,0
+FL00584,București,OTP,Paris,CDG,2026-12-14,09:45,13:05,200,0,EuroTest Express,False,77.72,12
+FL00585,București,OTP,Roma,FCO,2026-12-14,06:00,08:15,135,0,SkyLab Air,True,70.18,4
+FL00586,București,OTP,Roma,FCO,2026-12-14,13:45,16:00,135,0,EuroTest Express,False,59.68,7
+FL00587,București,OTP,Viena,VIE,2026-12-14,13:00,14:50,110,0,EuroTest Express,False,81.16,2
+FL00588,București,OTP,Viena,VIE,2026-12-14,21:45,01:35 (+1),230,1,AeroDemo Low-Cost,False,48.3,1
+FL00589,Cluj-Napoca,CLJ,Paris,CDG,2026-12-14,09:00,11:45,165,0,SkyLab Air,True,87.21,20
+FL00590,Cluj-Napoca,CLJ,Paris,CDG,2026-12-14,09:30,12:15,165,0,EuroTest Express,False,87.06,1
+FL00591,Cluj-Napoca,CLJ,Roma,FCO,2026-12-14,09:45,11:45,120,0,AeroDemo Low-Cost,False,70.52,2
+FL00592,Cluj-Napoca,CLJ,Roma,FCO,2026-12-14,17:45,19:45,120,0,Carpatia Demo Airlines,True,84.32,20
+FL00593,Cluj-Napoca,CLJ,Viena,VIE,2026-12-14,17:15,19:55,160,1,AeroDemo Low-Cost,False,31.34,4
+FL00594,Cluj-Napoca,CLJ,Viena,VIE,2026-12-14,19:30,20:55,85,0,AeroDemo Low-Cost,False,45.0,20
+FL00595,Paris,CDG,Barcelona,BCN,2026-12-14,08:15,11:15,180,1,AeroDemo Low-Cost,False,55.53,0
+FL00596,Paris,CDG,Barcelona,BCN,2026-12-14,17:15,19:00,105,0,SkyLab Air,True,57.37,12
+FL00597,Paris,CDG,București,OTP,2026-12-14,08:30,13:50,320,1,AeroDemo Low-Cost,False,49.62,4
+FL00598,Paris,CDG,București,OTP,2026-12-14,17:45,21:05,200,0,Carpatia Demo Airlines,True,97.32,12
+FL00599,Paris,CDG,Cluj-Napoca,CLJ,2026-12-14,06:15,09:00,165,0,SkyLab Air,True,127.05,2
+FL00600,Paris,CDG,Cluj-Napoca,CLJ,2026-12-14,21:15,02:00 (+1),285,1,SkyLab Air,True,111.81,9
+FL00601,Paris,CDG,Roma,FCO,2026-12-14,07:15,09:20,125,0,Carpatia Demo Airlines,True,99.75,1
+FL00602,Paris,CDG,Roma,FCO,2026-12-14,19:30,22:50,200,1,EuroTest Express,False,42.18,2
+FL00603,Roma,FCO,București,OTP,2026-12-14,07:15,09:30,135,0,Carpatia Demo Airlines,True,75.59,1
+FL00604,Roma,FCO,București,OTP,2026-12-14,13:45,16:00,135,0,AeroDemo Low-Cost,False,35.81,4
+FL00605,Roma,FCO,Cluj-Napoca,CLJ,2026-12-14,07:00,09:00,120,0,EuroTest Express,False,79.83,0
+FL00606,Roma,FCO,Cluj-Napoca,CLJ,2026-12-14,21:00,00:30 (+1),210,1,AeroDemo Low-Cost,False,60.68,2
+FL00607,Roma,FCO,Paris,CDG,2026-12-14,15:15,17:20,125,0,AeroDemo Low-Cost,False,57.92,9
+FL00608,Roma,FCO,Paris,CDG,2026-12-14,21:00,23:05,125,0,SkyLab Air,True,114.99,20
+FL00609,Roma,FCO,Viena,VIE,2026-12-14,07:00,08:35,95,0,SkyLab Air,True,70.65,12
+FL00610,Roma,FCO,Viena,VIE,2026-12-14,08:45,10:20,95,0,EuroTest Express,False,61.55,1
+FL00611,Viena,VIE,București,OTP,2026-12-14,13:15,16:35,200,1,Carpatia Demo Airlines,True,78.18,2
+FL00612,Viena,VIE,București,OTP,2026-12-14,21:30,00:35 (+1),185,1,EuroTest Express,False,34.96,0
+FL00613,Viena,VIE,Cluj-Napoca,CLJ,2026-12-14,13:00,16:25,205,1,AeroDemo Low-Cost,False,55.04,7
+FL00614,Viena,VIE,Cluj-Napoca,CLJ,2026-12-14,21:15,22:40,85,0,Carpatia Demo Airlines,True,65.36,9
+FL00615,Viena,VIE,Roma,FCO,2026-12-14,13:45,17:20,215,1,Carpatia Demo Airlines,True,57.71,4
+FL00616,Viena,VIE,Roma,FCO,2026-12-14,15:15,18:50,215,1,EuroTest Express,False,61.43,2
+FL00617,Amsterdam,AMS,București,OTP,2026-12-15,07:00,10:25,205,0,EuroTest Express,False,93.4,1
+FL00618,Amsterdam,AMS,București,OTP,2026-12-15,09:45,13:10,205,0,EuroTest Express,False,120.68,7
+FL00619,Barcelona,BCN,București,OTP,2026-12-15,17:45,21:30,225,0,AeroDemo Low-Cost,False,60.51,4
+FL00620,Barcelona,BCN,București,OTP,2026-12-15,21:00,00:45 (+1),225,0,Carpatia Demo Airlines,True,109.27,0
+FL00621,Barcelona,BCN,Paris,CDG,2026-12-15,08:45,10:30,105,0,SkyLab Air,True,55.52,9
+FL00622,Barcelona,BCN,Paris,CDG,2026-12-15,19:00,20:45,105,0,SkyLab Air,True,53.06,2
+FL00623,București,OTP,Amsterdam,AMS,2026-12-15,15:15,18:40,205,0,Carpatia Demo Airlines,True,73.66,1
+FL00624,București,OTP,Amsterdam,AMS,2026-12-15,19:30,22:55,205,0,AeroDemo Low-Cost,False,140.83,7
+FL00625,București,OTP,Barcelona,BCN,2026-12-15,17:15,21:00,225,0,AeroDemo Low-Cost,False,72.96,12
+FL00626,București,OTP,Barcelona,BCN,2026-12-15,21:30,01:15 (+1),225,0,Carpatia Demo Airlines,True,110.21,2
+FL00627,București,OTP,Paris,CDG,2026-12-15,06:00,11:20,320,1,Carpatia Demo Airlines,True,56.71,4
+FL00628,București,OTP,Paris,CDG,2026-12-15,07:15,10:35,200,0,Carpatia Demo Airlines,True,130.51,7
+FL00629,București,OTP,Roma,FCO,2026-12-15,08:00,10:15,135,0,AeroDemo Low-Cost,False,66.32,12
+FL00630,București,OTP,Roma,FCO,2026-12-15,19:45,22:00,135,0,Carpatia Demo Airlines,True,101.12,20
+FL00631,București,OTP,Viena,VIE,2026-12-15,06:45,10:05,200,1,Carpatia Demo Airlines,True,63.68,7
+FL00632,București,OTP,Viena,VIE,2026-12-15,08:45,10:35,110,0,AeroDemo Low-Cost,False,31.7,7
+FL00633,Cluj-Napoca,CLJ,Paris,CDG,2026-12-15,09:30,12:15,165,0,SkyLab Air,True,151.78,4
+FL00634,Cluj-Napoca,CLJ,Paris,CDG,2026-12-15,15:30,18:15,165,0,EuroTest Express,False,93.97,2
+FL00635,Cluj-Napoca,CLJ,Roma,FCO,2026-12-15,13:45,15:45,120,0,SkyLab Air,True,72.55,0
+FL00636,Cluj-Napoca,CLJ,Roma,FCO,2026-12-15,21:30,23:30,120,0,Carpatia Demo Airlines,True,64.9,12
+FL00637,Cluj-Napoca,CLJ,Viena,VIE,2026-12-15,19:00,20:25,85,0,SkyLab Air,True,56.51,9
+FL00638,Cluj-Napoca,CLJ,Viena,VIE,2026-12-15,21:30,22:55,85,0,SkyLab Air,True,46.26,7
+FL00639,Paris,CDG,Barcelona,BCN,2026-12-15,09:45,11:30,105,0,AeroDemo Low-Cost,False,43.48,2
+FL00640,Paris,CDG,Barcelona,BCN,2026-12-15,11:45,13:30,105,0,Carpatia Demo Airlines,True,78.0,4
+FL00641,Paris,CDG,București,OTP,2026-12-15,15:30,18:50,200,0,Carpatia Demo Airlines,True,93.28,12
+FL00642,Paris,CDG,București,OTP,2026-12-15,19:45,23:05,200,0,EuroTest Express,False,92.39,20
+FL00643,Paris,CDG,Cluj-Napoca,CLJ,2026-12-15,09:15,12:00,165,0,SkyLab Air,True,82.15,4
+FL00644,Paris,CDG,Cluj-Napoca,CLJ,2026-12-15,13:15,16:00,165,0,EuroTest Express,False,60.52,1
+FL00645,Paris,CDG,Roma,FCO,2026-12-15,09:30,11:35,125,0,EuroTest Express,False,98.73,9
+FL00646,Paris,CDG,Roma,FCO,2026-12-15,15:15,18:50,215,1,Carpatia Demo Airlines,True,78.45,9
+FL00647,Roma,FCO,București,OTP,2026-12-15,07:30,09:45,135,0,EuroTest Express,False,87.51,12
+FL00648,Roma,FCO,București,OTP,2026-12-15,21:00,23:15,135,0,SkyLab Air,True,55.48,20
+FL00649,Roma,FCO,Cluj-Napoca,CLJ,2026-12-15,07:45,11:45,240,1,SkyLab Air,True,79.6,4
+FL00650,Roma,FCO,Cluj-Napoca,CLJ,2026-12-15,15:30,17:30,120,0,EuroTest Express,False,63.3,7
+FL00651,Roma,FCO,Paris,CDG,2026-12-15,07:30,09:35,125,0,EuroTest Express,False,77.73,7
+FL00652,Roma,FCO,Paris,CDG,2026-12-15,19:45,21:50,125,0,SkyLab Air,True,100.67,0
+FL00653,Roma,FCO,Viena,VIE,2026-12-15,19:45,21:20,95,0,Carpatia Demo Airlines,True,60.13,1
+FL00654,Roma,FCO,Viena,VIE,2026-12-15,21:15,22:50,95,0,Carpatia Demo Airlines,True,67.1,2
+FL00655,Viena,VIE,București,OTP,2026-12-15,06:15,09:20,185,1,Carpatia Demo Airlines,True,82.72,12
+FL00656,Viena,VIE,București,OTP,2026-12-15,21:15,01:05 (+1),230,1,EuroTest Express,False,37.42,0
+FL00657,Viena,VIE,Cluj-Napoca,CLJ,2026-12-15,06:30,07:55,85,0,SkyLab Air,True,83.15,2
+FL00658,Viena,VIE,Cluj-Napoca,CLJ,2026-12-15,21:15,23:55,160,1,SkyLab Air,True,55.19,12
+FL00659,Viena,VIE,Roma,FCO,2026-12-15,11:45,15:20,215,1,AeroDemo Low-Cost,False,28.02,9
+FL00660,Viena,VIE,Roma,FCO,2026-12-15,19:30,21:05,95,0,Carpatia Demo Airlines,True,37.07,1
+FL00661,Amsterdam,AMS,București,OTP,2026-12-16,08:00,11:25,205,0,EuroTest Express,False,66.95,1
+FL00662,Amsterdam,AMS,București,OTP,2026-12-16,17:00,20:25,205,0,Carpatia Demo Airlines,True,81.74,0
+FL00663,Barcelona,BCN,București,OTP,2026-12-16,11:00,14:45,225,0,SkyLab Air,True,135.48,2
+FL00664,Barcelona,BCN,București,OTP,2026-12-16,17:15,21:00,225,0,Carpatia Demo Airlines,True,114.73,9
+FL00665,Barcelona,BCN,Paris,CDG,2026-12-16,09:00,10:45,105,0,EuroTest Express,False,48.66,0
+FL00666,Barcelona,BCN,Paris,CDG,2026-12-16,19:00,22:00,180,1,Carpatia Demo Airlines,True,80.42,2
+FL00667,București,OTP,Amsterdam,AMS,2026-12-16,07:45,13:10,325,1,EuroTest Express,False,92.49,20
+FL00668,București,OTP,Amsterdam,AMS,2026-12-16,19:30,22:55,205,0,Carpatia Demo Airlines,True,92.3,1
+FL00669,București,OTP,Barcelona,BCN,2026-12-16,13:30,18:45,315,1,AeroDemo Low-Cost,False,79.8,7
+FL00670,București,OTP,Barcelona,BCN,2026-12-16,19:15,01:00 (+1),345,1,SkyLab Air,True,122.34,12
+FL00671,București,OTP,Paris,CDG,2026-12-16,11:00,14:20,200,0,EuroTest Express,False,74.27,1
+FL00672,București,OTP,Paris,CDG,2026-12-16,17:00,21:35,275,1,AeroDemo Low-Cost,False,96.78,1
+FL00673,București,OTP,Roma,FCO,2026-12-16,17:15,19:30,135,0,SkyLab Air,True,90.59,9
+FL00674,București,OTP,Roma,FCO,2026-12-16,21:45,00:00 (+1),135,0,SkyLab Air,True,51.68,9
+FL00675,București,OTP,Viena,VIE,2026-12-16,15:30,19:20,230,1,Carpatia Demo Airlines,True,44.65,0
+FL00676,București,OTP,Viena,VIE,2026-12-16,19:00,20:50,110,0,Carpatia Demo Airlines,True,92.94,20
+FL00677,Cluj-Napoca,CLJ,Paris,CDG,2026-12-16,06:00,10:15,255,1,Carpatia Demo Airlines,True,83.42,7
+FL00678,Cluj-Napoca,CLJ,Paris,CDG,2026-12-16,07:15,10:00,165,0,SkyLab Air,True,99.3,7
+FL00679,Cluj-Napoca,CLJ,Roma,FCO,2026-12-16,08:00,10:00,120,0,AeroDemo Low-Cost,False,67.5,1
+FL00680,Cluj-Napoca,CLJ,Roma,FCO,2026-12-16,15:30,19:00,210,1,SkyLab Air,True,91.05,20
+FL00681,Cluj-Napoca,CLJ,Viena,VIE,2026-12-16,17:15,18:40,85,0,AeroDemo Low-Cost,False,56.92,4
+FL00682,Cluj-Napoca,CLJ,Viena,VIE,2026-12-16,21:30,22:55,85,0,EuroTest Express,False,32.38,9
+FL00683,Paris,CDG,Barcelona,BCN,2026-12-16,09:30,11:15,105,0,Carpatia Demo Airlines,True,45.99,12
+FL00684,Paris,CDG,Barcelona,BCN,2026-12-16,17:15,19:00,105,0,EuroTest Express,False,53.85,12
+FL00685,Paris,CDG,București,OTP,2026-12-16,08:00,11:20,200,0,AeroDemo Low-Cost,False,126.58,12
+FL00686,Paris,CDG,București,OTP,2026-12-16,11:45,17:05,320,1,Carpatia Demo Airlines,True,66.74,2
+FL00687,Paris,CDG,Cluj-Napoca,CLJ,2026-12-16,06:15,09:00,165,0,EuroTest Express,False,69.46,12
+FL00688,Paris,CDG,Cluj-Napoca,CLJ,2026-12-16,11:00,15:15,255,1,Carpatia Demo Airlines,True,105.8,0
+FL00689,Paris,CDG,Roma,FCO,2026-12-16,17:30,19:35,125,0,AeroDemo Low-Cost,False,65.25,20
+FL00690,Paris,CDG,Roma,FCO,2026-12-16,19:45,21:50,125,0,AeroDemo Low-Cost,False,46.02,0
+FL00691,Roma,FCO,București,OTP,2026-12-16,11:30,13:45,135,0,EuroTest Express,False,74.35,7
+FL00692,Roma,FCO,București,OTP,2026-12-16,13:45,16:00,135,0,SkyLab Air,True,57.8,0
+FL00693,Roma,FCO,Cluj-Napoca,CLJ,2026-12-16,11:45,15:00,195,1,SkyLab Air,True,43.14,4
+FL00694,Roma,FCO,Cluj-Napoca,CLJ,2026-12-16,17:15,19:15,120,0,SkyLab Air,True,106.9,4
+FL00695,Roma,FCO,Paris,CDG,2026-12-16,13:45,15:50,125,0,EuroTest Express,False,93.21,2
+FL00696,Roma,FCO,Paris,CDG,2026-12-16,17:30,19:35,125,0,AeroDemo Low-Cost,False,73.64,4
+FL00697,Roma,FCO,Viena,VIE,2026-12-16,11:00,12:35,95,0,AeroDemo Low-Cost,False,70.3,1
+FL00698,Roma,FCO,Viena,VIE,2026-12-16,15:30,17:05,95,0,Carpatia Demo Airlines,True,39.15,7
+FL00699,Viena,VIE,București,OTP,2026-12-16,07:45,11:35,230,1,SkyLab Air,True,49.57,7
+FL00700,Viena,VIE,București,OTP,2026-12-16,19:45,23:05,200,1,Carpatia Demo Airlines,True,45.58,12
+FL00701,Viena,VIE,Cluj-Napoca,CLJ,2026-12-16,06:45,08:10,85,0,SkyLab Air,True,75.74,7
+FL00702,Viena,VIE,Cluj-Napoca,CLJ,2026-12-16,07:15,08:40,85,0,EuroTest Express,False,40.07,9
+FL00703,Viena,VIE,Roma,FCO,2026-12-16,09:45,11:20,95,0,AeroDemo Low-Cost,False,49.02,0
+FL00704,Viena,VIE,Roma,FCO,2026-12-16,19:30,21:05,95,0,SkyLab Air,True,61.36,1
+FL00705,Amsterdam,AMS,București,OTP,2026-12-17,15:30,20:55,325,1,EuroTest Express,False,131.43,1
+FL00706,Amsterdam,AMS,București,OTP,2026-12-17,17:45,21:10,205,0,SkyLab Air,True,147.07,4
+FL00707,Barcelona,BCN,București,OTP,2026-12-17,17:15,21:00,225,0,AeroDemo Low-Cost,False,123.57,1
+FL00708,Barcelona,BCN,București,OTP,2026-12-17,21:45,02:45 (+1),300,1,Carpatia Demo Airlines,True,127.28,9
+FL00709,Barcelona,BCN,Paris,CDG,2026-12-17,08:00,09:45,105,0,EuroTest Express,False,87.7,12
+FL00710,Barcelona,BCN,Paris,CDG,2026-12-17,11:15,13:00,105,0,SkyLab Air,True,53.6,2
+FL00711,București,OTP,Amsterdam,AMS,2026-12-17,07:45,13:10,325,1,EuroTest Express,False,116.66,12
+FL00712,București,OTP,Amsterdam,AMS,2026-12-17,19:45,01:10 (+1),325,1,Carpatia Demo Airlines,True,73.17,2
+FL00713,București,OTP,Barcelona,BCN,2026-12-17,11:00,16:45,345,1,EuroTest Express,False,84.44,4
+FL00714,București,OTP,Barcelona,BCN,2026-12-17,17:30,22:30,300,1,EuroTest Express,False,63.74,9
+FL00715,București,OTP,Paris,CDG,2026-12-17,11:30,14:50,200,0,SkyLab Air,True,121.33,12
+FL00716,București,OTP,Paris,CDG,2026-12-17,15:30,18:50,200,0,Carpatia Demo Airlines,True,89.83,4
+FL00717,București,OTP,Roma,FCO,2026-12-17,19:45,22:00,135,0,AeroDemo Low-Cost,False,43.33,4
+FL00718,București,OTP,Roma,FCO,2026-12-17,19:45,22:00,135,0,EuroTest Express,False,43.78,9
+FL00719,București,OTP,Viena,VIE,2026-12-17,15:00,16:50,110,0,AeroDemo Low-Cost,False,55.74,9
+FL00720,București,OTP,Viena,VIE,2026-12-17,15:45,17:35,110,0,Carpatia Demo Airlines,True,89.88,4
+FL00721,Cluj-Napoca,CLJ,Paris,CDG,2026-12-17,06:30,09:15,165,0,Carpatia Demo Airlines,True,120.27,4
+FL00722,Cluj-Napoca,CLJ,Paris,CDG,2026-12-17,11:45,14:30,165,0,EuroTest Express,False,107.47,2
+FL00723,Cluj-Napoca,CLJ,Roma,FCO,2026-12-17,08:30,10:30,120,0,AeroDemo Low-Cost,False,69.65,20
+FL00724,Cluj-Napoca,CLJ,Roma,FCO,2026-12-17,15:30,17:30,120,0,AeroDemo Low-Cost,False,40.11,9
+FL00725,Cluj-Napoca,CLJ,Viena,VIE,2026-12-17,11:30,12:55,85,0,AeroDemo Low-Cost,False,27.16,12
+FL00726,Cluj-Napoca,CLJ,Viena,VIE,2026-12-17,19:00,20:25,85,0,EuroTest Express,False,51.29,1
+FL00727,Paris,CDG,Barcelona,BCN,2026-12-17,08:15,10:00,105,0,SkyLab Air,True,50.9,1
+FL00728,Paris,CDG,Barcelona,BCN,2026-12-17,09:15,11:00,105,0,EuroTest Express,False,76.84,2
+FL00729,Paris,CDG,București,OTP,2026-12-17,09:15,12:35,200,0,AeroDemo Low-Cost,False,54.52,7
+FL00730,Paris,CDG,București,OTP,2026-12-17,11:00,14:20,200,0,AeroDemo Low-Cost,False,63.5,7
+FL00731,Paris,CDG,Cluj-Napoca,CLJ,2026-12-17,19:00,21:45,165,0,AeroDemo Low-Cost,False,57.25,7
+FL00732,Paris,CDG,Cluj-Napoca,CLJ,2026-12-17,21:30,00:15 (+1),165,0,EuroTest Express,False,87.08,0
+FL00733,Paris,CDG,Roma,FCO,2026-12-17,15:15,18:50,215,1,EuroTest Express,False,46.84,2
+FL00734,Paris,CDG,Roma,FCO,2026-12-17,21:30,23:35,125,0,SkyLab Air,True,89.76,4
+FL00735,Roma,FCO,București,OTP,2026-12-17,15:00,17:15,135,0,SkyLab Air,True,101.12,12
+FL00736,Roma,FCO,București,OTP,2026-12-17,19:45,22:00,135,0,Carpatia Demo Airlines,True,98.86,9
+FL00737,Roma,FCO,Cluj-Napoca,CLJ,2026-12-17,09:15,11:15,120,0,EuroTest Express,False,54.78,1
+FL00738,Roma,FCO,Cluj-Napoca,CLJ,2026-12-17,09:15,11:15,120,0,AeroDemo Low-Cost,False,31.84,1
+FL00739,Roma,FCO,Paris,CDG,2026-12-17,11:15,13:20,125,0,AeroDemo Low-Cost,False,54.46,12
+FL00740,Roma,FCO,Paris,CDG,2026-12-17,19:30,22:50,200,1,Carpatia Demo Airlines,True,74.15,12
+FL00741,Roma,FCO,Viena,VIE,2026-12-17,08:15,09:50,95,0,SkyLab Air,True,53.04,12
+FL00742,Roma,FCO,Viena,VIE,2026-12-17,21:45,23:20,95,0,EuroTest Express,False,63.97,2
+FL00743,Viena,VIE,București,OTP,2026-12-17,09:15,11:05,110,0,EuroTest Express,False,70.57,12
+FL00744,Viena,VIE,București,OTP,2026-12-17,21:00,22:50,110,0,SkyLab Air,True,70.7,12
+FL00745,Viena,VIE,Cluj-Napoca,CLJ,2026-12-17,08:00,09:25,85,0,Carpatia Demo Airlines,True,66.87,9
+FL00746,Viena,VIE,Cluj-Napoca,CLJ,2026-12-17,17:00,19:40,160,1,EuroTest Express,False,34.61,7
+FL00747,Viena,VIE,Roma,FCO,2026-12-17,06:30,09:20,170,1,EuroTest Express,False,55.97,20
+FL00748,Viena,VIE,Roma,FCO,2026-12-17,21:30,23:05,95,0,AeroDemo Low-Cost,False,53.3,4
+FL00749,Amsterdam,AMS,București,OTP,2026-12-18,07:45,11:10,205,0,Carpatia Demo Airlines,True,90.86,20
+FL00750,Amsterdam,AMS,București,OTP,2026-12-18,13:00,16:25,205,0,SkyLab Air,True,196.07,9
+FL00751,Barcelona,BCN,București,OTP,2026-12-18,06:15,10:00,225,0,SkyLab Air,True,161.32,2
+FL00752,Barcelona,BCN,București,OTP,2026-12-18,08:00,11:45,225,0,EuroTest Express,False,104.42,20
+FL00753,Barcelona,BCN,Paris,CDG,2026-12-18,06:00,07:45,105,0,AeroDemo Low-Cost,False,65.7,0
+FL00754,Barcelona,BCN,Paris,CDG,2026-12-18,06:45,10:00,195,1,EuroTest Express,False,76.5,1
+FL00755,București,OTP,Amsterdam,AMS,2026-12-18,06:30,11:25,295,1,Carpatia Demo Airlines,True,167.55,0
+FL00756,București,OTP,Amsterdam,AMS,2026-12-18,08:15,11:40,205,0,AeroDemo Low-Cost,False,94.5,2
+FL00757,București,OTP,Barcelona,BCN,2026-12-18,13:00,16:45,225,0,AeroDemo Low-Cost,False,130.83,2
+FL00758,București,OTP,Barcelona,BCN,2026-12-18,13:15,19:00,345,1,SkyLab Air,True,155.8,1
+FL00759,București,OTP,Paris,CDG,2026-12-18,06:15,09:35,200,0,SkyLab Air,True,138.54,7
+FL00760,București,OTP,Paris,CDG,2026-12-18,15:30,18:50,200,0,Carpatia Demo Airlines,True,180.53,2
+FL00761,București,OTP,Roma,FCO,2026-12-18,15:15,17:30,135,0,AeroDemo Low-Cost,False,77.55,4
+FL00762,București,OTP,Roma,FCO,2026-12-18,17:45,22:00,255,1,EuroTest Express,False,54.96,20
+FL00763,București,OTP,Viena,VIE,2026-12-18,07:15,09:05,110,0,Carpatia Demo Airlines,True,45.09,7
+FL00764,București,OTP,Viena,VIE,2026-12-18,17:00,18:50,110,0,AeroDemo Low-Cost,False,83.39,4
+FL00765,Cluj-Napoca,CLJ,Paris,CDG,2026-12-18,06:00,08:45,165,0,Carpatia Demo Airlines,True,111.26,1
+FL00766,Cluj-Napoca,CLJ,Paris,CDG,2026-12-18,15:45,18:30,165,0,EuroTest Express,False,88.53,4
+FL00767,Cluj-Napoca,CLJ,Roma,FCO,2026-12-18,07:00,09:00,120,0,EuroTest Express,False,84.21,7
+FL00768,Cluj-Napoca,CLJ,Roma,FCO,2026-12-18,11:30,15:30,240,1,EuroTest Express,False,55.6,4
+FL00769,Cluj-Napoca,CLJ,Viena,VIE,2026-12-18,13:45,16:40,175,1,EuroTest Express,False,63.75,2
+FL00770,Cluj-Napoca,CLJ,Viena,VIE,2026-12-18,17:30,20:25,175,1,SkyLab Air,True,77.21,12
+FL00771,Paris,CDG,Barcelona,BCN,2026-12-18,06:45,08:30,105,0,AeroDemo Low-Cost,False,47.57,9
+FL00772,Paris,CDG,Barcelona,BCN,2026-12-18,19:30,21:15,105,0,SkyLab Air,True,64.55,1
+FL00773,Paris,CDG,București,OTP,2026-12-18,13:45,17:05,200,0,EuroTest Express,False,86.64,4
+FL00774,Paris,CDG,București,OTP,2026-12-18,17:00,20:20,200,0,SkyLab Air,True,146.19,2
+FL00775,Paris,CDG,Cluj-Napoca,CLJ,2026-12-18,11:30,14:15,165,0,AeroDemo Low-Cost,False,76.65,9
+FL00776,Paris,CDG,Cluj-Napoca,CLJ,2026-12-18,13:30,17:45,255,1,AeroDemo Low-Cost,False,93.01,0
+FL00777,Paris,CDG,Roma,FCO,2026-12-18,08:00,10:05,125,0,EuroTest Express,False,101.41,4
+FL00778,Paris,CDG,Roma,FCO,2026-12-18,09:30,11:35,125,0,AeroDemo Low-Cost,False,92.91,7
+FL00779,Roma,FCO,București,OTP,2026-12-18,06:15,08:30,135,0,AeroDemo Low-Cost,False,69.81,0
+FL00780,Roma,FCO,București,OTP,2026-12-18,06:45,09:00,135,0,EuroTest Express,False,63.87,0
+FL00781,Roma,FCO,Cluj-Napoca,CLJ,2026-12-18,13:30,15:30,120,0,SkyLab Air,True,91.9,9
+FL00782,Roma,FCO,Cluj-Napoca,CLJ,2026-12-18,17:45,19:45,120,0,EuroTest Express,False,89.29,4
+FL00783,Roma,FCO,Paris,CDG,2026-12-18,11:30,13:35,125,0,AeroDemo Low-Cost,False,43.36,12
+FL00784,Roma,FCO,Paris,CDG,2026-12-18,19:15,21:20,125,0,Carpatia Demo Airlines,True,98.77,2
+FL00785,Roma,FCO,Viena,VIE,2026-12-18,08:30,10:05,95,0,AeroDemo Low-Cost,False,33.88,1
+FL00786,Roma,FCO,Viena,VIE,2026-12-18,19:30,21:05,95,0,EuroTest Express,False,45.17,7
+FL00787,Viena,VIE,București,OTP,2026-12-18,11:15,13:05,110,0,EuroTest Express,False,51.56,0
+FL00788,Viena,VIE,București,OTP,2026-12-18,17:45,19:35,110,0,EuroTest Express,False,67.12,0
+FL00789,Viena,VIE,Cluj-Napoca,CLJ,2026-12-18,11:30,12:55,85,0,AeroDemo Low-Cost,False,54.76,4
+FL00790,Viena,VIE,Cluj-Napoca,CLJ,2026-12-18,13:00,14:25,85,0,Carpatia Demo Airlines,True,53.92,0
+FL00791,Viena,VIE,Roma,FCO,2026-12-18,11:00,12:35,95,0,AeroDemo Low-Cost,False,70.8,4
+FL00792,Viena,VIE,Roma,FCO,2026-12-18,11:30,15:05,215,1,Carpatia Demo Airlines,True,52.04,20
+FL00793,Amsterdam,AMS,București,OTP,2026-12-19,06:30,09:55,205,0,EuroTest Express,False,182.71,0
+FL00794,Amsterdam,AMS,București,OTP,2026-12-19,11:00,15:40,280,1,Carpatia Demo Airlines,True,115.96,12
+FL00795,Barcelona,BCN,București,OTP,2026-12-19,09:15,13:00,225,0,Carpatia Demo Airlines,True,159.05,20
+FL00796,Barcelona,BCN,București,OTP,2026-12-19,13:15,17:00,225,0,SkyLab Air,True,164.66,12
+FL00797,Barcelona,BCN,Paris,CDG,2026-12-19,13:00,14:45,105,0,EuroTest Express,False,60.71,1
+FL00798,Barcelona,BCN,Paris,CDG,2026-12-19,15:45,19:00,195,1,AeroDemo Low-Cost,False,56.31,4
+FL00799,București,OTP,Amsterdam,AMS,2026-12-19,13:00,16:25,205,0,SkyLab Air,True,92.19,12
+FL00800,București,OTP,Amsterdam,AMS,2026-12-19,13:30,18:55,325,1,EuroTest Express,False,138.82,7
+FL00801,București,OTP,Barcelona,BCN,2026-12-19,07:30,11:15,225,0,SkyLab Air,True,172.32,7
+FL00802,București,OTP,Barcelona,BCN,2026-12-19,15:15,19:00,225,0,SkyLab Air,True,119.19,2
+FL00803,București,OTP,Paris,CDG,2026-12-19,11:45,16:35,290,1,SkyLab Air,True,95.63,4
+FL00804,București,OTP,Paris,CDG,2026-12-19,21:30,00:50 (+1),200,0,EuroTest Express,False,108.48,9
+FL00805,București,OTP,Roma,FCO,2026-12-19,06:00,08:15,135,0,AeroDemo Low-Cost,False,41.76,12
+FL00806,București,OTP,Roma,FCO,2026-12-19,11:30,15:45,255,1,EuroTest Express,False,61.54,2
+FL00807,București,OTP,Viena,VIE,2026-12-19,15:00,16:50,110,0,EuroTest Express,False,46.95,12
+FL00808,București,OTP,Viena,VIE,2026-12-19,17:30,19:20,110,0,AeroDemo Low-Cost,False,41.14,20
+FL00809,Cluj-Napoca,CLJ,Paris,CDG,2026-12-19,09:15,12:00,165,0,SkyLab Air,True,137.49,20
+FL00810,Cluj-Napoca,CLJ,Paris,CDG,2026-12-19,21:45,00:30 (+1),165,0,SkyLab Air,True,91.55,12
+FL00811,Cluj-Napoca,CLJ,Roma,FCO,2026-12-19,15:45,17:45,120,0,Carpatia Demo Airlines,True,81.52,2
+FL00812,Cluj-Napoca,CLJ,Roma,FCO,2026-12-19,19:45,23:15,210,1,SkyLab Air,True,94.77,2
+FL00813,Cluj-Napoca,CLJ,Viena,VIE,2026-12-19,07:30,08:55,85,0,EuroTest Express,False,36.86,9
+FL00814,Cluj-Napoca,CLJ,Viena,VIE,2026-12-19,19:30,20:55,85,0,EuroTest Express,False,60.64,1
+FL00815,Paris,CDG,Barcelona,BCN,2026-12-19,15:45,17:30,105,0,EuroTest Express,False,86.55,2
+FL00816,Paris,CDG,Barcelona,BCN,2026-12-19,19:00,20:45,105,0,EuroTest Express,False,107.64,2
+FL00817,Paris,CDG,București,OTP,2026-12-19,06:00,09:20,200,0,Carpatia Demo Airlines,True,88.75,20
+FL00818,Paris,CDG,București,OTP,2026-12-19,11:30,14:50,200,0,SkyLab Air,True,155.46,1
+FL00819,Paris,CDG,Cluj-Napoca,CLJ,2026-12-19,11:45,14:30,165,0,EuroTest Express,False,110.0,0
+FL00820,Paris,CDG,Cluj-Napoca,CLJ,2026-12-19,13:00,15:45,165,0,AeroDemo Low-Cost,False,90.32,1
+FL00821,Paris,CDG,Roma,FCO,2026-12-19,08:45,10:50,125,0,EuroTest Express,False,103.01,7
+FL00822,Paris,CDG,Roma,FCO,2026-12-19,11:30,15:05,215,1,Carpatia Demo Airlines,True,44.92,1
+FL00823,Roma,FCO,București,OTP,2026-12-19,19:00,21:15,135,0,EuroTest Express,False,80.49,1
+FL00824,Roma,FCO,București,OTP,2026-12-19,21:45,02:00 (+1),255,1,SkyLab Air,True,69.25,9
+FL00825,Roma,FCO,Cluj-Napoca,CLJ,2026-12-19,08:15,10:15,120,0,Carpatia Demo Airlines,True,49.68,0
+FL00826,Roma,FCO,Cluj-Napoca,CLJ,2026-12-19,17:45,19:45,120,0,EuroTest Express,False,45.49,12
+FL00827,Roma,FCO,Paris,CDG,2026-12-19,07:15,09:20,125,0,AeroDemo Low-Cost,False,46.17,7
+FL00828,Roma,FCO,Paris,CDG,2026-12-19,17:15,21:20,245,1,Carpatia Demo Airlines,True,47.39,7
+FL00829,Roma,FCO,Viena,VIE,2026-12-19,07:30,09:05,95,0,Carpatia Demo Airlines,True,77.68,20
+FL00830,Roma,FCO,Viena,VIE,2026-12-19,13:45,15:20,95,0,AeroDemo Low-Cost,False,78.73,7
+FL00831,Viena,VIE,București,OTP,2026-12-19,06:00,07:50,110,0,Carpatia Demo Airlines,True,99.82,0
+FL00832,Viena,VIE,București,OTP,2026-12-19,17:30,19:20,110,0,EuroTest Express,False,77.64,20
+FL00833,Viena,VIE,Cluj-Napoca,CLJ,2026-12-19,11:30,12:55,85,0,Carpatia Demo Airlines,True,39.96,7
+FL00834,Viena,VIE,Cluj-Napoca,CLJ,2026-12-19,19:45,21:10,85,0,AeroDemo Low-Cost,False,63.78,12
+FL00835,Viena,VIE,Roma,FCO,2026-12-19,15:45,17:20,95,0,SkyLab Air,True,55.46,12
+FL00836,Viena,VIE,Roma,FCO,2026-12-19,17:45,19:20,95,0,AeroDemo Low-Cost,False,48.8,0
+FL00837,Amsterdam,AMS,București,OTP,2026-12-20,09:00,14:25,325,1,EuroTest Express,False,205.41,4
+FL00838,Amsterdam,AMS,București,OTP,2026-12-20,19:30,22:55,205,0,SkyLab Air,True,213.23,20
+FL00839,Barcelona,BCN,București,OTP,2026-12-20,11:45,16:45,300,1,AeroDemo Low-Cost,False,164.47,2
+FL00840,Barcelona,BCN,București,OTP,2026-12-20,15:30,19:15,225,0,AeroDemo Low-Cost,False,169.18,12
+FL00841,Barcelona,BCN,Paris,CDG,2026-12-20,06:45,10:30,225,1,EuroTest Express,False,56.4,4
+FL00842,Barcelona,BCN,Paris,CDG,2026-12-20,13:45,15:30,105,0,SkyLab Air,True,146.47,9
+FL00843,București,OTP,Amsterdam,AMS,2026-12-20,06:45,12:10,325,1,EuroTest Express,False,105.94,12
+FL00844,București,OTP,Amsterdam,AMS,2026-12-20,13:45,17:10,205,0,AeroDemo Low-Cost,False,200.45,20
+FL00845,București,OTP,Barcelona,BCN,2026-12-20,07:45,11:30,225,0,EuroTest Express,False,128.91,0
+FL00846,București,OTP,Barcelona,BCN,2026-12-20,17:00,22:00,300,1,SkyLab Air,True,174.67,12
+FL00847,București,OTP,Paris,CDG,2026-12-20,07:45,11:05,200,0,Carpatia Demo Airlines,True,212.54,9
+FL00848,București,OTP,Paris,CDG,2026-12-20,21:15,00:35 (+1),200,0,EuroTest Express,False,181.47,7
+FL00849,București,OTP,Roma,FCO,2026-12-20,06:00,08:15,135,0,Carpatia Demo Airlines,True,101.52,1
+FL00850,București,OTP,Roma,FCO,2026-12-20,21:15,23:30,135,0,EuroTest Express,False,85.11,2
+FL00851,București,OTP,Viena,VIE,2026-12-20,17:00,20:50,230,1,EuroTest Express,False,80.42,9
+FL00852,București,OTP,Viena,VIE,2026-12-20,17:45,19:35,110,0,AeroDemo Low-Cost,False,74.9,1
+FL00853,Cluj-Napoca,CLJ,Paris,CDG,2026-12-20,08:00,10:45,165,0,AeroDemo Low-Cost,False,79.85,4
+FL00854,Cluj-Napoca,CLJ,Paris,CDG,2026-12-20,15:30,18:15,165,0,AeroDemo Low-Cost,False,137.54,9
+FL00855,Cluj-Napoca,CLJ,Roma,FCO,2026-12-20,06:30,10:30,240,1,AeroDemo Low-Cost,False,42.19,1
+FL00856,Cluj-Napoca,CLJ,Roma,FCO,2026-12-20,19:45,21:45,120,0,EuroTest Express,False,120.97,2
+FL00857,Cluj-Napoca,CLJ,Viena,VIE,2026-12-20,19:15,20:40,85,0,EuroTest Express,False,60.63,0
+FL00858,Cluj-Napoca,CLJ,Viena,VIE,2026-12-20,21:45,00:25 (+1),160,1,EuroTest Express,False,38.63,20
+FL00859,Paris,CDG,Barcelona,BCN,2026-12-20,08:00,09:45,105,0,SkyLab Air,True,135.88,7
+FL00860,Paris,CDG,Barcelona,BCN,2026-12-20,13:45,15:30,105,0,EuroTest Express,False,65.36,0
+FL00861,Paris,CDG,București,OTP,2026-12-20,07:30,12:05,275,1,Carpatia Demo Airlines,True,132.03,9
+FL00862,Paris,CDG,București,OTP,2026-12-20,11:15,14:35,200,0,AeroDemo Low-Cost,False,87.15,4
+FL00863,Paris,CDG,Cluj-Napoca,CLJ,2026-12-20,13:00,15:45,165,0,AeroDemo Low-Cost,False,96.18,12
+FL00864,Paris,CDG,Cluj-Napoca,CLJ,2026-12-20,21:15,00:00 (+1),165,0,AeroDemo Low-Cost,False,153.7,4
+FL00865,Paris,CDG,Roma,FCO,2026-12-20,09:30,11:35,125,0,SkyLab Air,True,95.51,2
+FL00866,Paris,CDG,Roma,FCO,2026-12-20,19:00,23:05,245,1,EuroTest Express,False,79.4,4
+FL00867,Roma,FCO,București,OTP,2026-12-20,09:00,11:15,135,0,AeroDemo Low-Cost,False,122.4,1
+FL00868,Roma,FCO,București,OTP,2026-12-20,11:30,13:45,135,0,SkyLab Air,True,72.6,1
+FL00869,Roma,FCO,Cluj-Napoca,CLJ,2026-12-20,06:15,08:15,120,0,EuroTest Express,False,103.94,20
+FL00870,Roma,FCO,Cluj-Napoca,CLJ,2026-12-20,08:00,11:15,195,1,AeroDemo Low-Cost,False,77.27,7
+FL00871,Roma,FCO,Paris,CDG,2026-12-20,08:00,10:05,125,0,SkyLab Air,True,93.98,20
+FL00872,Roma,FCO,Paris,CDG,2026-12-20,11:30,13:35,125,0,AeroDemo Low-Cost,False,54.19,4
+FL00873,Roma,FCO,Viena,VIE,2026-12-20,13:30,15:05,95,0,SkyLab Air,True,89.03,0
+FL00874,Roma,FCO,Viena,VIE,2026-12-20,21:45,00:35 (+1),170,1,SkyLab Air,True,79.56,2
+FL00875,Viena,VIE,București,OTP,2026-12-20,13:00,14:50,110,0,Carpatia Demo Airlines,True,124.81,7
+FL00876,Viena,VIE,București,OTP,2026-12-20,15:00,16:50,110,0,Carpatia Demo Airlines,True,145.5,1
+FL00877,Viena,VIE,Cluj-Napoca,CLJ,2026-12-20,08:00,11:25,205,1,AeroDemo Low-Cost,False,66.35,7
+FL00878,Viena,VIE,Cluj-Napoca,CLJ,2026-12-20,17:15,18:40,85,0,SkyLab Air,True,65.92,7
+FL00879,Viena,VIE,Roma,FCO,2026-12-20,09:00,10:35,95,0,EuroTest Express,False,90.95,0
+FL00880,Viena,VIE,Roma,FCO,2026-12-20,13:15,14:50,95,0,EuroTest Express,False,65.67,12
+FL00881,Amsterdam,AMS,București,OTP,2026-12-21,07:00,10:25,205,0,EuroTest Express,False,119.11,2
+FL00882,Amsterdam,AMS,București,OTP,2026-12-21,09:00,13:55,295,1,SkyLab Air,True,142.2,2
+FL00883,Barcelona,BCN,București,OTP,2026-12-21,07:30,11:15,225,0,EuroTest Express,False,193.62,9
+FL00884,Barcelona,BCN,București,OTP,2026-12-21,13:00,16:45,225,0,SkyLab Air,True,161.71,7
+FL00885,Barcelona,BCN,Paris,CDG,2026-12-21,21:00,00:00 (+1),180,1,SkyLab Air,True,66.96,20
+FL00886,Barcelona,BCN,Paris,CDG,2026-12-21,21:45,00:45 (+1),180,1,Carpatia Demo Airlines,True,46.87,7
+FL00887,București,OTP,Amsterdam,AMS,2026-12-21,07:15,10:40,205,0,SkyLab Air,True,116.44,12
+FL00888,București,OTP,Amsterdam,AMS,2026-12-21,19:00,22:25,205,0,Carpatia Demo Airlines,True,193.26,7
+FL00889,București,OTP,Barcelona,BCN,2026-12-21,13:45,19:30,345,1,SkyLab Air,True,163.55,1
+FL00890,București,OTP,Barcelona,BCN,2026-12-21,21:00,00:45 (+1),225,0,EuroTest Express,False,136.89,2
+FL00891,București,OTP,Paris,CDG,2026-12-21,06:45,10:05,200,0,EuroTest Express,False,81.86,20
+FL00892,București,OTP,Paris,CDG,2026-12-21,15:45,19:05,200,0,AeroDemo Low-Cost,False,153.2,20
+FL00893,București,OTP,Roma,FCO,2026-12-21,07:45,10:00,135,0,AeroDemo Low-Cost,False,71.08,9
+FL00894,București,OTP,Roma,FCO,2026-12-21,21:15,23:30,135,0,EuroTest Express,False,119.37,2
+FL00895,București,OTP,Viena,VIE,2026-12-21,07:15,09:05,110,0,EuroTest Express,False,112.79,4
+FL00896,București,OTP,Viena,VIE,2026-12-21,13:45,17:35,230,1,AeroDemo Low-Cost,False,36.59,9
+FL00897,Cluj-Napoca,CLJ,Paris,CDG,2026-12-21,08:15,12:15,240,1,Carpatia Demo Airlines,True,85.46,0
+FL00898,Cluj-Napoca,CLJ,Paris,CDG,2026-12-21,11:45,15:45,240,1,AeroDemo Low-Cost,False,97.15,2
+FL00899,Cluj-Napoca,CLJ,Roma,FCO,2026-12-21,17:00,19:00,120,0,SkyLab Air,True,71.59,0
+FL00900,Cluj-Napoca,CLJ,Roma,FCO,2026-12-21,19:30,21:30,120,0,EuroTest Express,False,85.24,9
+FL00901,Cluj-Napoca,CLJ,Viena,VIE,2026-12-21,06:45,09:40,175,1,Carpatia Demo Airlines,True,78.5,20
+FL00902,Cluj-Napoca,CLJ,Viena,VIE,2026-12-21,19:30,22:55,205,1,Carpatia Demo Airlines,True,75.05,20
+FL00903,Paris,CDG,Barcelona,BCN,2026-12-21,11:15,13:00,105,0,SkyLab Air,True,147.48,12
+FL00904,Paris,CDG,Barcelona,BCN,2026-12-21,17:00,18:45,105,0,Carpatia Demo Airlines,True,114.21,20
+FL00905,Paris,CDG,București,OTP,2026-12-21,09:00,12:20,200,0,EuroTest Express,False,132.79,7
+FL00906,Paris,CDG,București,OTP,2026-12-21,19:00,00:20 (+1),320,1,SkyLab Air,True,168.28,4
+FL00907,Paris,CDG,Cluj-Napoca,CLJ,2026-12-21,08:30,11:15,165,0,Carpatia Demo Airlines,True,134.11,2
+FL00908,Paris,CDG,Cluj-Napoca,CLJ,2026-12-21,17:30,20:15,165,0,Carpatia Demo Airlines,True,94.61,0
+FL00909,Paris,CDG,Roma,FCO,2026-12-21,07:45,09:50,125,0,SkyLab Air,True,111.69,0
+FL00910,Paris,CDG,Roma,FCO,2026-12-21,15:30,17:35,125,0,Carpatia Demo Airlines,True,91.22,7
+FL00911,Roma,FCO,București,OTP,2026-12-21,15:15,18:45,210,1,Carpatia Demo Airlines,True,69.19,4
+FL00912,Roma,FCO,București,OTP,2026-12-21,19:45,23:15,210,1,EuroTest Express,False,78.83,20
+FL00913,Roma,FCO,Cluj-Napoca,CLJ,2026-12-21,11:15,14:45,210,1,Carpatia Demo Airlines,True,67.14,7
+FL00914,Roma,FCO,Cluj-Napoca,CLJ,2026-12-21,19:45,21:45,120,0,SkyLab Air,True,81.21,2
+FL00915,Roma,FCO,Paris,CDG,2026-12-21,09:15,11:20,125,0,AeroDemo Low-Cost,False,60.54,1
+FL00916,Roma,FCO,Paris,CDG,2026-12-21,21:15,00:50 (+1),215,1,Carpatia Demo Airlines,True,76.38,9
+FL00917,Roma,FCO,Viena,VIE,2026-12-21,06:15,09:20,185,1,EuroTest Express,False,51.92,20
+FL00918,Roma,FCO,Viena,VIE,2026-12-21,11:45,13:20,95,0,AeroDemo Low-Cost,False,65.06,4
+FL00919,Viena,VIE,București,OTP,2026-12-21,19:45,21:35,110,0,Carpatia Demo Airlines,True,54.84,9
+FL00920,Viena,VIE,București,OTP,2026-12-21,21:15,23:05,110,0,AeroDemo Low-Cost,False,86.85,9
+FL00921,Viena,VIE,Cluj-Napoca,CLJ,2026-12-21,17:00,18:25,85,0,Carpatia Demo Airlines,True,86.53,1
+FL00922,Viena,VIE,Cluj-Napoca,CLJ,2026-12-21,21:15,22:40,85,0,Carpatia Demo Airlines,True,89.78,20
+FL00923,Viena,VIE,Roma,FCO,2026-12-21,06:30,08:05,95,0,Carpatia Demo Airlines,True,68.13,20
+FL00924,Viena,VIE,Roma,FCO,2026-12-21,17:15,20:05,170,1,SkyLab Air,True,55.97,12
+FL00925,Amsterdam,AMS,București,OTP,2026-12-22,08:00,11:25,205,0,EuroTest Express,False,96.71,4
+FL00926,Amsterdam,AMS,București,OTP,2026-12-22,21:15,00:40 (+1),205,0,SkyLab Air,True,206.98,1
+FL00927,Barcelona,BCN,București,OTP,2026-12-22,06:00,09:45,225,0,EuroTest Express,False,96.32,2
+FL00928,Barcelona,BCN,București,OTP,2026-12-22,13:15,17:00,225,0,Carpatia Demo Airlines,True,209.41,9
+FL00929,Barcelona,BCN,Paris,CDG,2026-12-22,17:45,19:30,105,0,AeroDemo Low-Cost,False,88.0,7
+FL00930,Barcelona,BCN,Paris,CDG,2026-12-22,19:45,21:30,105,0,SkyLab Air,True,110.71,2
+FL00931,București,OTP,Amsterdam,AMS,2026-12-22,07:00,10:25,205,0,EuroTest Express,False,180.68,4
+FL00932,București,OTP,Amsterdam,AMS,2026-12-22,08:30,13:55,325,1,Carpatia Demo Airlines,True,121.07,2
+FL00933,București,OTP,Barcelona,BCN,2026-12-22,07:00,10:45,225,0,SkyLab Air,True,235.34,20
+FL00934,București,OTP,Barcelona,BCN,2026-12-22,19:15,00:15 (+1),300,1,AeroDemo Low-Cost,False,133.74,1
+FL00935,București,OTP,Paris,CDG,2026-12-22,08:30,11:50,200,0,AeroDemo Low-Cost,False,153.77,7
+FL00936,București,OTP,Paris,CDG,2026-12-22,19:00,22:20,200,0,AeroDemo Low-Cost,False,88.6,2
+FL00937,București,OTP,Roma,FCO,2026-12-22,11:45,15:15,210,1,AeroDemo Low-Cost,False,70.48,9
+FL00938,București,OTP,Roma,FCO,2026-12-22,11:45,14:00,135,0,SkyLab Air,True,133.78,9
+FL00939,București,OTP,Viena,VIE,2026-12-22,09:15,11:05,110,0,EuroTest Express,False,74.71,1
+FL00940,București,OTP,Viena,VIE,2026-12-22,17:45,20:50,185,1,AeroDemo Low-Cost,False,44.63,0
+FL00941,Cluj-Napoca,CLJ,Paris,CDG,2026-12-22,11:45,14:30,165,0,EuroTest Express,False,152.4,20
+FL00942,Cluj-Napoca,CLJ,Paris,CDG,2026-12-22,17:00,21:15,255,1,Carpatia Demo Airlines,True,104.37,1
+FL00943,Cluj-Napoca,CLJ,Roma,FCO,2026-12-22,13:00,15:00,120,0,AeroDemo Low-Cost,False,47.27,2
+FL00944,Cluj-Napoca,CLJ,Roma,FCO,2026-12-22,15:45,17:45,120,0,EuroTest Express,False,80.83,12
+FL00945,Cluj-Napoca,CLJ,Viena,VIE,2026-12-22,15:45,18:40,175,1,AeroDemo Low-Cost,False,62.64,7
+FL00946,Cluj-Napoca,CLJ,Viena,VIE,2026-12-22,21:45,23:10,85,0,SkyLab Air,True,83.39,2
+FL00947,Paris,CDG,Barcelona,BCN,2026-12-22,06:15,08:00,105,0,SkyLab Air,True,119.47,7
+FL00948,Paris,CDG,Barcelona,BCN,2026-12-22,08:30,10:15,105,0,EuroTest Express,False,77.82,1
+FL00949,Paris,CDG,București,OTP,2026-12-22,11:30,16:20,290,1,AeroDemo Low-Cost,False,94.4,2
+FL00950,Paris,CDG,București,OTP,2026-12-22,13:00,16:20,200,0,Carpatia Demo Airlines,True,160.45,2
+FL00951,Paris,CDG,Cluj-Napoca,CLJ,2026-12-22,09:30,12:15,165,0,AeroDemo Low-Cost,False,112.18,12
+FL00952,Paris,CDG,Cluj-Napoca,CLJ,2026-12-22,15:00,19:45,285,1,AeroDemo Low-Cost,False,120.32,2
+FL00953,Paris,CDG,Roma,FCO,2026-12-22,07:45,09:50,125,0,SkyLab Air,True,94.71,12
+FL00954,Paris,CDG,Roma,FCO,2026-12-22,19:30,21:35,125,0,SkyLab Air,True,117.11,0
+FL00955,Roma,FCO,București,OTP,2026-12-22,08:00,10:15,135,0,AeroDemo Low-Cost,False,64.63,2
+FL00956,Roma,FCO,București,OTP,2026-12-22,11:30,15:15,225,1,Carpatia Demo Airlines,True,90.7,9
+FL00957,Roma,FCO,Cluj-Napoca,CLJ,2026-12-22,11:00,13:00,120,0,SkyLab Air,True,83.22,1
+FL00958,Roma,FCO,Cluj-Napoca,CLJ,2026-12-22,21:30,23:30,120,0,SkyLab Air,True,137.43,20
+FL00959,Roma,FCO,Paris,CDG,2026-12-22,13:15,15:20,125,0,SkyLab Air,True,124.39,1
+FL00960,Roma,FCO,Paris,CDG,2026-12-22,19:45,21:50,125,0,AeroDemo Low-Cost,False,60.98,20
+FL00961,Roma,FCO,Viena,VIE,2026-12-22,07:30,09:05,95,0,AeroDemo Low-Cost,False,38.55,9
+FL00962,Roma,FCO,Viena,VIE,2026-12-22,09:15,10:50,95,0,SkyLab Air,True,101.52,1
+FL00963,Viena,VIE,București,OTP,2026-12-22,11:00,12:50,110,0,AeroDemo Low-Cost,False,58.91,0
+FL00964,Viena,VIE,București,OTP,2026-12-22,21:15,23:05,110,0,AeroDemo Low-Cost,False,95.39,2
+FL00965,Viena,VIE,Cluj-Napoca,CLJ,2026-12-22,06:00,08:55,175,1,AeroDemo Low-Cost,False,58.84,2
+FL00966,Viena,VIE,Cluj-Napoca,CLJ,2026-12-22,11:45,14:40,175,1,SkyLab Air,True,54.0,2
+FL00967,Viena,VIE,Roma,FCO,2026-12-22,13:45,15:20,95,0,AeroDemo Low-Cost,False,61.48,9
+FL00968,Viena,VIE,Roma,FCO,2026-12-22,21:00,23:50,170,1,Carpatia Demo Airlines,True,89.72,9
+FL00969,Amsterdam,AMS,București,OTP,2026-12-23,09:00,12:25,205,0,SkyLab Air,True,153.81,12
+FL00970,Amsterdam,AMS,București,OTP,2026-12-23,19:00,22:25,205,0,AeroDemo Low-Cost,False,149.48,7
+FL00971,Barcelona,BCN,București,OTP,2026-12-23,07:15,11:00,225,0,SkyLab Air,True,138.18,7
+FL00972,Barcelona,BCN,București,OTP,2026-12-23,08:15,12:00,225,0,EuroTest Express,False,171.12,7
+FL00973,Barcelona,BCN,Paris,CDG,2026-12-23,09:15,12:30,195,1,SkyLab Air,True,73.1,20
+FL00974,Barcelona,BCN,Paris,CDG,2026-12-23,09:15,12:30,195,1,SkyLab Air,True,106.7,4
+FL00975,București,OTP,Amsterdam,AMS,2026-12-23,07:30,12:55,325,1,AeroDemo Low-Cost,False,92.1,1
+FL00976,București,OTP,Amsterdam,AMS,2026-12-23,07:45,11:10,205,0,SkyLab Air,True,233.11,4
+FL00977,București,OTP,Barcelona,BCN,2026-12-23,19:15,23:00,225,0,EuroTest Express,False,141.18,20
+FL00978,București,OTP,Barcelona,BCN,2026-12-23,19:45,23:30,225,0,Carpatia Demo Airlines,True,187.47,0
+FL00979,București,OTP,Paris,CDG,2026-12-23,06:30,09:50,200,0,EuroTest Express,False,123.79,4
+FL00980,București,OTP,Paris,CDG,2026-12-23,21:00,00:20 (+1),200,0,AeroDemo Low-Cost,False,103.32,1
+FL00981,București,OTP,Roma,FCO,2026-12-23,15:45,18:00,135,0,AeroDemo Low-Cost,False,45.02,20
+FL00982,București,OTP,Roma,FCO,2026-12-23,15:45,18:00,135,0,AeroDemo Low-Cost,False,81.19,20
+FL00983,București,OTP,Viena,VIE,2026-12-23,11:45,15:05,200,1,EuroTest Express,False,71.36,12
+FL00984,București,OTP,Viena,VIE,2026-12-23,21:15,23:05,110,0,EuroTest Express,False,61.95,2
+FL00985,Cluj-Napoca,CLJ,Paris,CDG,2026-12-23,09:30,12:15,165,0,AeroDemo Low-Cost,False,93.49,9
+FL00986,Cluj-Napoca,CLJ,Paris,CDG,2026-12-23,09:45,12:30,165,0,AeroDemo Low-Cost,False,59.98,12
+FL00987,Cluj-Napoca,CLJ,Roma,FCO,2026-12-23,09:15,11:15,120,0,EuroTest Express,False,57.62,7
+FL00988,Cluj-Napoca,CLJ,Roma,FCO,2026-12-23,21:00,23:00,120,0,SkyLab Air,True,100.4,1
+FL00989,Cluj-Napoca,CLJ,Viena,VIE,2026-12-23,13:45,15:10,85,0,SkyLab Air,True,105.55,7
+FL00990,Cluj-Napoca,CLJ,Viena,VIE,2026-12-23,21:30,22:55,85,0,AeroDemo Low-Cost,False,70.11,0
+FL00991,Paris,CDG,Barcelona,BCN,2026-12-23,07:00,08:45,105,0,EuroTest Express,False,87.9,20
+FL00992,Paris,CDG,Barcelona,BCN,2026-12-23,21:30,23:15,105,0,SkyLab Air,True,68.08,9
+FL00993,Paris,CDG,București,OTP,2026-12-23,13:00,16:20,200,0,SkyLab Air,True,211.0,7
+FL00994,Paris,CDG,București,OTP,2026-12-23,13:15,16:35,200,0,SkyLab Air,True,151.33,20
+FL00995,Paris,CDG,Cluj-Napoca,CLJ,2026-12-23,09:30,12:15,165,0,Carpatia Demo Airlines,True,169.62,2
+FL00996,Paris,CDG,Cluj-Napoca,CLJ,2026-12-23,15:00,17:45,165,0,SkyLab Air,True,187.45,20
+FL00997,Paris,CDG,Roma,FCO,2026-12-23,09:30,11:35,125,0,AeroDemo Low-Cost,False,106.6,0
+FL00998,Paris,CDG,Roma,FCO,2026-12-23,15:15,18:35,200,1,Carpatia Demo Airlines,True,120.44,4
+FL00999,Roma,FCO,București,OTP,2026-12-23,09:30,11:45,135,0,AeroDemo Low-Cost,False,76.62,9
+FL01000,Roma,FCO,București,OTP,2026-12-23,13:45,16:00,135,0,EuroTest Express,False,85.77,1
+FL01001,Roma,FCO,Cluj-Napoca,CLJ,2026-12-23,13:30,15:30,120,0,Carpatia Demo Airlines,True,99.78,0
+FL01002,Roma,FCO,Cluj-Napoca,CLJ,2026-12-23,17:15,19:15,120,0,Carpatia Demo Airlines,True,117.58,2
+FL01003,Roma,FCO,Paris,CDG,2026-12-23,13:45,15:50,125,0,SkyLab Air,True,148.67,2
+FL01004,Roma,FCO,Paris,CDG,2026-12-23,21:30,01:05 (+1),215,1,Carpatia Demo Airlines,True,64.54,12
+FL01005,Roma,FCO,Viena,VIE,2026-12-23,15:15,16:50,95,0,Carpatia Demo Airlines,True,73.72,12
+FL01006,Roma,FCO,Viena,VIE,2026-12-23,19:00,21:50,170,1,Carpatia Demo Airlines,True,59.64,4
+FL01007,Viena,VIE,București,OTP,2026-12-23,06:15,08:05,110,0,SkyLab Air,True,78.58,0
+FL01008,Viena,VIE,București,OTP,2026-12-23,11:15,13:05,110,0,Carpatia Demo Airlines,True,115.53,20
+FL01009,Viena,VIE,Cluj-Napoca,CLJ,2026-12-23,07:15,08:40,85,0,Carpatia Demo Airlines,True,76.13,2
+FL01010,Viena,VIE,Cluj-Napoca,CLJ,2026-12-23,08:00,09:25,85,0,EuroTest Express,False,50.2,7
+FL01011,Viena,VIE,Roma,FCO,2026-12-23,08:00,11:05,185,1,SkyLab Air,True,107.83,4
+FL01012,Viena,VIE,Roma,FCO,2026-12-23,13:45,15:20,95,0,SkyLab Air,True,52.28,2
+FL01013,Amsterdam,AMS,București,OTP,2026-12-24,15:45,19:10,205,0,EuroTest Express,False,155.39,12
+FL01014,Amsterdam,AMS,București,OTP,2026-12-24,21:15,00:40 (+1),205,0,Carpatia Demo Airlines,True,187.04,9
+FL01015,Barcelona,BCN,București,OTP,2026-12-24,06:15,10:00,225,0,EuroTest Express,False,192.19,4
+FL01016,Barcelona,BCN,București,OTP,2026-12-24,13:00,16:45,225,0,SkyLab Air,True,199.51,1
+FL01017,Barcelona,BCN,Paris,CDG,2026-12-24,19:00,20:45,105,0,SkyLab Air,True,140.5,12
+FL01018,Barcelona,BCN,Paris,CDG,2026-12-24,21:30,00:45 (+1),195,1,SkyLab Air,True,104.46,0
+FL01019,București,OTP,Amsterdam,AMS,2026-12-24,11:15,14:40,205,0,SkyLab Air,True,149.07,12
+FL01020,București,OTP,Amsterdam,AMS,2026-12-24,15:00,18:25,205,0,EuroTest Express,False,191.94,2
+FL01021,București,OTP,Barcelona,BCN,2026-12-24,09:30,13:15,225,0,AeroDemo Low-Cost,False,161.63,7
+FL01022,București,OTP,Barcelona,BCN,2026-12-24,19:45,23:30,225,0,AeroDemo Low-Cost,False,124.83,2
+FL01023,București,OTP,Paris,CDG,2026-12-24,08:30,11:50,200,0,Carpatia Demo Airlines,True,213.8,2
+FL01024,București,OTP,Paris,CDG,2026-12-24,15:30,18:50,200,0,Carpatia Demo Airlines,True,164.68,7
+FL01025,București,OTP,Roma,FCO,2026-12-24,13:15,15:30,135,0,Carpatia Demo Airlines,True,57.97,2
+FL01026,București,OTP,Roma,FCO,2026-12-24,21:00,23:15,135,0,SkyLab Air,True,82.91,12
+FL01027,București,OTP,Viena,VIE,2026-12-24,07:30,09:20,110,0,SkyLab Air,True,58.19,20
+FL01028,București,OTP,Viena,VIE,2026-12-24,11:00,12:50,110,0,SkyLab Air,True,136.9,20
+FL01029,Cluj-Napoca,CLJ,Paris,CDG,2026-12-24,06:00,08:45,165,0,AeroDemo Low-Cost,False,97.06,1
+FL01030,Cluj-Napoca,CLJ,Paris,CDG,2026-12-24,21:30,00:15 (+1),165,0,SkyLab Air,True,112.67,1
+FL01031,Cluj-Napoca,CLJ,Roma,FCO,2026-12-24,13:15,15:15,120,0,AeroDemo Low-Cost,False,78.93,1
+FL01032,Cluj-Napoca,CLJ,Roma,FCO,2026-12-24,17:15,19:15,120,0,AeroDemo Low-Cost,False,82.31,2
+FL01033,Cluj-Napoca,CLJ,Viena,VIE,2026-12-24,06:00,07:25,85,0,AeroDemo Low-Cost,False,40.33,2
+FL01034,Cluj-Napoca,CLJ,Viena,VIE,2026-12-24,08:15,09:40,85,0,Carpatia Demo Airlines,True,47.93,7
+FL01035,Paris,CDG,Barcelona,BCN,2026-12-24,07:45,09:30,105,0,AeroDemo Low-Cost,False,99.28,7
+FL01036,Paris,CDG,Barcelona,BCN,2026-12-24,17:45,19:30,105,0,AeroDemo Low-Cost,False,90.48,0
+FL01037,Paris,CDG,București,OTP,2026-12-24,08:00,12:35,275,1,SkyLab Air,True,102.26,20
+FL01038,Paris,CDG,București,OTP,2026-12-24,17:45,22:20,275,1,Carpatia Demo Airlines,True,181.8,20
+FL01039,Paris,CDG,Cluj-Napoca,CLJ,2026-12-24,11:30,14:15,165,0,AeroDemo Low-Cost,False,123.67,20
+FL01040,Paris,CDG,Cluj-Napoca,CLJ,2026-12-24,17:15,21:15,240,1,AeroDemo Low-Cost,False,114.1,0
+FL01041,Paris,CDG,Roma,FCO,2026-12-24,06:00,08:05,125,0,EuroTest Express,False,123.92,20
+FL01042,Paris,CDG,Roma,FCO,2026-12-24,17:15,19:20,125,0,SkyLab Air,True,92.81,12
+FL01043,Roma,FCO,București,OTP,2026-12-24,07:30,11:00,210,1,SkyLab Air,True,125.98,20
+FL01044,Roma,FCO,București,OTP,2026-12-24,17:30,21:15,225,1,Carpatia Demo Airlines,True,55.59,9
+FL01045,Roma,FCO,Cluj-Napoca,CLJ,2026-12-24,08:30,10:30,120,0,SkyLab Air,True,99.53,7
+FL01046,Roma,FCO,Cluj-Napoca,CLJ,2026-12-24,19:00,21:00,120,0,SkyLab Air,True,94.94,1
+FL01047,Roma,FCO,Paris,CDG,2026-12-24,09:00,11:05,125,0,AeroDemo Low-Cost,False,80.57,2
+FL01048,Roma,FCO,Paris,CDG,2026-12-24,19:15,21:20,125,0,EuroTest Express,False,76.41,20
+FL01049,Roma,FCO,Viena,VIE,2026-12-24,08:15,09:50,95,0,AeroDemo Low-Cost,False,46.22,20
+FL01050,Roma,FCO,Viena,VIE,2026-12-24,13:45,15:20,95,0,SkyLab Air,True,99.5,7
+FL01051,Viena,VIE,București,OTP,2026-12-24,07:45,09:35,110,0,Carpatia Demo Airlines,True,81.03,2
+FL01052,Viena,VIE,București,OTP,2026-12-24,21:15,23:05,110,0,Carpatia Demo Airlines,True,116.35,7
+FL01053,Viena,VIE,Cluj-Napoca,CLJ,2026-12-24,07:15,08:40,85,0,SkyLab Air,True,48.17,1
+FL01054,Viena,VIE,Cluj-Napoca,CLJ,2026-12-24,15:45,17:10,85,0,SkyLab Air,True,90.97,9
+FL01055,Viena,VIE,Roma,FCO,2026-12-24,09:45,11:20,95,0,EuroTest Express,False,69.8,4
+FL01056,Viena,VIE,Roma,FCO,2026-12-24,17:15,18:50,95,0,Carpatia Demo Airlines,True,97.55,12
+FL01057,Amsterdam,AMS,București,OTP,2026-12-25,07:00,10:25,205,0,SkyLab Air,True,164.54,9
+FL01058,Amsterdam,AMS,București,OTP,2026-12-25,19:30,00:10 (+1),280,1,AeroDemo Low-Cost,False,164.57,7
+FL01059,Barcelona,BCN,București,OTP,2026-12-25,08:45,12:30,225,0,SkyLab Air,True,269.72,20
+FL01060,Barcelona,BCN,București,OTP,2026-12-25,17:15,21:00,225,0,Carpatia Demo Airlines,True,214.2,1
+FL01061,Barcelona,BCN,Paris,CDG,2026-12-25,07:15,09:00,105,0,AeroDemo Low-Cost,False,91.06,0
+FL01062,Barcelona,BCN,Paris,CDG,2026-12-25,19:00,20:45,105,0,EuroTest Express,False,112.31,2
+FL01063,București,OTP,Amsterdam,AMS,2026-12-25,07:00,10:25,205,0,EuroTest Express,False,145.48,2
+FL01064,București,OTP,Amsterdam,AMS,2026-12-25,19:30,00:55 (+1),325,1,Carpatia Demo Airlines,True,138.25,2
+FL01065,București,OTP,Barcelona,BCN,2026-12-25,15:30,19:15,225,0,Carpatia Demo Airlines,True,206.05,2
+FL01066,București,OTP,Barcelona,BCN,2026-12-25,17:30,22:45,315,1,AeroDemo Low-Cost,False,123.28,1
+FL01067,București,OTP,Paris,CDG,2026-12-25,08:00,11:20,200,0,AeroDemo Low-Cost,False,186.8,2
+FL01068,București,OTP,Paris,CDG,2026-12-25,17:45,21:05,200,0,AeroDemo Low-Cost,False,194.34,1
+FL01069,București,OTP,Roma,FCO,2026-12-25,11:30,13:45,135,0,AeroDemo Low-Cost,False,62.18,0
+FL01070,București,OTP,Roma,FCO,2026-12-25,17:30,19:45,135,0,AeroDemo Low-Cost,False,66.01,0
+FL01071,București,OTP,Viena,VIE,2026-12-25,06:30,08:20,110,0,EuroTest Express,False,84.12,7
+FL01072,București,OTP,Viena,VIE,2026-12-25,15:15,17:05,110,0,AeroDemo Low-Cost,False,50.94,0
+FL01073,Cluj-Napoca,CLJ,Paris,CDG,2026-12-25,17:15,20:00,165,0,SkyLab Air,True,104.71,12
+FL01074,Cluj-Napoca,CLJ,Paris,CDG,2026-12-25,21:45,00:30 (+1),165,0,SkyLab Air,True,153.27,20
+FL01075,Cluj-Napoca,CLJ,Roma,FCO,2026-12-25,07:45,11:15,210,1,AeroDemo Low-Cost,False,73.69,0
+FL01076,Cluj-Napoca,CLJ,Roma,FCO,2026-12-25,09:15,11:15,120,0,SkyLab Air,True,92.92,2
+FL01077,Cluj-Napoca,CLJ,Viena,VIE,2026-12-25,19:30,20:55,85,0,AeroDemo Low-Cost,False,75.08,12
+FL01078,Cluj-Napoca,CLJ,Viena,VIE,2026-12-25,21:30,00:10 (+1),160,1,AeroDemo Low-Cost,False,59.85,1
+FL01079,Paris,CDG,Barcelona,BCN,2026-12-25,08:00,09:45,105,0,Carpatia Demo Airlines,True,122.14,7
+FL01080,Paris,CDG,Barcelona,BCN,2026-12-25,15:30,19:15,225,1,SkyLab Air,True,62.74,20
+FL01081,Paris,CDG,București,OTP,2026-12-25,08:00,11:20,200,0,Carpatia Demo Airlines,True,163.66,12
+FL01082,Paris,CDG,București,OTP,2026-12-25,19:45,23:05,200,0,Carpatia Demo Airlines,True,227.51,2
+FL01083,Paris,CDG,Cluj-Napoca,CLJ,2026-12-25,15:15,18:00,165,0,SkyLab Air,True,164.85,20
+FL01084,Paris,CDG,Cluj-Napoca,CLJ,2026-12-25,19:00,23:45,285,1,SkyLab Air,True,105.09,20
+FL01085,Paris,CDG,Roma,FCO,2026-12-25,08:30,10:35,125,0,SkyLab Air,True,162.78,12
+FL01086,Paris,CDG,Roma,FCO,2026-12-25,21:15,23:20,125,0,SkyLab Air,True,130.03,20
+FL01087,Roma,FCO,București,OTP,2026-12-25,07:15,09:30,135,0,AeroDemo Low-Cost,False,92.58,20
+FL01088,Roma,FCO,București,OTP,2026-12-25,13:00,15:15,135,0,Carpatia Demo Airlines,True,87.98,2
+FL01089,Roma,FCO,Cluj-Napoca,CLJ,2026-12-25,08:45,10:45,120,0,Carpatia Demo Airlines,True,65.47,0
+FL01090,Roma,FCO,Cluj-Napoca,CLJ,2026-12-25,09:00,11:00,120,0,SkyLab Air,True,113.82,4
+FL01091,Roma,FCO,Paris,CDG,2026-12-25,17:00,19:05,125,0,EuroTest Express,False,110.28,1
+FL01092,Roma,FCO,Paris,CDG,2026-12-25,21:30,23:35,125,0,AeroDemo Low-Cost,False,90.34,9
+FL01093,Roma,FCO,Viena,VIE,2026-12-25,07:00,08:35,95,0,SkyLab Air,True,74.13,2
+FL01094,Roma,FCO,Viena,VIE,2026-12-25,08:45,10:20,95,0,AeroDemo Low-Cost,False,98.58,9
+FL01095,Viena,VIE,București,OTP,2026-12-25,06:30,08:20,110,0,Carpatia Demo Airlines,True,111.69,2
+FL01096,Viena,VIE,București,OTP,2026-12-25,09:45,11:35,110,0,SkyLab Air,True,97.35,12
+FL01097,Viena,VIE,Cluj-Napoca,CLJ,2026-12-25,13:30,14:55,85,0,Carpatia Demo Airlines,True,85.29,2
+FL01098,Viena,VIE,Cluj-Napoca,CLJ,2026-12-25,15:00,16:25,85,0,EuroTest Express,False,103.61,4
+FL01099,Viena,VIE,Roma,FCO,2026-12-25,09:15,10:50,95,0,AeroDemo Low-Cost,False,97.24,20
+FL01100,Viena,VIE,Roma,FCO,2026-12-25,21:30,23:05,95,0,AeroDemo Low-Cost,False,81.09,20
+FL01101,Amsterdam,AMS,București,OTP,2026-12-26,09:45,13:10,205,0,AeroDemo Low-Cost,False,114.73,0
+FL01102,Amsterdam,AMS,București,OTP,2026-12-26,13:15,16:40,205,0,Carpatia Demo Airlines,True,239.44,7
+FL01103,Barcelona,BCN,București,OTP,2026-12-26,15:30,19:15,225,0,Carpatia Demo Airlines,True,136.07,7
+FL01104,Barcelona,BCN,București,OTP,2026-12-26,19:00,00:15 (+1),315,1,AeroDemo Low-Cost,False,79.59,1
+FL01105,Barcelona,BCN,Paris,CDG,2026-12-26,06:00,09:00,180,1,EuroTest Express,False,70.49,12
+FL01106,Barcelona,BCN,Paris,CDG,2026-12-26,08:30,10:15,105,0,EuroTest Express,False,92.2,20
+FL01107,București,OTP,Amsterdam,AMS,2026-12-26,07:00,10:25,205,0,SkyLab Air,True,197.47,1
+FL01108,București,OTP,Amsterdam,AMS,2026-12-26,15:30,18:55,205,0,Carpatia Demo Airlines,True,136.25,0
+FL01109,București,OTP,Barcelona,BCN,2026-12-26,08:00,11:45,225,0,Carpatia Demo Airlines,True,247.6,20
+FL01110,București,OTP,Barcelona,BCN,2026-12-26,19:45,23:30,225,0,SkyLab Air,True,113.64,20
+FL01111,București,OTP,Paris,CDG,2026-12-26,09:00,12:20,200,0,AeroDemo Low-Cost,False,144.54,1
+FL01112,București,OTP,Paris,CDG,2026-12-26,13:45,17:05,200,0,AeroDemo Low-Cost,False,127.14,20
+FL01113,București,OTP,Roma,FCO,2026-12-26,07:15,09:30,135,0,EuroTest Express,False,137.22,2
+FL01114,București,OTP,Roma,FCO,2026-12-26,13:15,15:30,135,0,AeroDemo Low-Cost,False,103.98,7
+FL01115,București,OTP,Viena,VIE,2026-12-26,11:45,13:35,110,0,EuroTest Express,False,100.52,9
+FL01116,București,OTP,Viena,VIE,2026-12-26,17:30,19:20,110,0,Carpatia Demo Airlines,True,116.23,9
+FL01117,Cluj-Napoca,CLJ,Paris,CDG,2026-12-26,06:30,09:15,165,0,EuroTest Express,False,141.13,20
+FL01118,Cluj-Napoca,CLJ,Paris,CDG,2026-12-26,06:30,09:15,165,0,AeroDemo Low-Cost,False,154.51,12
+FL01119,Cluj-Napoca,CLJ,Roma,FCO,2026-12-26,15:00,18:30,210,1,AeroDemo Low-Cost,False,73.49,20
+FL01120,Cluj-Napoca,CLJ,Roma,FCO,2026-12-26,17:30,20:45,195,1,EuroTest Express,False,63.39,4
+FL01121,Cluj-Napoca,CLJ,Viena,VIE,2026-12-26,09:15,10:40,85,0,AeroDemo Low-Cost,False,57.87,1
+FL01122,Cluj-Napoca,CLJ,Viena,VIE,2026-12-26,21:00,00:25 (+1),205,1,Carpatia Demo Airlines,True,56.13,12
+FL01123,Paris,CDG,Barcelona,BCN,2026-12-26,13:15,15:00,105,0,AeroDemo Low-Cost,False,57.97,1
+FL01124,Paris,CDG,Barcelona,BCN,2026-12-26,17:45,19:30,105,0,AeroDemo Low-Cost,False,96.89,9
+FL01125,Paris,CDG,București,OTP,2026-12-26,08:30,11:50,200,0,EuroTest Express,False,142.98,1
+FL01126,Paris,CDG,București,OTP,2026-12-26,08:30,11:50,200,0,EuroTest Express,False,220.05,4
+FL01127,Paris,CDG,Cluj-Napoca,CLJ,2026-12-26,15:45,20:00,255,1,EuroTest Express,False,65.69,4
+FL01128,Paris,CDG,Cluj-Napoca,CLJ,2026-12-26,19:45,00:00 (+1),255,1,Carpatia Demo Airlines,True,111.71,0
+FL01129,Paris,CDG,Roma,FCO,2026-12-26,15:00,17:05,125,0,AeroDemo Low-Cost,False,108.52,0
+FL01130,Paris,CDG,Roma,FCO,2026-12-26,15:00,17:05,125,0,Carpatia Demo Airlines,True,143.16,4
+FL01131,Roma,FCO,București,OTP,2026-12-26,08:45,12:30,225,1,SkyLab Air,True,81.42,1
+FL01132,Roma,FCO,București,OTP,2026-12-26,21:15,01:00 (+1),225,1,AeroDemo Low-Cost,False,75.27,12
+FL01133,Roma,FCO,Cluj-Napoca,CLJ,2026-12-26,21:15,23:15,120,0,EuroTest Express,False,98.77,1
+FL01134,Roma,FCO,Cluj-Napoca,CLJ,2026-12-26,21:15,23:15,120,0,EuroTest Express,False,109.85,7
+FL01135,Roma,FCO,Paris,CDG,2026-12-26,07:15,09:20,125,0,SkyLab Air,True,176.03,20
+FL01136,Roma,FCO,Paris,CDG,2026-12-26,17:00,19:05,125,0,SkyLab Air,True,182.18,0
+FL01137,Roma,FCO,Viena,VIE,2026-12-26,09:15,10:50,95,0,SkyLab Air,True,89.53,20
+FL01138,Roma,FCO,Viena,VIE,2026-12-26,13:30,15:05,95,0,SkyLab Air,True,85.81,9
+FL01139,Viena,VIE,București,OTP,2026-12-26,06:00,07:50,110,0,AeroDemo Low-Cost,False,58.79,20
+FL01140,Viena,VIE,București,OTP,2026-12-26,21:30,00:35 (+1),185,1,Carpatia Demo Airlines,True,117.51,2
+FL01141,Viena,VIE,Cluj-Napoca,CLJ,2026-12-26,06:30,07:55,85,0,AeroDemo Low-Cost,False,54.1,20
+FL01142,Viena,VIE,Cluj-Napoca,CLJ,2026-12-26,06:30,07:55,85,0,EuroTest Express,False,97.29,1
+FL01143,Viena,VIE,Roma,FCO,2026-12-26,06:15,07:50,95,0,Carpatia Demo Airlines,True,72.98,0
+FL01144,Viena,VIE,Roma,FCO,2026-12-26,19:15,20:50,95,0,Carpatia Demo Airlines,True,91.72,9
+FL01145,Amsterdam,AMS,București,OTP,2026-12-27,13:30,16:55,205,0,Carpatia Demo Airlines,True,111.63,20
+FL01146,Amsterdam,AMS,București,OTP,2026-12-27,13:45,17:10,205,0,SkyLab Air,True,201.44,12
+FL01147,Barcelona,BCN,București,OTP,2026-12-27,11:15,17:00,345,1,Carpatia Demo Airlines,True,215.05,20
+FL01148,Barcelona,BCN,București,OTP,2026-12-27,21:15,01:00 (+1),225,0,EuroTest Express,False,133.81,2
+FL01149,Barcelona,BCN,Paris,CDG,2026-12-27,08:45,11:45,180,1,Carpatia Demo Airlines,True,119.39,4
+FL01150,Barcelona,BCN,Paris,CDG,2026-12-27,11:15,13:00,105,0,EuroTest Express,False,117.27,20
+FL01151,București,OTP,Amsterdam,AMS,2026-12-27,11:45,15:10,205,0,EuroTest Express,False,147.96,0
+FL01152,București,OTP,Amsterdam,AMS,2026-12-27,21:15,00:40 (+1),205,0,SkyLab Air,True,163.61,1
+FL01153,București,OTP,Barcelona,BCN,2026-12-27,09:45,13:30,225,0,EuroTest Express,False,144.96,12
+FL01154,București,OTP,Barcelona,BCN,2026-12-27,21:45,01:30 (+1),225,0,EuroTest Express,False,101.94,2
+FL01155,București,OTP,Paris,CDG,2026-12-27,09:15,12:35,200,0,AeroDemo Low-Cost,False,99.56,7
+FL01156,București,OTP,Paris,CDG,2026-12-27,19:15,22:35,200,0,EuroTest Express,False,114.91,2
+FL01157,București,OTP,Roma,FCO,2026-12-27,06:45,10:15,210,1,EuroTest Express,False,114.32,4
+FL01158,București,OTP,Roma,FCO,2026-12-27,09:15,11:30,135,0,EuroTest Express,False,118.78,9
+FL01159,București,OTP,Viena,VIE,2026-12-27,08:30,10:20,110,0,SkyLab Air,True,100.1,20
+FL01160,București,OTP,Viena,VIE,2026-12-27,17:00,18:50,110,0,EuroTest Express,False,92.51,9
+FL01161,Cluj-Napoca,CLJ,Paris,CDG,2026-12-27,08:45,11:30,165,0,SkyLab Air,True,125.64,4
+FL01162,Cluj-Napoca,CLJ,Paris,CDG,2026-12-27,15:45,18:30,165,0,Carpatia Demo Airlines,True,182.08,0
+FL01163,Cluj-Napoca,CLJ,Roma,FCO,2026-12-27,07:00,09:00,120,0,Carpatia Demo Airlines,True,89.81,4
+FL01164,Cluj-Napoca,CLJ,Roma,FCO,2026-12-27,07:30,09:30,120,0,EuroTest Express,False,75.66,1
+FL01165,Cluj-Napoca,CLJ,Viena,VIE,2026-12-27,06:30,07:55,85,0,SkyLab Air,True,101.28,2
+FL01166,Cluj-Napoca,CLJ,Viena,VIE,2026-12-27,06:45,08:10,85,0,Carpatia Demo Airlines,True,111.08,9
+FL01167,Paris,CDG,Barcelona,BCN,2026-12-27,07:15,11:00,225,1,SkyLab Air,True,95.56,1
+FL01168,Paris,CDG,Barcelona,BCN,2026-12-27,09:15,11:00,105,0,SkyLab Air,True,101.16,20
+FL01169,Paris,CDG,București,OTP,2026-12-27,06:15,09:35,200,0,Carpatia Demo Airlines,True,195.59,1
+FL01170,Paris,CDG,București,OTP,2026-12-27,11:45,15:05,200,0,Carpatia Demo Airlines,True,153.38,9
+FL01171,Paris,CDG,Cluj-Napoca,CLJ,2026-12-27,09:45,12:30,165,0,AeroDemo Low-Cost,False,110.88,20
+FL01172,Paris,CDG,Cluj-Napoca,CLJ,2026-12-27,21:45,02:30 (+1),285,1,SkyLab Air,True,177.01,9
+FL01173,Paris,CDG,Roma,FCO,2026-12-27,07:45,11:20,215,1,AeroDemo Low-Cost,False,59.88,7
+FL01174,Paris,CDG,Roma,FCO,2026-12-27,13:00,15:05,125,0,AeroDemo Low-Cost,False,80.2,12
+FL01175,Roma,FCO,București,OTP,2026-12-27,08:00,11:45,225,1,SkyLab Air,True,59.58,9
+FL01176,Roma,FCO,București,OTP,2026-12-27,08:30,10:45,135,0,AeroDemo Low-Cost,False,64.88,9
+FL01177,Roma,FCO,Cluj-Napoca,CLJ,2026-12-27,08:30,10:30,120,0,EuroTest Express,False,113.09,7
+FL01178,Roma,FCO,Cluj-Napoca,CLJ,2026-12-27,13:30,17:00,210,1,Carpatia Demo Airlines,True,104.96,7
+FL01179,Roma,FCO,Paris,CDG,2026-12-27,07:15,10:35,200,1,Carpatia Demo Airlines,True,128.08,20
+FL01180,Roma,FCO,Paris,CDG,2026-12-27,09:45,11:50,125,0,AeroDemo Low-Cost,False,80.37,20
+FL01181,Roma,FCO,Viena,VIE,2026-12-27,08:00,09:35,95,0,SkyLab Air,True,121.24,0
+FL01182,Roma,FCO,Viena,VIE,2026-12-27,08:45,10:20,95,0,SkyLab Air,True,75.15,12
+FL01183,Viena,VIE,București,OTP,2026-12-27,09:45,12:50,185,1,EuroTest Express,False,71.09,7
+FL01184,Viena,VIE,București,OTP,2026-12-27,21:45,23:35,110,0,SkyLab Air,True,152.76,0
+FL01185,Viena,VIE,Cluj-Napoca,CLJ,2026-12-27,13:45,16:40,175,1,EuroTest Express,False,49.3,12
+FL01186,Viena,VIE,Cluj-Napoca,CLJ,2026-12-27,15:30,16:55,85,0,EuroTest Express,False,83.49,0
+FL01187,Viena,VIE,Roma,FCO,2026-12-27,17:30,19:05,95,0,Carpatia Demo Airlines,True,121.85,7
+FL01188,Viena,VIE,Roma,FCO,2026-12-27,17:45,19:20,95,0,Carpatia Demo Airlines,True,100.33,1
+FL01189,Amsterdam,AMS,București,OTP,2026-12-28,07:30,10:55,205,0,EuroTest Express,False,172.23,2
+FL01190,Amsterdam,AMS,București,OTP,2026-12-28,13:45,18:25,280,1,Carpatia Demo Airlines,True,119.55,20
+FL01191,Barcelona,BCN,București,OTP,2026-12-28,06:45,10:30,225,0,AeroDemo Low-Cost,False,171.74,9
+FL01192,Barcelona,BCN,București,OTP,2026-12-28,06:45,11:45,300,1,EuroTest Express,False,170.45,9
+FL01193,Barcelona,BCN,Paris,CDG,2026-12-28,08:15,10:00,105,0,SkyLab Air,True,146.28,9
+FL01194,Barcelona,BCN,Paris,CDG,2026-12-28,13:00,14:45,105,0,SkyLab Air,True,94.77,12
+FL01195,București,OTP,Amsterdam,AMS,2026-12-28,07:30,10:55,205,0,EuroTest Express,False,163.08,0
+FL01196,București,OTP,Amsterdam,AMS,2026-12-28,15:30,18:55,205,0,AeroDemo Low-Cost,False,130.99,1
+FL01197,București,OTP,Barcelona,BCN,2026-12-28,13:15,18:15,300,1,Carpatia Demo Airlines,True,157.95,4
+FL01198,București,OTP,Barcelona,BCN,2026-12-28,19:00,22:45,225,0,SkyLab Air,True,200.84,20
+FL01199,București,OTP,Paris,CDG,2026-12-28,07:00,10:20,200,0,SkyLab Air,True,187.39,20
+FL01200,București,OTP,Paris,CDG,2026-12-28,11:00,16:20,320,1,SkyLab Air,True,190.59,9
+FL01201,București,OTP,Roma,FCO,2026-12-28,08:30,10:45,135,0,EuroTest Express,False,88.78,1
+FL01202,București,OTP,Roma,FCO,2026-12-28,15:00,17:15,135,0,EuroTest Express,False,54.78,1
+FL01203,București,OTP,Viena,VIE,2026-12-28,07:15,09:05,110,0,EuroTest Express,False,100.18,2
+FL01204,București,OTP,Viena,VIE,2026-12-28,19:00,22:20,200,1,EuroTest Express,False,57.56,4
+FL01205,Cluj-Napoca,CLJ,Paris,CDG,2026-12-28,06:45,09:30,165,0,Carpatia Demo Airlines,True,164.43,0
+FL01206,Cluj-Napoca,CLJ,Paris,CDG,2026-12-28,13:30,16:15,165,0,EuroTest Express,False,87.28,0
+FL01207,Cluj-Napoca,CLJ,Roma,FCO,2026-12-28,09:00,11:00,120,0,SkyLab Air,True,57.54,1
+FL01208,Cluj-Napoca,CLJ,Roma,FCO,2026-12-28,15:15,19:15,240,1,Carpatia Demo Airlines,True,48.23,2
+FL01209,Cluj-Napoca,CLJ,Viena,VIE,2026-12-28,08:15,10:55,160,1,EuroTest Express,False,57.8,12
+FL01210,Cluj-Napoca,CLJ,Viena,VIE,2026-12-28,09:15,10:40,85,0,SkyLab Air,True,59.68,4
+FL01211,Paris,CDG,Barcelona,BCN,2026-12-28,11:00,12:45,105,0,Carpatia Demo Airlines,True,127.08,1
+FL01212,Paris,CDG,Barcelona,BCN,2026-12-28,13:45,15:30,105,0,AeroDemo Low-Cost,False,104.33,12
+FL01213,Paris,CDG,București,OTP,2026-12-28,11:15,14:35,200,0,EuroTest Express,False,174.34,1
+FL01214,Paris,CDG,București,OTP,2026-12-28,19:45,23:05,200,0,EuroTest Express,False,86.21,0
+FL01215,Paris,CDG,Cluj-Napoca,CLJ,2026-12-28,09:45,12:30,165,0,EuroTest Express,False,98.86,20
+FL01216,Paris,CDG,Cluj-Napoca,CLJ,2026-12-28,17:00,21:00,240,1,AeroDemo Low-Cost,False,54.33,2
+FL01217,Paris,CDG,Roma,FCO,2026-12-28,17:15,19:20,125,0,AeroDemo Low-Cost,False,111.11,0
+FL01218,Paris,CDG,Roma,FCO,2026-12-28,17:30,19:35,125,0,SkyLab Air,True,118.61,20
+FL01219,Roma,FCO,București,OTP,2026-12-28,08:30,10:45,135,0,Carpatia Demo Airlines,True,96.05,20
+FL01220,Roma,FCO,București,OTP,2026-12-28,17:45,21:30,225,1,AeroDemo Low-Cost,False,78.67,4
+FL01221,Roma,FCO,Cluj-Napoca,CLJ,2026-12-28,09:15,11:15,120,0,Carpatia Demo Airlines,True,66.24,0
+FL01222,Roma,FCO,Cluj-Napoca,CLJ,2026-12-28,21:45,23:45,120,0,EuroTest Express,False,105.68,2
+FL01223,Roma,FCO,Paris,CDG,2026-12-28,11:15,13:20,125,0,SkyLab Air,True,134.49,7
+FL01224,Roma,FCO,Paris,CDG,2026-12-28,15:15,17:20,125,0,SkyLab Air,True,66.26,12
+FL01225,Roma,FCO,Viena,VIE,2026-12-28,07:45,10:50,185,1,AeroDemo Low-Cost,False,65.53,1
+FL01226,Roma,FCO,Viena,VIE,2026-12-28,08:45,10:20,95,0,EuroTest Express,False,85.83,12
+FL01227,Viena,VIE,București,OTP,2026-12-28,06:45,08:35,110,0,Carpatia Demo Airlines,True,74.75,12
+FL01228,Viena,VIE,București,OTP,2026-12-28,15:45,17:35,110,0,EuroTest Express,False,61.54,1
+FL01229,Viena,VIE,Cluj-Napoca,CLJ,2026-12-28,13:45,15:10,85,0,AeroDemo Low-Cost,False,42.96,20
+FL01230,Viena,VIE,Cluj-Napoca,CLJ,2026-12-28,17:15,18:40,85,0,Carpatia Demo Airlines,True,98.4,20
+FL01231,Viena,VIE,Roma,FCO,2026-12-28,06:30,10:05,215,1,EuroTest Express,False,73.75,0
+FL01232,Viena,VIE,Roma,FCO,2026-12-28,17:15,18:50,95,0,EuroTest Express,False,57.75,2
+FL01233,Amsterdam,AMS,București,OTP,2026-12-29,07:30,10:55,205,0,EuroTest Express,False,210.13,20
+FL01234,Amsterdam,AMS,București,OTP,2026-12-29,07:45,11:10,205,0,EuroTest Express,False,152.56,4
+FL01235,Barcelona,BCN,București,OTP,2026-12-29,13:45,17:30,225,0,SkyLab Air,True,153.55,9
+FL01236,Barcelona,BCN,București,OTP,2026-12-29,13:45,17:30,225,0,Carpatia Demo Airlines,True,171.88,9
+FL01237,Barcelona,BCN,Paris,CDG,2026-12-29,09:00,12:15,195,1,EuroTest Express,False,87.25,1
+FL01238,Barcelona,BCN,Paris,CDG,2026-12-29,15:15,17:00,105,0,EuroTest Express,False,56.22,20
+FL01239,București,OTP,Amsterdam,AMS,2026-12-29,07:30,10:55,205,0,SkyLab Air,True,247.99,20
+FL01240,București,OTP,Amsterdam,AMS,2026-12-29,11:15,14:40,205,0,AeroDemo Low-Cost,False,90.96,0
+FL01241,București,OTP,Barcelona,BCN,2026-12-29,07:00,10:45,225,0,SkyLab Air,True,138.05,0
+FL01242,București,OTP,Barcelona,BCN,2026-12-29,19:00,00:15 (+1),315,1,AeroDemo Low-Cost,False,116.17,7
+FL01243,București,OTP,Paris,CDG,2026-12-29,07:45,11:05,200,0,EuroTest Express,False,171.55,2
+FL01244,București,OTP,Paris,CDG,2026-12-29,08:15,13:05,290,1,EuroTest Express,False,162.41,12
+FL01245,București,OTP,Roma,FCO,2026-12-29,07:00,09:15,135,0,Carpatia Demo Airlines,True,101.5,9
+FL01246,București,OTP,Roma,FCO,2026-12-29,09:45,12:00,135,0,EuroTest Express,False,71.85,2
+FL01247,București,OTP,Viena,VIE,2026-12-29,06:45,08:35,110,0,Carpatia Demo Airlines,True,81.26,2
+FL01248,București,OTP,Viena,VIE,2026-12-29,19:30,21:20,110,0,AeroDemo Low-Cost,False,86.28,4
+FL01249,Cluj-Napoca,CLJ,Paris,CDG,2026-12-29,07:30,12:15,285,1,Carpatia Demo Airlines,True,118.93,4
+FL01250,Cluj-Napoca,CLJ,Paris,CDG,2026-12-29,15:45,18:30,165,0,Carpatia Demo Airlines,True,98.95,1
+FL01251,Cluj-Napoca,CLJ,Roma,FCO,2026-12-29,07:00,10:30,210,1,EuroTest Express,False,96.58,0
+FL01252,Cluj-Napoca,CLJ,Roma,FCO,2026-12-29,13:45,15:45,120,0,EuroTest Express,False,60.71,7
+FL01253,Cluj-Napoca,CLJ,Viena,VIE,2026-12-29,08:15,09:40,85,0,Carpatia Demo Airlines,True,68.34,20
+FL01254,Cluj-Napoca,CLJ,Viena,VIE,2026-12-29,11:15,14:10,175,1,Carpatia Demo Airlines,True,73.66,2
+FL01255,Paris,CDG,Barcelona,BCN,2026-12-29,08:15,10:00,105,0,Carpatia Demo Airlines,True,111.6,7
+FL01256,Paris,CDG,Barcelona,BCN,2026-12-29,19:45,21:30,105,0,EuroTest Express,False,58.79,0
+FL01257,Paris,CDG,București,OTP,2026-12-29,11:00,14:20,200,0,AeroDemo Low-Cost,False,71.69,4
+FL01258,Paris,CDG,București,OTP,2026-12-29,21:00,00:20 (+1),200,0,SkyLab Air,True,117.9,7
+FL01259,Paris,CDG,Cluj-Napoca,CLJ,2026-12-29,08:30,11:15,165,0,AeroDemo Low-Cost,False,110.58,0
+FL01260,Paris,CDG,Cluj-Napoca,CLJ,2026-12-29,19:15,23:30,255,1,Carpatia Demo Airlines,True,155.56,9
+FL01261,Paris,CDG,Roma,FCO,2026-12-29,15:00,17:05,125,0,Carpatia Demo Airlines,True,122.27,7
+FL01262,Paris,CDG,Roma,FCO,2026-12-29,19:45,21:50,125,0,EuroTest Express,False,86.01,20
+FL01263,Roma,FCO,București,OTP,2026-12-29,07:45,12:00,255,1,SkyLab Air,True,82.97,7
+FL01264,Roma,FCO,București,OTP,2026-12-29,13:15,17:30,255,1,SkyLab Air,True,61.34,20
+FL01265,Roma,FCO,Cluj-Napoca,CLJ,2026-12-29,07:15,09:15,120,0,SkyLab Air,True,108.77,20
+FL01266,Roma,FCO,Cluj-Napoca,CLJ,2026-12-29,13:15,15:15,120,0,AeroDemo Low-Cost,False,87.18,1
+FL01267,Roma,FCO,Paris,CDG,2026-12-29,06:15,08:20,125,0,EuroTest Express,False,110.1,7
+FL01268,Roma,FCO,Paris,CDG,2026-12-29,15:00,17:05,125,0,Carpatia Demo Airlines,True,71.9,4
+FL01269,Roma,FCO,Viena,VIE,2026-12-29,07:00,09:50,170,1,Carpatia Demo Airlines,True,68.97,4
+FL01270,Roma,FCO,Viena,VIE,2026-12-29,07:45,09:20,95,0,SkyLab Air,True,80.99,20
+FL01271,Viena,VIE,București,OTP,2026-12-29,06:30,08:20,110,0,AeroDemo Low-Cost,False,67.59,20
+FL01272,Viena,VIE,București,OTP,2026-12-29,17:45,19:35,110,0,Carpatia Demo Airlines,True,64.99,9
+FL01273,Viena,VIE,Cluj-Napoca,CLJ,2026-12-29,06:30,09:25,175,1,Carpatia Demo Airlines,True,63.94,1
+FL01274,Viena,VIE,Cluj-Napoca,CLJ,2026-12-29,21:45,23:10,85,0,Carpatia Demo Airlines,True,96.23,20
+FL01275,Viena,VIE,Roma,FCO,2026-12-29,07:15,10:20,185,1,SkyLab Air,True,75.83,2
+FL01276,Viena,VIE,Roma,FCO,2026-12-29,07:30,09:05,95,0,EuroTest Express,False,69.53,2
+FL01277,Amsterdam,AMS,București,OTP,2026-12-30,06:15,09:40,205,0,Carpatia Demo Airlines,True,226.49,12
+FL01278,Amsterdam,AMS,București,OTP,2026-12-30,11:45,15:10,205,0,EuroTest Express,False,151.08,7
+FL01279,Barcelona,BCN,București,OTP,2026-12-30,11:30,16:45,315,1,SkyLab Air,True,165.61,2
+FL01280,Barcelona,BCN,București,OTP,2026-12-30,21:15,01:00 (+1),225,0,EuroTest Express,False,124.21,2
+FL01281,Barcelona,BCN,Paris,CDG,2026-12-30,09:00,10:45,105,0,AeroDemo Low-Cost,False,62.35,2
+FL01282,Barcelona,BCN,Paris,CDG,2026-12-30,17:45,20:45,180,1,Carpatia Demo Airlines,True,56.15,12
+FL01283,București,OTP,Amsterdam,AMS,2026-12-30,13:30,16:55,205,0,Carpatia Demo Airlines,True,114.14,4
+FL01284,București,OTP,Amsterdam,AMS,2026-12-30,15:15,20:10,295,1,Carpatia Demo Airlines,True,193.15,1
+FL01285,București,OTP,Barcelona,BCN,2026-12-30,06:15,10:00,225,0,EuroTest Express,False,103.5,7
+FL01286,București,OTP,Barcelona,BCN,2026-12-30,17:30,23:15,345,1,SkyLab Air,True,198.45,9
+FL01287,București,OTP,Paris,CDG,2026-12-30,07:00,10:20,200,0,SkyLab Air,True,175.79,2
+FL01288,București,OTP,Paris,CDG,2026-12-30,07:15,10:35,200,0,EuroTest Express,False,157.75,0
+FL01289,București,OTP,Roma,FCO,2026-12-30,15:30,17:45,135,0,EuroTest Express,False,58.37,9
+FL01290,București,OTP,Roma,FCO,2026-12-30,21:45,00:00 (+1),135,0,AeroDemo Low-Cost,False,89.13,1
+FL01291,București,OTP,Viena,VIE,2026-12-30,11:15,13:05,110,0,AeroDemo Low-Cost,False,63.2,2
+FL01292,București,OTP,Viena,VIE,2026-12-30,11:45,13:35,110,0,SkyLab Air,True,67.75,4
+FL01293,Cluj-Napoca,CLJ,Paris,CDG,2026-12-30,07:30,10:15,165,0,EuroTest Express,False,143.77,1
+FL01294,Cluj-Napoca,CLJ,Paris,CDG,2026-12-30,09:00,13:00,240,1,AeroDemo Low-Cost,False,93.87,1
+FL01295,Cluj-Napoca,CLJ,Roma,FCO,2026-12-30,08:15,10:15,120,0,AeroDemo Low-Cost,False,63.61,7
+FL01296,Cluj-Napoca,CLJ,Roma,FCO,2026-12-30,19:45,21:45,120,0,EuroTest Express,False,86.17,7
+FL01297,Cluj-Napoca,CLJ,Viena,VIE,2026-12-30,19:15,20:40,85,0,SkyLab Air,True,52.51,2
+FL01298,Cluj-Napoca,CLJ,Viena,VIE,2026-12-30,19:30,20:55,85,0,AeroDemo Low-Cost,False,85.5,0
+FL01299,Paris,CDG,Barcelona,BCN,2026-12-30,13:30,15:15,105,0,EuroTest Express,False,80.71,2
+FL01300,Paris,CDG,Barcelona,BCN,2026-12-30,17:00,20:00,180,1,SkyLab Air,True,109.97,7
+FL01301,Paris,CDG,București,OTP,2026-12-30,06:00,09:20,200,0,AeroDemo Low-Cost,False,120.75,9
+FL01302,Paris,CDG,București,OTP,2026-12-30,06:15,09:35,200,0,EuroTest Express,False,82.57,7
+FL01303,Paris,CDG,Cluj-Napoca,CLJ,2026-12-30,17:00,19:45,165,0,Carpatia Demo Airlines,True,149.35,2
+FL01304,Paris,CDG,Cluj-Napoca,CLJ,2026-12-30,19:00,21:45,165,0,SkyLab Air,True,83.21,4
+FL01305,Paris,CDG,Roma,FCO,2026-12-30,07:00,09:05,125,0,Carpatia Demo Airlines,True,136.61,2
+FL01306,Paris,CDG,Roma,FCO,2026-12-30,07:45,09:50,125,0,SkyLab Air,True,83.42,2
+FL01307,Roma,FCO,București,OTP,2026-12-30,19:15,21:30,135,0,AeroDemo Low-Cost,False,96.94,0
+FL01308,Roma,FCO,București,OTP,2026-12-30,19:45,22:00,135,0,SkyLab Air,True,106.81,1
+FL01309,Roma,FCO,Cluj-Napoca,CLJ,2026-12-30,13:15,15:15,120,0,AeroDemo Low-Cost,False,77.59,20
+FL01310,Roma,FCO,Cluj-Napoca,CLJ,2026-12-30,13:45,15:45,120,0,EuroTest Express,False,65.26,12
+FL01311,Roma,FCO,Paris,CDG,2026-12-30,17:00,19:05,125,0,SkyLab Air,True,64.92,20
+FL01312,Roma,FCO,Paris,CDG,2026-12-30,21:45,01:05 (+1),200,1,Carpatia Demo Airlines,True,118.57,0
+FL01313,Roma,FCO,Viena,VIE,2026-12-30,15:15,16:50,95,0,SkyLab Air,True,125.43,0
+FL01314,Roma,FCO,Viena,VIE,2026-12-30,19:00,22:35,215,1,EuroTest Express,False,48.5,9
+FL01315,Viena,VIE,București,OTP,2026-12-30,13:45,15:35,110,0,SkyLab Air,True,57.94,4
+FL01316,Viena,VIE,București,OTP,2026-12-30,19:00,20:50,110,0,AeroDemo Low-Cost,False,73.92,1
+FL01317,Viena,VIE,Cluj-Napoca,CLJ,2026-12-30,09:00,10:25,85,0,Carpatia Demo Airlines,True,62.15,7
+FL01318,Viena,VIE,Cluj-Napoca,CLJ,2026-12-30,15:45,17:10,85,0,Carpatia Demo Airlines,True,53.87,1
+FL01319,Viena,VIE,Roma,FCO,2026-12-30,13:00,14:35,95,0,SkyLab Air,True,102.92,20
+FL01320,Viena,VIE,Roma,FCO,2026-12-30,17:45,21:20,215,1,Carpatia Demo Airlines,True,82.4,9
+FL01321,Amsterdam,AMS,București,OTP,2026-12-31,15:45,19:10,205,0,EuroTest Express,False,151.52,1
+FL01322,Amsterdam,AMS,București,OTP,2026-12-31,19:45,23:10,205,0,EuroTest Express,False,182.72,12
+FL01323,Barcelona,BCN,București,OTP,2026-12-31,07:00,10:45,225,0,Carpatia Demo Airlines,True,91.54,2
+FL01324,Barcelona,BCN,București,OTP,2026-12-31,13:30,17:15,225,0,Carpatia Demo Airlines,True,177.19,4
+FL01325,Barcelona,BCN,Paris,CDG,2026-12-31,11:00,14:00,180,1,EuroTest Express,False,93.45,1
+FL01326,Barcelona,BCN,Paris,CDG,2026-12-31,15:15,18:15,180,1,Carpatia Demo Airlines,True,109.91,0
+FL01327,București,OTP,Amsterdam,AMS,2026-12-31,07:45,11:10,205,0,Carpatia Demo Airlines,True,161.39,0
+FL01328,București,OTP,Amsterdam,AMS,2026-12-31,08:30,11:55,205,0,EuroTest Express,False,205.02,0
+FL01329,București,OTP,Barcelona,BCN,2026-12-31,08:00,11:45,225,0,Carpatia Demo Airlines,True,96.71,9
+FL01330,București,OTP,Barcelona,BCN,2026-12-31,11:00,14:45,225,0,EuroTest Express,False,103.11,20
+FL01331,București,OTP,Paris,CDG,2026-12-31,09:00,13:35,275,1,SkyLab Air,True,125.99,7
+FL01332,București,OTP,Paris,CDG,2026-12-31,15:00,19:50,290,1,EuroTest Express,False,163.15,2
+FL01333,București,OTP,Roma,FCO,2026-12-31,06:45,09:00,135,0,SkyLab Air,True,86.14,20
+FL01334,București,OTP,Roma,FCO,2026-12-31,09:15,11:30,135,0,AeroDemo Low-Cost,False,77.18,4
+FL01335,București,OTP,Viena,VIE,2026-12-31,07:15,11:05,230,1,SkyLab Air,True,100.21,1
+FL01336,București,OTP,Viena,VIE,2026-12-31,09:15,11:05,110,0,AeroDemo Low-Cost,False,67.68,1
+FL01337,Cluj-Napoca,CLJ,Paris,CDG,2026-12-31,09:00,11:45,165,0,EuroTest Express,False,131.58,9
+FL01338,Cluj-Napoca,CLJ,Paris,CDG,2026-12-31,19:30,00:15 (+1),285,1,Carpatia Demo Airlines,True,75.61,7
+FL01339,Cluj-Napoca,CLJ,Roma,FCO,2026-12-31,06:15,10:15,240,1,Carpatia Demo Airlines,True,57.17,0
+FL01340,Cluj-Napoca,CLJ,Roma,FCO,2026-12-31,19:30,21:30,120,0,SkyLab Air,True,127.08,7
+FL01341,Cluj-Napoca,CLJ,Viena,VIE,2026-12-31,15:15,16:40,85,0,EuroTest Express,False,52.03,12
+FL01342,Cluj-Napoca,CLJ,Viena,VIE,2026-12-31,21:15,22:40,85,0,Carpatia Demo Airlines,True,57.1,7
+FL01343,Paris,CDG,Barcelona,BCN,2026-12-31,07:30,09:15,105,0,AeroDemo Low-Cost,False,49.25,2
+FL01344,Paris,CDG,Barcelona,BCN,2026-12-31,17:15,19:00,105,0,SkyLab Air,True,89.95,2
+FL01345,Paris,CDG,București,OTP,2026-12-31,13:30,18:20,290,1,Carpatia Demo Airlines,True,150.77,4
+FL01346,Paris,CDG,București,OTP,2026-12-31,15:45,20:20,275,1,EuroTest Express,False,115.84,0
+FL01347,Paris,CDG,Cluj-Napoca,CLJ,2026-12-31,06:00,08:45,165,0,EuroTest Express,False,141.29,12
+FL01348,Paris,CDG,Cluj-Napoca,CLJ,2026-12-31,06:30,09:15,165,0,Carpatia Demo Airlines,True,155.29,7
+FL01349,Paris,CDG,Roma,FCO,2026-12-31,06:00,08:05,125,0,AeroDemo Low-Cost,False,100.39,0
+FL01350,Paris,CDG,Roma,FCO,2026-12-31,07:30,10:50,200,1,EuroTest Express,False,107.76,0
+FL01351,Roma,FCO,București,OTP,2026-12-31,07:15,09:30,135,0,SkyLab Air,True,149.48,2
+FL01352,Roma,FCO,București,OTP,2026-12-31,11:15,13:30,135,0,Carpatia Demo Airlines,True,121.81,4
+FL01353,Roma,FCO,Cluj-Napoca,CLJ,2026-12-31,08:15,10:15,120,0,Carpatia Demo Airlines,True,91.28,7
+FL01354,Roma,FCO,Cluj-Napoca,CLJ,2026-12-31,11:15,13:15,120,0,AeroDemo Low-Cost,False,93.7,0
+FL01355,Roma,FCO,Paris,CDG,2026-12-31,15:00,17:05,125,0,EuroTest Express,False,94.25,0
+FL01356,Roma,FCO,Paris,CDG,2026-12-31,15:15,17:20,125,0,EuroTest Express,False,63.98,12
+FL01357,Roma,FCO,Viena,VIE,2026-12-31,08:45,10:20,95,0,AeroDemo Low-Cost,False,56.24,2
+FL01358,Roma,FCO,Viena,VIE,2026-12-31,13:00,16:05,185,1,Carpatia Demo Airlines,True,94.87,1
+FL01359,Viena,VIE,București,OTP,2026-12-31,09:45,13:35,230,1,EuroTest Express,False,80.19,9
+FL01360,Viena,VIE,București,OTP,2026-12-31,21:30,23:20,110,0,AeroDemo Low-Cost,False,84.69,4
+FL01361,Viena,VIE,Cluj-Napoca,CLJ,2026-12-31,17:00,19:55,175,1,Carpatia Demo Airlines,True,46.39,2
+FL01362,Viena,VIE,Cluj-Napoca,CLJ,2026-12-31,17:15,20:40,205,1,EuroTest Express,False,46.7,7
+FL01363,Viena,VIE,Roma,FCO,2026-12-31,07:15,08:50,95,0,AeroDemo Low-Cost,False,91.16,7
+FL01364,Viena,VIE,Roma,FCO,2026-12-31,08:30,10:05,95,0,EuroTest Express,False,60.24,12

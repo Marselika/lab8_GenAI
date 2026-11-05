@@ -1,0 +1,134 @@
+{
+  "versiune": 2,
+  "salvat_la": "2026-11-05T21:04:02",
+  "nota": "Date FICTIVE pentru laborator - nu sunt prețuri reale, oferte actuale sau rezervări.",
+  "plan": {
+    "tool": "plan_itinerary_and_budget",
+    "status": "ok",
+    "status_plan": "complet",
+    "calatorie": {
+      "origine": "București",
+      "destinatie": "Viena",
+      "tara": "Austria",
+      "data_plecare": "2026-12-05",
+      "data_intoarcere": "2026-12-08",
+      "nopti": 3,
+      "zile": 4,
+      "calatori": 1
+    },
+    "zbor_dus": {
+      "flight_id": "FL00192",
+      "origin": "București",
+      "destination": "Viena",
+      "date": "2026-12-05",
+      "departure_time": "11:15",
+      "arrival_time": "14:20",
+      "duration_min": 185,
+      "stops": 1,
+      "airline": "EuroTest Express",
+      "baggage_included": false,
+      "price_eur": 65.31,
+      "seats_left": 1
+    },
+    "zbor_intors": {
+      "flight_id": "FL00347",
+      "origin": "Viena",
+      "destination": "București",
+      "date": "2026-12-08",
+      "departure_time": "09:15",
+      "arrival_time": "11:05",
+      "duration_min": 110,
+      "stops": 0,
+      "airline": "AeroDemo Low-Cost",
+      "baggage_included": false,
+      "price_eur": 43.4,
+      "seats_left": 12
+    },
+    "hotel": {
+      "hotel_id": "H031",
+      "name": "Lab Hostel Viena",
+      "district": "Innere Stadt",
+      "stars": 2,
+      "rating": 8.1,
+      "price_per_night_eur": 51,
+      "nights": 3,
+      "total_cost_eur": 153,
+      "breakfast_included": false,
+      "distance_center_km": 1.6
+    },
+    "itinerariu": [
+      {
+        "zi": 1,
+        "data": "2026-12-05",
+        "tip": "sosire",
+        "activitati": [
+          "Zbor FL00192 (EuroTest Express), plecare 11:15; check-in la hotel",
+          "Prater și roata Riesenrad (1.5 h, 14 EUR)"
+        ],
+        "ore_vizitare": 1.5,
+        "cost_obiective_eur": 14
+      },
+      {
+        "zi": 2,
+        "data": "2026-12-06",
+        "tip": "zi completă",
+        "activitati": [
+          "Palatul Schönbrunn (3 h, 24 EUR)",
+          "Palatul Belvedere (2 h, 17 EUR)"
+        ],
+        "ore_vizitare": 5,
+        "cost_obiective_eur": 41
+      },
+      {
+        "zi": 3,
+        "data": "2026-12-07",
+        "tip": "zi completă",
+        "activitati": [
+          "Catedrala Sf. Ștefan (1 h, 6 EUR)",
+          "Hofburg și Muzeul Sisi (2 h, 18 EUR)",
+          "Naschmarkt (1 h, 0 EUR)",
+          "Opera de Stat (tur ghidat) (1 h, 13 EUR)"
+        ],
+        "ore_vizitare": 5,
+        "cost_obiective_eur": 37
+      },
+      {
+        "zi": 4,
+        "data": "2026-12-08",
+        "tip": "plecare",
+        "activitati": [
+          "Timp liber / plimbare prin oraș",
+          "Check-out; zbor retur FL00347 la 09:15"
+        ],
+        "ore_vizitare": 0,
+        "cost_obiective_eur": 0
+      }
+    ],
+    "obiective_neincluse": [],
+    "buget": {
+      "buget_disponibil_eur": 600.0,
+      "zboruri_eur": 108.71,
+      "cazare_eur": 153,
+      "transport_local_eur": 32,
+      "mese_eur": 152,
+      "obiective_eur": 92,
+      "total_estimat_eur": 537.71,
+      "diferenta_eur": 62.29,
+      "status": "în buget"
+    },
+    "ipoteze": [
+      "1 călător; costuri în EUR",
+      "transport local 8 EUR/zi x 4 zile",
+      "mese 38 EUR/zi x 4 zile"
+    ],
+    "probleme": [],
+    "nota": "Date FICTIVE pentru laborator - nu sunt prețuri reale, oferte actuale sau rezervări."
+  },
+  "istoric_versiuni": [
+    {
+      "versiune": 1,
+      "salvat_la": "2026-11-05T21:03:53",
+      "rezumat": "București -> Viena, 2026-12-05 - 2026-12-08 (3 nopți), total estimat 537.71 EUR / buget 600.0 EUR"
+    }
+  ]
+}
